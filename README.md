@@ -18,6 +18,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 - [Miscellaneous](#miscellaneous)
 - [Contributing](#contributing)
 
+## Guides
+
+- [Welcome to CircuitPython!](https://learn.adafruit.com/welcome-to-circuitpython/overview)
+
 ## Community
 
 - []()
@@ -25,6 +29,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 ## Books
 
 - []()
+
 ## Resources
 
 - []()
