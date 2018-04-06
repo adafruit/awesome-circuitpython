@@ -46,7 +46,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 ## News
 
 - [Make: CircuitPython Snakes its Way onto Adafruit Hardware](http://makezine.com/2017/08/11/circuitpython-snakes-way-adafruit-hardware/)
-[Adafruit Circuit Playground Express review](https://hackspace.raspberrypi.org/features/adafruit-circuit-playground-express-review)
+- [Adafruit Circuit Playground Express review](https://hackspace.raspberrypi.org/features/adafruit-circuit-playground-express-review)
 
 ## Art
 
