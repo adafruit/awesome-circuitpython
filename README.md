@@ -51,10 +51,11 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 ## Hardware
 
-- []()
+- [CircuitPython boards & more @adafruit](https://www.adafruit.com/circuitpython)
 
 ## News
 
+- [CircuitPython posts on the Adafruit.com/blog](https://blog.adafruit.com/category/circuitpython/)
 - [Make: CircuitPython Snakes its Way onto Adafruit Hardware](http://makezine.com/2017/08/11/circuitpython-snakes-way-adafruit-hardware/)
 - [Adafruit Circuit Playground Express review](https://hackspace.raspberrypi.org/features/adafruit-circuit-playground-express-review)
 
