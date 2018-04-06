@@ -84,7 +84,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 ## Contributing
 
-Contributions and suggestions are always welcome! Please take a look at the [contribution guidelines](https://github.com/adafruit/awesome-circuitpython/blob/master/contributing.md) first.
+Contributions and suggestions are always welcome! Please make pull request to modify Awesome CircuitPython.
 
 ## License & Trademarks
 
