@@ -59,6 +59,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 ## Newsletter
 
 - [Adafruit Daily, Python for microcontrollers](https://www.adafruitdaily.com/)
+- [Contribute to newsletter](https://github.com/adafruit/circuitpython-weekly-newsletter)
 
 ## News
 
