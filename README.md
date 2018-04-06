@@ -15,6 +15,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 - [Community](#community)
 - [Books](#books)
 - [Resources](#resources)
+- [In the news](#in the news)
 - [Miscellaneous](#miscellaneous)
 - [Contributing](#contributing)
 
@@ -30,7 +31,13 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 ## Books
 
-- []()
+- [Programming with MicroPython - by Nicholas H. Tollervey, includes CircuitPython](https://www.adafruit.com/product/3706)
+- [Coming soon: Make: Getting started with Circuit Playground Express by Mike Barela(https://www.amazon.com/Mike-Barela/e/B00OA5RJIW/ref=dp_byline_cont_book_1)
+
+## In the news
+
+- [Make: CircuitPython Snakes its Way onto Adafruit Hardware](http://makezine.com/2017/08/11/circuitpython-snakes-way-adafruit-hardware/)
+[Adafruit Circuit Playground Express review](https://hackspace.raspberrypi.org/features/adafruit-circuit-playground-express-review)
 
 ## Resources
 
