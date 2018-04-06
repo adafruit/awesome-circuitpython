@@ -40,6 +40,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 ## Code
 
 - [CircuitPython API Reference](http://circuitpython.readthedocs.io/en/latest/)
+- [Circuit Playground Express CircuitPython API Reference](http://circuitpython.readthedocs.io/projects/circuitplayground/en/latest/)
 
 ## Hardware
 
