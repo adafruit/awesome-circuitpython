@@ -15,6 +15,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 - [Community](#community)
 - [Books](#books)
 - [Code](#code)
+- [Frameworks](#frameworks)
 - [Hardware](#hardware)
 - [In the news](#news)
 - [Art, logos, graphics](#art)
@@ -43,6 +44,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 - [CircuitPython API Reference](http://circuitpython.readthedocs.io/en/latest/)
 - [Circuit Playground Express CircuitPython API Reference](http://circuitpython.readthedocs.io/projects/circuitplayground/en/latest/)
+
+## Frameworks
+
+- [The Mu Editor](https://codewith.mu/)
 
 ## Hardware
 
