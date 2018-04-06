@@ -21,10 +21,12 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 ## Guides
 
 - [Welcome to CircuitPython!](https://learn.adafruit.com/welcome-to-circuitpython/overview)
+- [CircuitPython Essentials](https://learn.adafruit.com/circuitpython-essentials)
 
 ## Community
 
-- []()
+- [Adafruit CircuitPython Forums](https://forums.adafruit.com/viewforum.php?f=60)
+- [Adafruit CircuitPython Discord channel #CircuitPython](https://discord.gg/EAeBY6x)
 
 ## Books
 
