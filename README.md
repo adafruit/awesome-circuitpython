@@ -44,7 +44,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 - [CircuitPython API Reference](http://circuitpython.readthedocs.io/en/latest/)
 - [Circuit Playground Express CircuitPython API Reference](http://circuitpython.readthedocs.io/projects/circuitplayground/en/latest/)
-- [CircuitPython GitHub Repository](https://github.com/adafruit/circuitpython)
+- [CircuitPytthon GitHub Repository](https://github.com/adafruit/circuitpython)
 
 ## Frameworks
 
@@ -66,6 +66,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 ## Social
 
+- [#CircuitPython tagged on Twitter, latest](https://twitter.com/search?f=tweets&vertical=default&q=%23CircuitPython&src=tyah)
 - []()
 
 ## Events
