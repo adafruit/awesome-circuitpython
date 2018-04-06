@@ -39,7 +39,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 ## Code
 
-- []()
+- [CircuitPython API Reference](http://circuitpython.readthedocs.io/en/latest/)
 
 ## Hardware
 
