@@ -26,6 +26,8 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 - [Welcome to CircuitPython!](https://learn.adafruit.com/welcome-to-circuitpython/overview)
 - [CircuitPython Essentials](https://learn.adafruit.com/circuitpython-essentials)
+- [learn.adafruit.com CircuitPython](https://learn.adafruit.com/category/circuitpython)
+- [learn.adafruitc.com CircuitPython & MicroPython](https://learn.adafruit.com/category/micropython-slash-circuitpython)
 
 ## Community
 
