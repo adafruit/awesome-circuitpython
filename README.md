@@ -19,6 +19,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 - [In the news](#news)
 - [Art, logos, graphics](#art)
 - [Social media](#social)
+- [Events](#events)
 - [Contributing](#contributing)
 
 ## Guides
@@ -54,6 +55,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 - []()
 
 ## Social
+
+- []()
+
+## Events
 
 - []()
 
