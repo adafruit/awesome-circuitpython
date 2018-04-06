@@ -32,7 +32,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 ## Books
 
 - [Programming with MicroPython - by Nicholas H. Tollervey, includes CircuitPython](https://www.adafruit.com/product/3706)
-- [Coming soon: Make: Getting started with Circuit Playground Express by Mike Barela(https://www.amazon.com/Mike-Barela/e/B00OA5RJIW/ref=dp_byline_cont_book_1)
+- [Coming soon: Make: Getting started with Circuit Playground Express by Mike Barela](https://www.amazon.com/Mike-Barela/e/B00OA5RJIW/ref=dp_byline_cont_book_1)
 
 ## In the news
 
