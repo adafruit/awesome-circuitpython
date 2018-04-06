@@ -84,7 +84,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 ## Contributing
 
-Contributions and suggestions are always welcome! Please make pull request to modify Awesome CircuitPython.
+Contributions and suggestions are always welcome! Please make pull requests to modify Awesome CircuitPython.
 
 ## License & Trademarks
 
