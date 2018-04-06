@@ -18,6 +18,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 - [Hardware](#hardware)
 - [In the news](#news)
 - [Art, logos, graphics](#art)
+- [Social media](#social)
 - [Contributing](#contributing)
 
 ## Guides
@@ -51,6 +52,11 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 ## Art
 
 - []()
+
+## Social
+
+- []()
+
 
 ## Contributing
 
