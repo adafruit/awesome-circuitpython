@@ -55,12 +55,6 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 ## Hardware
 
 - [CircuitPython boards & more @adafruit](https://www.adafruit.com/circuitpython)
-- [Circuit Playground Express](https://www.adafruit.com/product/3333)
-- [Feather M0 Express](https://www.adafruit.com/product/3403)
-- [Metro M0 Express](https://www.adafruit.com/product/3505)
-- [Gemma M0](https://www.adafruit.com/product/3501)
-- [Trinket M0](https://www.adafruit.com/product/3500)
-- [ItsyBitsy M0 Express](https://www.adafruit.com/product/3727)
 
 ## News
 
@@ -75,7 +69,8 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 ## Social
 
 - [#CircuitPython tagged on Twitter, latest](https://twitter.com/search?f=tweets&vertical=default&q=%23CircuitPython&src=tyah)
-- []()
+- [CircuitPython videos on YouTube, latest](https://www.youtube.com/results?sp=CAI%253D&search_query=circuitpython)
+- [#CircuitPython tagged photos & videos on Instagram](https://www.instagram.com/explore/tags/circuitpython/)
 
 ## Events
 
