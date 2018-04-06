@@ -49,7 +49,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 ## Frameworks
 
-- [The Mu Editor](https://codewith.mu/)
+- [The Mu Editor, IDE, REPL, and plotter for CircuitPython](https://codewith.mu/)
 
 ## Hardware
 
@@ -77,7 +77,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 ## Events
 
-- [Weekly community chat]()
+- [Weekly community chat on Adafruit Discord server CircuitPython channel](https://discord.gg/EAeBY6x)
 - [Weekly Adafruit Show-and-tell, Wednesday 7:30pm ET on Google+ Hangouts](https://plus.google.com/+adafruit)
 - [PyCon 2018 conference, May 2018](https://us.pycon.org/2018/about/)
 - [ASK AN ENGINEER, Wednesday 8pm ET on YouTube LIVE](https://www.youtube.com/adafruit/live)
