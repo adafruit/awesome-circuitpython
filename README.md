@@ -52,7 +52,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 ## Art
 
-- []()
+- [CircuitPython Art Pack! Logos, banners, photos and Blinka!](https://www.dropbox.com/sh/l6tp9ym5nf8h5v9/AABGu_q2pcdUQdx1avr8Xvvda?dl=0)
 
 ## Social
 
@@ -60,8 +60,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 ## Events
 
-- []()
-
+- [Weekly community chat]()
+- [Weekly Adafruit Show-and-tell, Wednesday 7:30pm ET on Google+ Hangouts](https://plus.google.com/+adafruit)
+- [PyCon 2018 conference, May 2018](https://us.pycon.org/2018/about/)
+- [ASK AN ENGINEER, Wednesday 8pm ET on YouTube LIVE(https://www.youtube.com/adafruit/live)
 
 ## Contributing
 
