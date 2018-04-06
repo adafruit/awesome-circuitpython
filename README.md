@@ -63,7 +63,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 - [Weekly community chat]()
 - [Weekly Adafruit Show-and-tell, Wednesday 7:30pm ET on Google+ Hangouts](https://plus.google.com/+adafruit)
 - [PyCon 2018 conference, May 2018](https://us.pycon.org/2018/about/)
-- [ASK AN ENGINEER, Wednesday 8pm ET on YouTube LIVE(https://www.youtube.com/adafruit/live)
+- [ASK AN ENGINEER, Wednesday 8pm ET on YouTube LIVE](https://www.youtube.com/adafruit/live)
 
 ## Contributing
 
