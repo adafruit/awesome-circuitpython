@@ -28,8 +28,6 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 - [Welcome to CircuitPython!](https://learn.adafruit.com/welcome-to-circuitpython/overview)
 - [CircuitPython Essentials](https://learn.adafruit.com/circuitpython-essentials)
-- [Piano in the Key of Lime](https://learn.adafruit.com/circuit-playground-express-piano-in-the-key-of-lime)
-- [Hacking Ikea Lamps](https://learn.adafruit.com/hacking-ikea-lamps-with-circuit-playground-express)
 - [learn.adafruit.com CircuitPython](https://learn.adafruit.com/category/circuitpython)
 - [learn.adafruit.com CircuitPython & MicroPython](https://learn.adafruit.com/category/micropython-slash-circuitpython)
 
