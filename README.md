@@ -17,6 +17,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 - [Code](#code)
 - [Frameworks](#frameworks)
 - [Hardware](#hardware)
+- [Newsletter](#newsletter)
 - [In the news](#news)
 - [Art, logos, graphics](#art)
 - [Social media](#social)
@@ -55,6 +56,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 ## Hardware
 
 - [CircuitPython boards & more @adafruit](https://www.adafruit.com/circuitpython)
+
+## Newsletter
+
+- [Adafruit Daily, Python for microcontrollers](https://www.adafruitdaily.com/)
 
 ## News
 
