@@ -54,7 +54,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 ## Hardware
 
-- [CircuitPython boards & more @adafruit](https://www.adafruit.com/circuitpython)
+- [CircuitPython boards - Circuit Playground Express, Adafruit Feather M0 Express, Adafruit METRO M0 Express, Adafruit Trinket M0, Adafruit METRO M0 Express, Adafruit GEMMA M0, Adafruit Feather HUZZAH](https://www.adafruit.com/circuitpython)
 
 ## Newsletter
 
