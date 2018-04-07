@@ -64,9 +64,11 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 ## News
 
 - [CircuitPython in 2018](https://blog.adafruit.com/2018/01/29/circuitpython-in-2018/)
-- [CircuitPython posts on the Adafruit.com/blog](https://blog.adafruit.com/category/circuitpython/)
-- [Make: CircuitPython Snakes its Way onto Adafruit Hardware](http://makezine.com/2017/08/11/circuitpython-snakes-way-adafruit-hardware/)
+- [CircuitPython on the Adafruit.com/blog](https://blog.adafruit.com/category/circuitpython/)
+- [CircuitPython Snakes its Way onto Adafruit Hardware](http://makezine.com/2017/08/11/circuitpython-snakes-way-adafruit-hardware/)
 - [Adafruit Circuit Playground Express review](https://hackspace.raspberrypi.org/features/adafruit-circuit-playground-express-review)
+- [CircuitPython on Hackaday](https://hackaday.com/?s=circuitpython)
+- [CircuitPython on MAKE](https://makezine.com/?s=circuitpython)
 
 ## Art
 
