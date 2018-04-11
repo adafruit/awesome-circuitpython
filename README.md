@@ -47,6 +47,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 - [CircuitPython API Reference](http://circuitpython.readthedocs.io/en/latest/)
 - [Circuit Playground Express CircuitPython API Reference](http://circuitpython.readthedocs.io/projects/circuitplayground/en/latest/)
 - [CircuitPython GitHub Repository](https://github.com/adafruit/circuitpython)
+- [CircuitPython 3.0.0 Alpha!](https://github.com/adafruit/circuitpython/releases/tag/3.0.0-alpha.4)
 
 ## Frameworks
 
