@@ -52,6 +52,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 ## Frameworks
 
 - [The Mu Editor, IDE, REPL, and plotter for CircuitPython](https://codewith.mu/)
+- [For developers, Mu: A Python Code Editor](http://mu.readthedocs.io/en/latest/)
 
 ## Hardware
 
