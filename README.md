@@ -27,15 +27,15 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 ## Guides
 
-- [Welcome to CircuitPython!](https://learn.adafruit.com/welcome-to-circuitpython/overview) - overview wo CircuitPython and the community
-- [CircuitPython Essentials](https://learn.adafruit.com/circuitpython-essentials) - learning the essential functions of CircuitPython
+- [Welcome to CircuitPython!](https://learn.adafruit.com/welcome-to-circuitpython/overview) - An overview of CircuitPython and the community
+- [CircuitPython Essentials](https://learn.adafruit.com/circuitpython-essentials) - Learning the essential functions of CircuitPython
 - [learn.adafruit.com CircuitPython](https://learn.adafruit.com/category/circuitpython) - Adafruit Learning Guides on CircuitPython
 - [learn.adafruit.com CircuitPython & MicroPython](https://learn.adafruit.com/category/micropython-slash-circuitpython) - Guides on both CircuitPython and MicroPython
 
 ## Community
 
 - [Adafruit CircuitPython Forums](https://forums.adafruit.com/viewforum.php?f=60) - The Adafruit discussion forum on CircuitPython
-- [Adafruit CircuitPython Discord channel #CircuitPython](https://discord.gg/EAeBY6x) - 24/7 chat and support on CircuitPython including the weekly podcast
+- [Adafruit CircuitPython Discord channel #CircuitPython](https://discord.gg/EAeBY6x) - 24/7 chat and support on CircuitPython including a weekly podcast
 
 ## Books
 
@@ -45,7 +45,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 ## Code
 
 - [CircuitPython API Reference](http://circuitpython.readthedocs.io/en/latest/) - A list of functions and documentation available for CircuitPython
-- [Circuit Playground Express CircuitPython API Reference](http://circuitpython.readthedocs.io/projects/circuitplayground/en/latest/) - the functions and documentation specific to the Circuit Playground Express using CircuitPython
+- [Circuit Playground Express CircuitPython API Reference](http://circuitpython.readthedocs.io/projects/circuitplayground/en/latest/) - The functions and documentation specific to the Circuit Playground Express using CircuitPython
 - [CircuitPython GitHub Repository](https://github.com/adafruit/circuitpython) - The source code for CircuitPython on GitHub
 - [CircuitPython 3.0.0 Alpha!](https://github.com/adafruit/circuitpython/releases/tag/3.0.0-alpha.4) - An announcement on the latest release schedule
 
@@ -67,7 +67,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 - [CircuitPython in 2018](https://blog.adafruit.com/2018/01/29/circuitpython-in-2018/) - An article discussing the future directions for CircuitPython
 - [CircuitPython on the Adafruit.com/blog](https://blog.adafruit.com/category/circuitpython/) - Adafruit Blog posts discussing CircuitPython
-- [CircuitPython Snakes its Way onto Adafruit Hardware](http://makezine.com/2017/08/11/circuitpython-snakes-way-adafruit-hardware/) - an article by MAKE on CircuitPython
+- [CircuitPython Snakes its Way onto Adafruit Hardware](http://makezine.com/2017/08/11/circuitpython-snakes-way-adafruit-hardware/) - An article by MAKE on CircuitPython
 - [Adafruit Circuit Playground Express review](https://hackspace.raspberrypi.org/features/adafruit-circuit-playground-express-review) - Raspberry Pi reviews the Circuit Playground Express
 - [CircuitPython on Hackaday](https://hackaday.com/?s=circuitpython) - Hackaday posts related to CircuitPython 
 - [CircuitPython on MAKE](https://makezine.com/?s=circuitpython) - CircuitPython related content on MAKE
@@ -95,7 +95,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 ## Swag
 - [Blinka the CircuitPython Limited Edition Enamel Pin](https://www.adafruit.com/product/3680) - An enamel pin with the CircuitPython mascot
 - [Blinka the CircuitPython Sticker](https://www.adafruit.com/product/3725) - A sticker featuring Blinka, the CircuitPython mascot
-- [Blinka the CircuitPython Temporary Tattoo](https://www.adafruit.com/product/2600) - A temporary tatoo featuring the Blinka character
+- [Blinka the CircuitPython Temporary Tattoo](https://www.adafruit.com/product/2600) - A temporary tattoo featuring the Blinka character
 
 ## Contributing
 
