@@ -4,13 +4,12 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Awesome CircuitPython is a curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources. CircuitPython is Adafruit's branch of MicroPython designed to simplify experimentation and education on low-cost microcontrollers. It makes it easier than ever to start prototyping by requiring no upfront desktop software downloads. With CircuitPython you can write clean and simple Python code to control hardware instead of having to use complex low-level languages like C or C++ (what Arduino uses for programming). It's great for beginners!
+> A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.
 
-Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
+[CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython/what-is-circuitpython) is Adafruit's branch of MicroPython designed to simplify experimentation and education on low-cost microcontrollers. It makes it easier than ever to start prototyping by requiring no upfront desktop software downloads. With CircuitPython you can write clean and simple Python code to control hardware instead of having to use complex low-level languages like C or C++ (what Arduino uses for programming). It's great for beginners!
 
 ## Contents
 
-- [Awesome CircuitPython](#awesome-circuitpython)
 - [Guides](#guides)
 - [Community](#community)
 - [Books](#books)
@@ -49,7 +48,6 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 - [CircuitPython GitHub Repository](https://github.com/adafruit/circuitpython) - The source code for CircuitPython on GitHub.
 - [CircuitPython 3.0.0 Beta 0!](https://github.com/adafruit/circuitpython/releases/tag/3.0.0-beta.0) - [And the announcement](https://blog.adafruit.com/2018/05/23/circuitpython-3-0-0-beta-0-released/)
 
-
 ## Frameworks
 
 - [The Mu Editor, IDE, REPL, and plotter for CircuitPython](https://codewith.mu/) - The recommended Python editor for CircuitPython.
@@ -57,7 +55,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 ## Hardware
 
-- [CircuitPython boards - Circuit Playground Express, Adafruit Feather M0 Express, Adafruit METRO M0 Express, Adafruit Trinket M0, Adafruit METRO M0 Express, Adafruit GEMMA M0, Adafruit Feather HUZZAH](https://www.adafruit.com/circuitpython) - Where to buy CircuitPython compatible boards.
+- [CircuitPython boards](https://www.adafruit.com/circuitpython) - Where to buy CircuitPython compatible boards: Circuit Playground Express, Adafruit Feather M0 Express, Adafruit METRO M0 Express, Adafruit Trinket M0, Adafruit METRO M0 Express, Adafruit GEMMA M0, Adafruit Feather HUZZAH.
 
 ## Newsletter
 
