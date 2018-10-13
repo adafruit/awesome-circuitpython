@@ -46,7 +46,8 @@
 - [CircuitPython API Reference](http://circuitpython.readthedocs.io/en/latest/) - A list of functions and documentation available for CircuitPython.
 - [Circuit Playground Express CircuitPython API Reference](http://circuitpython.readthedocs.io/projects/circuitplayground/en/latest/) - The functions and documentation specific to the Circuit Playground Express using CircuitPython.
 - [CircuitPython GitHub Repository](https://github.com/adafruit/circuitpython) - The source code for CircuitPython on GitHub.
-- [CircuitPython 3.0.0 Beta 0!](https://github.com/adafruit/circuitpython/releases/tag/3.0.0-beta.0) - [And the announcement](https://blog.adafruit.com/2018/05/23/circuitpython-3-0-0-beta-0-released/)
+- [CircuitPython 3.0.3 (latest)](https://github.com/adafruit/circuitpython/releases/tag/3.0.3)
+- [CircuitPython 4.0.0 Alpha 1](https://github.com/adafruit/circuitpython/releases/tag/4.0.0-alpha.1) - [And the announcement](https://blog.adafruit.com/2018/09/21/adafruit-circuitpython-4-0-0-alpha-1-released/)
 
 ## Frameworks
 
