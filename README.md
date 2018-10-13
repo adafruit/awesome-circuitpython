@@ -39,7 +39,7 @@
 ## Books
 
 - [Programming with MicroPython - by Nicholas H. Tollervey, includes CircuitPython](https://www.adafruit.com/product/3706) - Discusses the MicroPython language.
-- [Getting started with Circuit Playground Express by Mike Barela](https://www.amazon.com/Getting-Started-Adafruit-Circuit-Playground-dp-1680454889/dp/1680454889/ref=mt_paperback) - Discusses the Circuit Playground Express including programming via CircuitPython.
+- [Getting started with Circuit Playground Express by Mike Barela](https://www.amazon.com/Getting-Started-Adafruit-Circuit-Playground-dp-1680454889/dp/1680454889/ref=mt_paperback) (or purchase as part of your order from [the AdaFruit store](https://www.adafruit.com/product/3944)) - Discusses the Circuit Playground Express including programming via CircuitPython.
 
 ## Code
 
