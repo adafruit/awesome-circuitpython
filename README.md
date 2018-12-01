@@ -56,7 +56,9 @@
 
 ## Hardware
 
-- [CircuitPython boards](https://www.adafruit.com/circuitpython) - Where to buy CircuitPython compatible boards: Circuit Playground Express, Adafruit Feather M0 Express, Adafruit METRO M0 Express, Adafruit Trinket M0, Adafruit METRO M0 Express, Adafruit GEMMA M0, Adafruit Feather HUZZAH.
+- [Adafruit CircuitPython boards](https://www.adafruit.com/circuitpython) - CircuitPython compatible boards: Circuit Playground Express, Adafruit Feather M0 Express, Adafruit METRO M0 Express, Adafruit Trinket M0, Adafruit METRO M0 Express, Adafruit GEMMA M0, Adafruit Feather HUZZAH, Adafruit NeoTrellis M4, Adafruit ItsyBitsy M4, Adafruit Feather M4 Express, Adafruit Metro M4.
+- [CircuitPython sensors and accessories](https://www.adafruit.com/category/956) - Complete listing of sensors, LCDs, displays, robotics, breakout boards, and more.
+- [SparkFun](https://learn.sparkfun.com/tutorials/nrf52840-development-with-arduino-and-circuitpython) - SparkFun Pro nRF52840 Mini - Bluetooth Development Board.
 
 ## Newsletter
 
