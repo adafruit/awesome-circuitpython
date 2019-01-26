@@ -98,10 +98,11 @@
 
 ## Events
 
-- [Weekly community chat on Adafruit Discord server CircuitPython channel](https://discord.gg/EAeBY6x) - The Discord chat space for CircuitPython.
+- [Weekly community chat on Adafruit Discord server CircuitPython channel](https://discord.gg/EAeBY6x) - The Discord chat space for CircuitPython, meetings are usually Mondays at 2pm ET.
 - [Weekly Adafruit Show-and-tell, Wednesday 7:30pm ET on Google+ Hangouts](https://plus.google.com/+adafruit) - The weekly Adafruit Show-and-tell program often has CircuitPython-related projects on display.
-- [PyCon 2018 conference, May 2018](https://us.pycon.org/2018/about/) - Adafruit sponsorship of PyCon for 2018.
-- [ASK AN ENGINEER, Wednesday 8pm ET on YouTube LIVE](https://www.youtube.com/adafruit/live) - The longest running Youtube live show hosts information on CircuitPython.
+- [ASK AN ENGINEER, Wednesday 8pm ET on YouTube LIVE](https://www.youtube.com/adafruit/live) - The longest running Youtube live show about electronics, information on CircuitPython each week during "Python on hardware segment".
+- [PyCon 2019 conference](https://us.pycon.org/2019/about/) - May 1 - 9, 2019, Cleveland, Ohio.
+- [PyCascades 2019](https://2019.pycascades.com/) - February 23 — 24, 2019, Seattle. WA. 
 
 ## Swag
 - [Blinka the CircuitPython Limited Edition Enamel Pin](https://www.adafruit.com/product/3680) - An enamel pin with the CircuitPython mascot.
