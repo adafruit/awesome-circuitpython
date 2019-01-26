@@ -74,7 +74,9 @@
 
 ## News
 
-- [CircuitPython in 2018](https://blog.adafruit.com/2018/01/29/circuitpython-in-2018/) - An article discussing the future directions for CircuitPython.
+- [HackSpace Magazine - Issue 15](https://blog.adafruit.com/2019/01/24/issue-15-hackspace-magazine-circuitpython-hackspacemag-by-ben-everard-ben_everard-circuitpython-circuitpython-madewithmu/) - CircuitPython makes the cover on HackSpace Magazine with feature article, and projects.
+- [CircuitPython in 2019](https://blog.adafruit.com/2018/12/17/what-do-you-want-from-circuitpython-in-2019-circuitpython2019-circuitpython/) - Community call for what's wanted and needed in CircuitPython for 2019.
+- [CircuitPython in 2018](https://blog.adafruit.com/2018/01/29/circuitpython-in-2018/) - An article discussing the future directions for CircuitPython 2018 edition.
 - [CircuitPython on the Adafruit.com/blog](https://blog.adafruit.com/category/circuitpython/) - Adafruit Blog posts discussing CircuitPython.
 - [CircuitPython in MicroSolutions Digital Magazine](https://blog.adafruit.com/2018/08/27/circuitpython-in-microsolutions-digital-magazine-microchiptech-microchipmakes-circuitpython-adafruit/) - Microchip’s MicroSolutions, “Python on Microcontrollers” in Design Corner article. MicroSolutions is Microchip’s bi-monthly digital magazine.
 - [CircuitPython Snakes its Way onto Adafruit Hardware](http://makezine.com/2017/08/11/circuitpython-snakes-way-adafruit-hardware/) - An article by MAKE on CircuitPython.
