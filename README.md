@@ -63,13 +63,13 @@
 
 All supported boards can be located in the latest release builds - [GitHub](https://github.com/adafruit/circuitpython/releases). If your board support CircuitPython, please do a pull request for it to be added.
 
-- [Adafruit CircuitPython boards](https://www.adafruit.com/circuitpython) - Adafruit Circuit Playground Express, Adafruit Feather HUZZAH, Adafruit Feather M0 Express, Adafruit Feather M4 Express, Adafruit Feather nRF52840 Express, Adafruit GEMMA M0, Adafruit Grand Central M4 Express featuring the SAMD51, Adafruit HalloWing M0 Express, Adafruit ItsyBitsy M4, Adafruit METRO M0 Express, Adafruit METRO M0 Express, Adafruit Metro M4, Adafruit NeoTrellis M4, Adafruit Trinket M0.
+- [Adafruit CircuitPython boards](https://www.adafruit.com/circuitpython) - Adafruit Circuit Playground Express, Adafruit Feather M0 Express, Adafruit Feather M4 Express, Adafruit Feather nRF52840 Express, Adafruit GEMMA M0, Adafruit Grand Central M4 Express featuring the SAMD51, Adafruit HalloWing M0 Express, Adafruit ItsyBitsy M0, Adafruit ItsyBitsy M4, Adafruit METRO M0 Express, Adafruit Metro M4, Adafruit NeoTrellis M4, Adafruit Trinket M0.
 - [Arduino](https://www.arduino.cc/) - Arduino MKR 1300, Arduino MKR ZERO, Arduino ZERO.
-- [Electronic Cats](https://electroniccats.com/0 - CatWAN USB Stick, Meow Meow.
+- [Electronic Cats](https://electroniccats.com/) - CatWAN USB Stick, Meow Meow.
 - [Mini Sam](https://www.minisam.cc/) - Mini SAM development board.
-- [Nordic] - nRF52840 DK board [PCA10056](http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52%2Fdita%2Fnrf52%2Fdevelopment%2Fnrf52840_pdk%2Fintro.html), nRF52840 dongle [PCA10059](http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52%2Fdita%2Fnrf52%2Fdevelopment%2Fnrf52840_dongle%2Fkit_hw_content.html).
+- [Nordic Semiconductor](https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF52840) - nRF52840 DK board [PCA10056](http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52%2Fdita%2Fnrf52%2Fdevelopment%2Fnrf52840_pdk%2Fintro.html), nRF52840 dongle [PCA10059](http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52%2Fdita%2Fnrf52%2Fdevelopment%2Fnrf52840_dongle%2Fkit_hw_content.html).
 - [Particle](https://www.particle.io/) - Particle Argon, Particle Boron, Particle Xenon.
-- [SparkFun](https://www.sparkfun.com/) - SparkFun Pro nRF52840 Mini - Bluetooth Development Board, SparkFun SAMD21 Mini Breakout, SparkFun SAMD21 Dev Breakout. *Sparkfun LumiDrive LED Driver, and SparkFun RedBoard Turbo - SAMD21 Development Board, supports CircuitPython but are not in releases until pull request is received to add.*
+- [SparkFun](https://www.sparkfun.com/) - SparkFun Pro nRF52840 Mini - Bluetooth Development Board, SparkFun SAMD21 Mini Breakout, SparkFun SAMD21 Dev Breakout. *Sparkfun LumiDrive LED Driver, and SparkFun RedBoard Turbo - SAMD21 Development Board, support CircuitPython but are not in releases until pull request is received to add.*
 
 [CircuitPython sensors and accessories](https://www.adafruit.com/category/956) - Complete listing of sensors, LCDs, displays, robotics, breakout boards, and more.
 
