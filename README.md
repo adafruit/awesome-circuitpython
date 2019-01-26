@@ -61,7 +61,9 @@
 
 ## Hardware
 
-- [Adafruit CircuitPython boards](https://www.adafruit.com/circuitpython) - CircuitPython compatible boards: Circuit Playground Express, Adafruit Feather M0 Express, Adafruit METRO M0 Express, Adafruit Trinket M0, Adafruit METRO M0 Express, Adafruit GEMMA M0, Adafruit Feather HUZZAH, Adafruit NeoTrellis M4, Adafruit ItsyBitsy M4, Adafruit Feather M4 Express, Adafruit Metro M4, Adafruit HalloWing M0 Express.
+All supported boards can be located in the latest release builds - [GitHub](https://github.com/adafruit/circuitpython/releases). If your board support CircuitPython, please do a pull request for it to be added.
+
+- [Adafruit CircuitPython boards](https://www.adafruit.com/circuitpython) - Adafruit Circuit Playground Express, Adafruit Feather HUZZAH, Adafruit Feather M0 Express, Adafruit Feather M4 Express, Adafruit Feather nRF52840 Express, Adafruit GEMMA M0, Adafruit Grand Central M4 Express featuring the SAMD51, Adafruit HalloWing M0 Express, Adafruit ItsyBitsy M4, Adafruit METRO M0 Express, Adafruit METRO M0 Express, Adafruit Metro M4, Adafruit NeoTrellis M4, Adafruit Trinket M0.
 - [CircuitPython sensors and accessories](https://www.adafruit.com/category/956) - Complete listing of sensors, LCDs, displays, robotics, breakout boards, and more.
 - [SparkFun](https://learn.sparkfun.com/tutorials/nrf52840-development-with-arduino-and-circuitpython) - SparkFun Pro nRF52840 Mini - Bluetooth Development Board.
 - [python.digikey.com](http://python.digikey.com) - Digi-Key electronics has a listing of all Python-supported boards on their site in one location including CircuitPython and MicroPython boards.
