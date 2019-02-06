@@ -20,6 +20,7 @@
 - [In the news](#news)
 - [Art, logos, graphics](#art)
 - [Social media](#social)
+- [Podcast](#podcast)
 - [Events](#events)
 - [Swag](#swag)
 - [Contributing](#contributing)
@@ -113,6 +114,10 @@ All supported boards can be located in the latest release builds - [GitHub](http
 - [CircuitPython on Hackaday.io](https://hackaday.io/list/163331-circuitpython) - Currated list of projects on hackaday.io
 - [CircuitPython on hackster.io](https://blog.adafruit.com/2019/01/15/python-on-hardware-community-hub-on-hackster-io-hacksterio/) - Python on hardware projects on hackster.io including CircuitPython.
 - [CircuitPython on Instructables](https://www.instructables.com/howto/circuitpython/) - How-tos, guides, and more, using CircuitPython on Autodesk's Instructables.
+
+## Podcast
+
+- [Weekly community chat on Adafruit Discord server CircuitPython channel - Audio / Podcast edition](https://adafru.it/spotify) - Audio from the Discord chat space for CircuitPython, meetings are usually Mondays at 2pm ET, this is the audio version on Spotify include the last year of meetings - [https://adafru.it/spotify](https://adafru.it/spotify).
 
 ## Events
 
