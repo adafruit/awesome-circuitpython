@@ -20,7 +20,7 @@
 - [In the news](#news)
 - [Art, logos, graphics](#art)
 - [Social media](#social)
-- [Podcast](#podcast)
+- [Podcasts](#podcasts)
 - [Events](#events)
 - [Swag](#swag)
 - [Contributing](#contributing)
@@ -115,9 +115,10 @@ All supported boards can be located in the latest release builds - [GitHub](http
 - [CircuitPython on hackster.io](https://blog.adafruit.com/2019/01/15/python-on-hardware-community-hub-on-hackster-io-hacksterio/) - Python on hardware projects on hackster.io including CircuitPython.
 - [CircuitPython on Instructables](https://www.instructables.com/howto/circuitpython/) - How-tos, guides, and more, using CircuitPython on Autodesk's Instructables.
 
-## Podcast
+## Podcasts
 
-- [Weekly community chat on Adafruit Discord server CircuitPython channel - Audio / Podcast edition](https://adafru.it/spotify) - Audio from the Discord chat space for CircuitPython, meetings are usually Mondays at 2pm ET, this is the audio version on [iTunes](https://itunes.apple.com/us/podcast/circuitpython-weekly-meeting/id1451685016), Pocket Casts, [Spotify](https://adafru.it/spotify), and [XML feed](https://adafruit-podcasts.s3.amazonaws.com/circuitpython_weekly_meeting/audio-podcast.xml).
+- [Weekly community chat on Adafruit Discord server CircuitPython channel - Audio / Podcast edition](https://itunes.apple.com/us/podcast/circuitpython-weekly-meeting/id1451685016) - Audio from the Discord chat space for CircuitPython, meetings are usually Mondays at 2pm ET, this is the audio version on [iTunes](https://itunes.apple.com/us/podcast/circuitpython-weekly-meeting/id1451685016), Pocket Casts, [Spotify](https://adafru.it/spotify), and [XML feed](https://adafruit-podcasts.s3.amazonaws.com/circuitpython_weekly_meeting/audio-podcast.xml).
+- [Python on hardware weekly video cast](https://itunes.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2) - The wonderful world of Python on hardware! This is our video-newsletter-podcast of all things Python and electronics! The news comes from the Python community, discord, Adafruit communities and more. It’s part of the weekly newsletter, then we have a segment on ASK an ENGINEER and this is the video slice from that! This video podcast is on [iTunes](https://itunes.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2), [YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev), [IGTV (Instagram TV](https://www.instagram.com/adafruit/channel/)), and [XML](https://itunes.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2).
 
 ## Events
 
