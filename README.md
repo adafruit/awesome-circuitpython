@@ -117,7 +117,7 @@ All supported boards can be located in the latest release builds - [GitHub](http
 
 ## Podcast
 
-- [Weekly community chat on Adafruit Discord server CircuitPython channel - Audio / Podcast edition](https://adafru.it/spotify) - Audio from the Discord chat space for CircuitPython, meetings are usually Mondays at 2pm ET, this is the audio version on Spotify include the last year of meetings - [https://adafru.it/spotify](https://adafru.it/spotify).
+- [Weekly community chat on Adafruit Discord server CircuitPython channel - Audio / Podcast edition](https://adafru.it/spotify) - Audio from the Discord chat space for CircuitPython, meetings are usually Mondays at 2pm ET, this is the audio version on [iTunes](https://itunes.apple.com/us/podcast/circuitpython-weekly-meeting/id1451685016), Pocket Casts, [Spotify](https://adafru.it/spotify), and [XML feed](https://adafruit-podcasts.s3.amazonaws.com/circuitpython_weekly_meeting/audio-podcast.xml).
 
 ## Events
 
