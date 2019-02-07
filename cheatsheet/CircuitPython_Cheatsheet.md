@@ -33,7 +33,7 @@
 
 Analog input values are always 16 bit (i.e. in range(0, 65535)), regardless of the converter's resolution. The get_voltage function converts the analog reading into a voltage, assuming the default 3.3v reference voltage.
 
-## Audio Output ##
+## Analog Output ##
 
     import board
     from analogio import AnalogOut
