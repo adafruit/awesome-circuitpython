@@ -65,7 +65,7 @@
 
 All supported boards can be located in the latest release builds - [GitHub](https://github.com/adafruit/circuitpython/releases). If your board support CircuitPython, please do a pull request for it to be added.
 
-- [Adafruit CircuitPython boards](https://www.adafruit.com/circuitpython) - Adafruit Circuit Playground Express, Adafruit Feather M0 Express, Adafruit Feather M4 Express, Adafruit Feather nRF52840 Express, Adafruit GEMMA M0, Adafruit Grand Central M4 Express featuring the SAMD51, Adafruit HalloWing M0 Express, Adafruit ItsyBitsy M0, Adafruit ItsyBitsy M4, Adafruit METRO M0 Express, Adafruit Metro M4, Adafruit NeoTrellis M4, Adafruit Trinket M0.
+- [Adafruit CircuitPython boards](https://www.adafruit.com/circuitpython) - Adafruit Circuit Playground Express, Adafruit Feather M0 Express, Adafruit Feather M4 Express, Adafruit Feather nRF52840 Express, Adafruit GEMMA M0, Adafruit Grand Central M4 Express featuring the SAMD51, Adafruit HalloWing M0 Express, Adafruit ItsyBitsy M0, Adafruit ItsyBitsy M4, Adafruit METRO M0 Express, Adafruit Metro M4, Adafruit NeoTrellis M4, Adafruit Trinket M0, Adafruit PyPortal.
 - [Arduino](https://www.arduino.cc/) - Arduino MKR 1300, Arduino MKR ZERO, Arduino ZERO.
 - [Electronic Cats](https://electroniccats.com/) - CatWAN USB Stick, Meow Meow.
 - [MakerDiary](https://wiki.makerdiary.com/nrf52840-mdk-usb-dongle/) - nRF52840 Micro Dev Kit USB Dongle.
