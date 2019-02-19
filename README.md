@@ -86,6 +86,7 @@ All supported boards can be located in the latest release builds - [GitHub](http
 
 ## News
 
+- [Python on Hardware Means Choices for Makers](https://www.apress.com/us/blog/all-blog-posts/python-on-hardware-means-choices-for-makers/16332230) by Liz Clark - Apress. CircuitPython (a fork of MicroPython that is designed from the ground up to be beginner friendly.) This allows end users to use Python for their electronics hardware projects similar to how they may have used C/C++ with the Arduino IDE.
 - [Method's Magazine](http://www.mouser.com/news/methods/2019-1/mobile/index.html#p=35) - Methods eZine: Design Trends & the Transformation of Everything features Python on hardware, page 35 - [PDF](http://www.mouser.com/pdfdocs/Mouser-Methods-v3i1.pdf).
 - [HackSpace Magazine - Issue 15](https://blog.adafruit.com/2019/01/24/issue-15-hackspace-magazine-circuitpython-hackspacemag-by-ben-everard-ben_everard-circuitpython-circuitpython-madewithmu/) - CircuitPython makes the cover on HackSpace Magazine with feature article, and projects.
 - [CircuitPython in 2019](https://blog.adafruit.com/2018/12/17/what-do-you-want-from-circuitpython-in-2019-circuitpython2019-circuitpython/) - Community call for what's wanted and needed in CircuitPython for 2019.
