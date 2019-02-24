@@ -124,11 +124,17 @@ All supported boards can be located in the latest release builds - [GitHub](http
 
 ## Events
 
+- [PyCon 2019 conference](https://us.pycon.org/2019/about/) - May 1 - 9, 2019, Cleveland, Ohio.  Digi-Key and Adafruit have teamed up for PyCon 2019 so every attendee (about 4,000!) will receive a SPECIAL EDITION Circuit Playground Express, running … CircuitPython.
+
+This effort is to get Python on hardware to the most folks out there, at the events that bring people together.
+
+This is just one of many efforts we’re teaming up with Digi-Key to continue to fuel all the developers from beginners to pro, using Python on microcontrollers - [Adafruit](https://blog.adafruit.com/2019/02/23/digi-key-and-adafruit-at-pycon-all-attendees-will-receive-a-circuit-playground-express-digikey-adafruit-pycon-pycon2019/) & [planning doc](https://docs.google.com/document/d/1E36RHKZ57mnb8Ks3hEB1TmPv88w9sXep2_BD0im-Qvk/edit).
+
+What else is happening? The CircuitPython team will be running several Open Spaces sessions (as they did last year), showing how to use CircuitPython on the Digi-Key / Adafruit PyCon special edition Circuit Playground Express. We’ll have extra addons to play with also: potentiometers, NeoPixel strips, and servos. The team will be running a CircuitPython Sprint for several days to work on CircuitPython libraries and CircuitPython core code. BYOMUSB “Bring your own Micro USB” cables, we’ll have some to borrow during the sprints/sessions, as well as some USB C adapters, good idea to bring one too!
+
 - [Weekly community chat on Adafruit Discord server CircuitPython channel](https://discord.gg/EAeBY6x) - The Discord chat space for CircuitPython, meetings are usually Mondays at 2pm ET.
 - [Weekly Adafruit Show-and-tell, Wednesday 7:30pm ET on Google+ Hangouts](https://plus.google.com/+adafruit) - The weekly Adafruit Show-and-tell program often has CircuitPython-related projects on display.
 - [ASK AN ENGINEER, Wednesday 8pm ET on YouTube LIVE](https://www.youtube.com/adafruit/live) - The longest running Youtube live show about electronics, information on CircuitPython each week during "Python on hardware segment".
-- [PyCon 2019 conference](https://us.pycon.org/2019/about/) - May 1 - 9, 2019, Cleveland, Ohio.
-- [PyCascades 2019](https://2019.pycascades.com/) - February 23 — 24, 2019, Seattle. WA. 
 
 ## Swag
  - [CircuitPython 4 release poster](https://www.adafruit.com/product/4082) - CircuitPython release version 4 poster featuring Nordic.
