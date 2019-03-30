@@ -10,7 +10,7 @@
 
 ## Contents
 
-- [CircuitPython.org](#circuitpython.org)
+- [CircuitPython.org](#circuitpythonorg)
 - [Guides](#guides)
 - [Community](#community)
 - [Books](#books)
