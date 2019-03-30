@@ -10,6 +10,7 @@
 
 ## Contents
 
+- [CircuitPython.org](#circuitpython.org)
 - [Guides](#guides)
 - [Community](#community)
 - [Books](#books)
@@ -24,6 +25,10 @@
 - [Events](#events)
 - [Swag](#swag)
 - [Contributing](#contributing)
+
+## CircuitPython.org
+
+[CircuitPython.org](https://circuitpython.org/) is the first stop on the information snake highway. Here you can see all the [supported boards and download](https://circuitpython.org/downloads) the specific firmware for each one, including beta, latest, and previous versions. Downloads can be sorted by: maker, features, name, and more. At this time there are over 30+ boards supported in the CircuitPython family!
 
 ## Guides
 
