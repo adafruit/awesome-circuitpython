@@ -109,6 +109,7 @@ All supported boards can be located in the latest release builds - [GitHub](http
 - [Adafruit Circuit Playground Express review](https://hackspace.raspberrypi.org/features/adafruit-circuit-playground-express-review) - Raspberry Pi reviews the Circuit Playground Express.
 - [The Amp Hour #383](https://www.youtube.com/watch?v=d-Uw3YOf7dE) - An Interview with Scott Shawcroft.
 - [CircuitPython on Hackaday](https://hackaday.com/?s=circuitpython) - Hackaday posts related to CircuitPython.
+- [CircuitPython on hackster.io](https://blog.hackster.io/search?q=circuitpython) - hackster.io posts related to CircuitPython.
 - [CircuitPython on MAKE](https://makezine.com/?s=circuitpython) - CircuitPython related content on MAKE.
 
 ## Art
