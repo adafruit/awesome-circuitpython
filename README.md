@@ -43,7 +43,6 @@
 - [Python on Hardware weekly VideoCast](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev) - The wonderful world of Python on hardware. Video-newsletter-podcast of all things Python and electronics.
 - [CircuitPython Weekly Meeting](https://www.youtube.com/playlist?list=PLjF7R1fz_OOUvw7tMv45xjWp0ht8yNgg0) - Video archive of weekly community meeting via Discord, starting from September, 2017.
 - [Adafruit CircuitPython Forums](https://forums.adafruit.com/viewforum.php?f=60) - The Adafruit discussion forum on CircuitPython.
-- [CircuitPython Cheat Sheet](https://github.com/adafruit/awesome-circuitpython/blob/master/cheatsheet/CircuitPython_Cheatsheet.md) - Dave Astels's helpful cheat sheet on CircuitPython.
 
 ## Books
 
@@ -60,6 +59,7 @@
 - [CircuitPython GitHub Repository](https://github.com/adafruit/circuitpython) - The source code for CircuitPython on GitHub.
 - [Adafruit CircuitPython Libraries](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/master/circuitpython_library_list.md) - Current Adafruit CircuitPython Libraries. There are over 130+ libraries available.
 - [Adafruit Blinka](https://learn.adafruit.com/circuitpython-on-raspberrypi-linux?view=all) - CircuitPython Libraries on Raspberry Pi and other compatible single-board Linux computers.
+- [CircuitPython Cheat Sheet](https://github.com/adafruit/awesome-circuitpython/blob/master/cheatsheet/CircuitPython_Cheatsheet.md) - Dave Astels's helpful cheat sheet on CircuitPython.
 
 ## Frameworks
 
@@ -68,7 +68,7 @@
 
 ## Hardware
 
-All supported boards can be located in the latest release builds - [GitHub](https://github.com/adafruit/circuitpython/releases). If your board support CircuitPython, please do a pull request for it to be added.
+All supported boards can be located in the latest release builds - [GitHub](https://github.com/adafruit/circuitpython/releases). If your board support CircuitPython, please do a pull request for it to be added. The latest boards which may not be included in the list below are on [https://circuitpython.org](https://circuitpython.org/downloads)
 
 - [Adafruit CircuitPython boards](https://www.adafruit.com/circuitpython) - Adafruit Circuit Playground Express, Adafruit Feather M0 Express, Adafruit Feather M4 Express, Adafruit Feather nRF52840 Express, Adafruit GEMMA M0, Adafruit Grand Central M4 Express featuring the SAMD51, Adafruit HalloWing M0 Express, Adafruit ItsyBitsy M0, Adafruit ItsyBitsy M4, Adafruit METRO M0 Express, Adafruit Metro M4, Adafruit NeoTrellis M4, Adafruit Trinket M0, Adafruit PyPortal.
 - [Arduino](https://www.arduino.cc/) - Arduino MKR 1300, Arduino MKR ZERO, Arduino ZERO.
@@ -91,6 +91,13 @@ All supported boards can be located in the latest release builds - [GitHub](http
 
 ## News
 
+-[VIDEO: PyCascades - Light Up Your Life - With Python and LEDs](https://youtu.be/mesYTFiRtDs) by Nina Zakharenko. Python opens a whole new world of working with wearable electronics.
+-[Make: Vol. 68 Boards guide](https://blog.adafruit.com/2019/03/23/make-vol-68-april-may-2019-is-here-guide-to-boards-tech-trend-1-the-push-for-python-make-adafruit-circuitpython/) - Make: Magazine names Python the #1 Tech Trend for boards in 2019!
+- [Scott Shawcroft Is Squeezing Python Into Microcontrollers](https://spectrum.ieee.org/at-work/tech-careers/scott-shawcroft-is-squeezing-python-into-microcontrollers) - IEEE Spectrum Magazine article on the Python programming language for makers.
+- [Adafruit PyPortal: GUI meets CircuitPython in a Big Way](https://anchor.fm/disruptityourself/episodes/Adafruit-PyPortal-GUI-meets-CircuitPython-in-a-Big-Way-e3g745) - Disrupt It Yourself podcast on CircuitPython and the IoT device, PyPortal.
+- [Cool Tools](https://youtu.be/Kz4C7sCLWb0) - Sophy Wong Talks Circuit Playground Express including CircuitPython.
+- [CircuitPython for Rapid Microcontroller-Based Prototyping and Development](https://www.digikey.com/en/articles/techzone/2019/mar/the-basics-of-circuitpython-for-rapid-microcontroller-based-prototyping-and-development) - Digi-Key on the open source community's efforts adapting specific microcontrollers and dev boards to support serious microcontroller development using CircuitPython.
+- [HackSpace Magazine - Issue 17](https://hackspace.raspberrypi.org/features/adafruit-grand-central-m4-express-review) - CircuitPython powered Adafruut Grand Central M4 Express review.
 - [Python on Hardware Means Choices for Makers](https://www.apress.com/us/blog/all-blog-posts/python-on-hardware-means-choices-for-makers/16332230) by Liz Clark - Apress. CircuitPython (a fork of MicroPython that is designed from the ground up to be beginner friendly.) This allows end users to use Python for their electronics hardware projects similar to how they may have used C/C++ with the Arduino IDE.
 - [Method's Magazine](http://www.mouser.com/news/methods/2019-1/mobile/index.html#p=35) - Methods eZine: Design Trends & the Transformation of Everything features Python on hardware, page 35 - [PDF](http://www.mouser.com/pdfdocs/Mouser-Methods-v3i1.pdf).
 - [HackSpace Magazine - Issue 15](https://blog.adafruit.com/2019/01/24/issue-15-hackspace-magazine-circuitpython-hackspacemag-by-ben-everard-ben_everard-circuitpython-circuitpython-madewithmu/) - CircuitPython makes the cover on HackSpace Magazine with feature article, and projects.
