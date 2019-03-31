@@ -92,7 +92,7 @@ All supported boards can be located in the latest release builds - [GitHub](http
 ## News
 
 - [VIDEO: PyCascades - Light Up Your Life - With Python and LEDs](https://youtu.be/mesYTFiRtDs) by Nina Zakharenko. Python opens a whole new world of working with wearable electronics.
- - [Use CircuitPython boards on the TI-83 Premium CE calculator] - CircuitPython runs on Texas Instrument calculators.
+ - [Use CircuitPython boards on the TI-83 Premium CE calculator](https://blog.adafruit.com/2019/03/31/use-circuitpython-boards-on-the-ti-83-premium-ce-calculator-tiplanetnews-ticalculators-circuitpython-circuitpython/) - CircuitPython runs on Texas Instrument calculators.
 - [Make: Vol. 68 Boards guide](https://blog.adafruit.com/2019/03/23/make-vol-68-april-may-2019-is-here-guide-to-boards-tech-trend-1-the-push-for-python-make-adafruit-circuitpython/) - Make: Magazine names Python the #1 Tech Trend for boards in 2019!
 - [Scott Shawcroft Is Squeezing Python Into Microcontrollers](https://spectrum.ieee.org/at-work/tech-careers/scott-shawcroft-is-squeezing-python-into-microcontrollers) - IEEE Spectrum Magazine article on the Python programming language for makers.
 - [Circuit Playground Express 4-H edition approved](https://blog.adafruit.com/2019/03/18/adafruit-circuit-playground-express-4-h-edition-approved-adafruit-4h-4h-4hgrowshere/) - The 4-H branded version was approved by the USDA, this is the first CircuitPython powered board that is also 4-H approved!
