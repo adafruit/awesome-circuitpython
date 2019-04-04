@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="400" src="https://github.com/adafruit/awesome-circuitpython/blob/master/awesome_circuitpython.png" alt="Awesome CircuitPython"><br>
+  <img width="400" src="https://raw.githubusercontent.com/adafruit/awesome-circuitpython/master/awesome_circuitpython.png" alt="Awesome CircuitPython"><br>
 </h1>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -159,7 +159,7 @@ What else is happening? The CircuitPython team will be running several Open Spac
 - [Blinka the CircuitPython Sticker](https://www.adafruit.com/product/3725) - A sticker featuring Blinka, the CircuitPython mascot.
 - [Blinka the CircuitPython Temporary Tattoo](https://www.adafruit.com/product/2600) - A temporary tattoo featuring the Blinka character.
  - [CircuitPlayground lanyard](https://www.adafruit.com/product/3987) - CircuitPlayground lanyard featuring Blinka.
- 
+
 ## Contributing
 
 Contributions and suggestions are always welcome! Please make pull requests to modify Awesome CircuitPython.
