@@ -83,7 +83,7 @@ All supported boards may be viewed at [circuitpython.org](https://circuitpython.
 - [Max Holliday](https://github.com/RoboticExplorationLab/sprite) - KickSat Sprite, SAM32.
 - [Itaca Innovation](https://www.kickstarter.com/projects/1186620431/uchip-arduino-zero-compatible-in-a-narrow-dip-16-p) - uChip
 
-Adding new boards to the CircuitPython list on circuitpython.org: Please do a pull request on GitHub at [https://github.com/adafruit/circuitpython](https://github.com/adafruit/circuitpython). ZDevelopers can help get the correct pin data and other information to map your board into the CircuitPython releases.
+Adding new boards to the CircuitPython list on circuitpython.org: Please do a pull request on GitHub at [https://github.com/adafruit/circuitpython](https://github.com/adafruit/circuitpython). CircuitPython developers may help get the correct pin data and other information to map a new board.
 
 [CircuitPython sensors and accessories](https://www.adafruit.com/category/956) - Complete listing of sensors, LCDs, displays, robotics, breakout boards, and more.
 
