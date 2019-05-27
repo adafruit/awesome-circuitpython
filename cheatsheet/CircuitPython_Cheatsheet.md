@@ -54,7 +54,7 @@ You can use a PWM in one of two ways.
 
 1) With fixed frequency PWM with variable duty cycle. This is useful for controllign the brightness of a LED or the speed of a motor.
 
-    import time
+```import time
     import board
     import pulseio
 
@@ -68,10 +68,11 @@ You can use a PWM in one of two ways.
             else:
                 led.duty_cycle = 65535 - int((i - 50) * 2 * 65535 / 100)  # Down
             time.sleep(0.01)
+```
 
 2) With variable frequency as well. This is handy for producing tones. The duty cycle effects the sound (as opposed to the note).
 
-    import time
+```import time
     import board
     import pulseio
 
@@ -85,7 +86,7 @@ You can use a PWM in one of two ways.
             piezo.duty_cycle = 0  # Off
             time.sleep(0.05)  # Pause between notes
         time.sleep(0.5)
-
+```
 ## Servo ##
 
     import time
