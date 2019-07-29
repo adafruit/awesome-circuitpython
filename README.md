@@ -102,7 +102,7 @@ Adding new boards to the CircuitPython list on [circuitpython.org](https://circu
 
 ## News
 
-- [The MagPi Magazine Control servos with CircuitPython and Raspberry Pi](https://blog.adafruit.com/2019/07/27/issue-84-the-magpi-magazinethe-magpi-magazine-control-servos-with-circuitpython-and-raspberry-pi-by-makermelissa-themagpi-raspberry_pi-circuitpython-blinka/) - by Melissa LeBlanc-Williams, July, 2019.
+- [Control servos with CircuitPython and Raspberry Pi](https://blog.adafruit.com/2019/07/27/issue-84-the-magpi-magazinethe-magpi-magazine-control-servos-with-circuitpython-and-raspberry-pi-by-makermelissa-themagpi-raspberry_pi-circuitpython-blinka/) - The MagPi Magazine, Issue 84, Melissa LeBlanc-Williams, July, 2019.
 - [PyDev of the Week: Scott Shawcroft](https://www.blog.pythonlibrary.org/2019/07/01/pydev-of-the-week-scott-shawcroft/), July 1, 2019.
 - [Scott Shawcroft: History of CircuitPython](https://pyfound.blogspot.com/2019/05/scott-shawcroft-history-of-circuitpython.html) - A discussion of CircuitPython for the core developers of Python, PyCon 2019.
 - [Five Things You Didn't Know Python Could Do](https://www.youtube.com/watch?v=HNrMjH9Yuv4) - YouTube video, June 19, 2019.
