@@ -103,6 +103,7 @@ Adding new boards to the CircuitPython list on [circuitpython.org](https://circu
 
 ## News
 
+- [Changing Lives through Open Source, Passion and Mentoring](https://youtu.be/-bBHXimlfPQ) - the [keynote talk at PyOhio](https://www.pyohio.org/2019/presentations/126), July 27, 2019 by Kattni Rembor.
 - [Control servos with CircuitPython and Raspberry Pi](https://blog.adafruit.com/2019/07/27/issue-84-the-magpi-magazinethe-magpi-magazine-control-servos-with-circuitpython-and-raspberry-pi-by-makermelissa-themagpi-raspberry_pi-circuitpython-blinka/) - The MagPi Magazine, Issue 84, Melissa LeBlanc-Williams, July, 2019.
 - [PyDev of the Week: Scott Shawcroft](https://www.blog.pythonlibrary.org/2019/07/01/pydev-of-the-week-scott-shawcroft/), July 1, 2019.
 - [Scott Shawcroft: History of CircuitPython](https://pyfound.blogspot.com/2019/05/scott-shawcroft-history-of-circuitpython.html) - A discussion of CircuitPython for the core developers of Python, PyCon 2019.
@@ -162,12 +163,12 @@ Adding new boards to the CircuitPython list on [circuitpython.org](https://circu
 - [ASK AN ENGINEER, Wednesday 8pm ET on YouTube LIVE](https://www.youtube.com/adafruit/live) - The longest running Youtube live show about electronics, information on CircuitPython each week during "Python on hardware segment".
 
 ## Swag
- - [CircuitPython 4 release poster](https://www.adafruit.com/product/4082) - CircuitPython release version 4 poster featuring Nordic.
- - [CircuitPython 3 release poster](https://www.adafruit.com/product/3793) - CircuitPython release version 3 poster.
+- [CircuitPython 4 release poster](https://www.adafruit.com/product/4082) - CircuitPython release version 4 poster featuring Nordic.
+- [CircuitPython 3 release poster](https://www.adafruit.com/product/3793) - CircuitPython release version 3 poster.
 - [Blinka the CircuitPython Limited Edition Enamel Pin](https://www.adafruit.com/product/3680) - An enamel pin with the CircuitPython mascot.
 - [Blinka the CircuitPython Sticker](https://www.adafruit.com/product/3725) - A sticker featuring Blinka, the CircuitPython mascot.
 - [Blinka the CircuitPython Temporary Tattoo](https://www.adafruit.com/product/2600) - A temporary tattoo featuring the Blinka character.
- - [CircuitPlayground lanyard](https://www.adafruit.com/product/3987) - CircuitPlayground lanyard featuring Blinka.
+- [CircuitPlayground lanyard](https://www.adafruit.com/product/3987) - CircuitPlayground lanyard featuring Blinka.
 
 ## Contributing
 
