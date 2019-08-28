@@ -171,6 +171,15 @@ Adding new boards to the CircuitPython list on [circuitpython.org](https://circu
 - [Blinka the CircuitPython Temporary Tattoo](https://www.adafruit.com/product/2600) - A temporary tattoo featuring the Blinka character.
 - [CircuitPlayground lanyard](https://www.adafruit.com/product/3987) - CircuitPlayground lanyard featuring Blinka.
 
+## Talks
+
+- [MicroPython & the Internet of Things](https://youtu.be/EvGhPmPPzko) - MicroPython & the Internet of Things by Damien George at GOTO 2016
+- [Changing Lives through Open Source, Passion and Mentoring](https://youtu.be/-bBHXimlfPQ) - Changing Lives through Open Source, Passion and Mentoring, Keynote by Kattni Rembor at Pyohio 2019
+- [CircuitPython: Python on hardware](https://youtu.be/rN7kvWuAt7k) - CircuitPython: Python on hardware by Dave Astels at PyCon Canada
+- [Lighting Macro Photographs with CircuitPython](https://youtu.be/JAgCZ70Q3sg) - Lighting Macro Photographs with CircuitPython by Stacy Morse at PyCon Australia 
+- [Embedded Programming for everyone using MicroPython and CircuitPython](https://youtu.be/LRvh1UDTbU0) - Embedded Programming for everyone using MicroPython and CircuitPython by Ayan Pahwa at FOSSASIA Summit
+- [Writing fast and efficient MicroPython](https://youtu.be/hHec4qL00x0) - Writing fast and efficient MicroPython by Damien George at PyCon Australia
+
 ## Contributing
 
 Contributions and suggestions are always welcome! Please make pull requests to modify Awesome CircuitPython.
