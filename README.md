@@ -90,6 +90,7 @@ All supported boards may be viewed at [circuitpython.org](https://circuitpython.
 - [Capable Robot Components](http://capablerobot.com/) - [Programmable USB Hub](https://www.crowdsupply.com/capable-robot-components/programmable-usb-hub), [SenseTemp](https://www.crowdsupply.com/capable-robot-components/sensetemp).
 - [Amitabh Shrivastava](https://tinkrmind.me/) - [Hearrings](https://tinkrmind.me/portfolio/hearrings/).
 - Prof. Fartsparkle - [Numberwang badge](https://hackaday.com/2019/09/02/the-numberwang-badge-brought-cheer-to-cccamp-2019/)
+- [arturo182](https://twitter.com/arturo182) - [Serpente](https://www.tindie.com/products/arturo182/serpente-a-tiny-circuitpython-prototyping-board/)
 
 Adding new boards to the CircuitPython list on [circuitpython.org](https://circuitpython.org): Please do a pull request on GitHub at [https://github.com/adafruit/circuitpython](https://github.com/adafruit/circuitpython). CircuitPython developers may help get the correct pin data and other information to map a new board.
 
