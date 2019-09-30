@@ -65,6 +65,7 @@
 
 ## Frameworks
 
+- [Glider – An app for editing Python on mobile devices wirelessly](https://github.com/adafruit/glider) - Also a [video](https://youtu.be/NYpcjDBA6xw), in development. 
 - [The Mu Editor, IDE, REPL, and plotter for CircuitPython](https://codewith.mu/) - The recommended Python editor for CircuitPython.
 - [For developers, Mu: A Python Code Editor](http://mu.readthedocs.io/en/latest/) - The documentation for Mu.
 - [Using Microsoft VSCode for CircuitPython](https://blog.adafruit.com/2019/01/02/using-visual-studio-code-to-program-circuitpython-with-an-adafruit-neotrellis-m4-adafruit-neotrellis-circuitpython/) - blog post discussing the process.
