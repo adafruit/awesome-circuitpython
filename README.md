@@ -74,6 +74,7 @@
 - [Using Microsoft VSCode for CircuitPython](https://blog.adafruit.com/2019/01/02/using-visual-studio-code-to-program-circuitpython-with-an-adafruit-neotrellis-m4-adafruit-neotrellis-circuitpython/) - blog post discussing the process.
 - [A helper for CircuitPython development with Atom](https://github.com/s-light/CircuitPython_Atom_helper) - A helper for the [Atom editor](https://atom.io/).
 - [Thonny, a Python IDE for beginners](https://thonny.org/) - An editor with support for CircuitPython and MicroPython.
+- [Microsoft Device Simulator Express](https://marketplace.visualstudio.com/items?itemName=ms-python.devicesimulatorexpress) - Virtual Circuit Playground Express and CircuitPython programming in Visual Studio Code.
 
 ## Hardware
 
