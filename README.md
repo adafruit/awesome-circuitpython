@@ -185,6 +185,7 @@ Adding new boards to the CircuitPython list on [circuitpython.org](https://circu
 
 ## Talks
 
+- [PyCon India - 2019 Interactive Hardware Poster Presentation powered by CircuitPython by Ayan Pahwa and Aakanksha Agrawal](https://youtu.be/mmLI0HKfPQI)
 - [Max Holiday - CircuitPython in space, SmallSats and more!](https://www.youtube.com/watch?v=Mb9c4e7ID9E&feature=youtu.be)
 - [EuroPython 2019 talk video: Nicholas Tollervey – Tools of the Trade: The Making of a Code Editor](https://blog.adafruit.com/2019/10/01/europython-2019-talk-video-nicholas-tollervey-tools-of-the-trade-the-making-of-a-code-editor-python-circuitpython-europython-ntoll/)
 - [EuroPython 2019 talk video: Radomir Dopieralski – Game Development with CircuitPython](https://blog.adafruit.com/2019/10/01/europython-2019-talk-video-radomir-dopieralski-game-development-with-circuitpython-cirecuitpython-europython-deshipu/)
