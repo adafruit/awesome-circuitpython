@@ -88,7 +88,7 @@ All supported boards may be viewed at [circuitpython.org](https://circuitpython.
 - [Particle](https://www.particle.io/) - Particle Argon, Particle Boron, Particle Xenon.
 - [Benjamin Shockley](https://www.minisam.cc/product-category/development-board/) - Mini SAM M4.
 - [Radomir Dopieralski](https://www.tindie.com/products/deshipu/small-pewpew-standalone/) - PewPew, μGame.
-- [SparkFun](https://www.sparkfun.com/) - SparkFun Pro nRF52840 Mini, SparkFun SAMD21 Mini, SparkFun SAMD21 Dev, SparkFun Pro nRF52840 Mini, SparkFun SAMD21 Dev, SparkFun RedBoard Turbo, SparkFun LumiDrive.
+- [SparkFun](https://www.sparkfun.com/) - SparkFun Pro nRF52840 Mini, SparkFun SAMD21 Mini, SparkFun SAMD21 Dev, SparkFun Pro nRF52840 Mini, SparkFun SAMD21 Dev, SparkFun RedBoard Turbo, SparkFun LumiDrive, [Sparkfun Qwiic Micro](https://www.sparkfun.com/products/15423).
 - [Dave Astels](http://daveastels.com/feather-m0-express-supersizing.html) - Feather M0 Supersized, Trinket M0 Haxpress.
 - [Max Holliday](https://github.com/RoboticExplorationLab/sprite) - KickSat Sprite, SAM32.
 - [Itaca Innovation](https://www.kickstarter.com/projects/1186620431/uchip-arduino-zero-compatible-in-a-narrow-dip-16-p) - uChip
@@ -96,6 +96,7 @@ All supported boards may be viewed at [circuitpython.org](https://circuitpython.
 - [Amitabh Shrivastava](https://tinkrmind.me/) - [Hearrings](https://tinkrmind.me/portfolio/hearrings/).
 - Prof. Fartsparkle - [Numberwang badge](https://hackaday.com/2019/09/02/the-numberwang-badge-brought-cheer-to-cccamp-2019/)
 - [arturo182](https://twitter.com/arturo182) - [Serpente](https://www.tindie.com/products/arturo182/serpente-a-tiny-circuitpython-prototyping-board/)
+- [Sony](https://developer.sony.com/) - [Spresense](https://developer.sony.com/develop/spresense/)
 
 Adding new boards to the CircuitPython list on [circuitpython.org](https://circuitpython.org): Please do a pull request on GitHub at [https://github.com/adafruit/circuitpython](https://github.com/adafruit/circuitpython). CircuitPython developers may help get the correct pin data and other information to map a new board.
 
