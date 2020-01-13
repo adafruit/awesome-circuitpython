@@ -68,7 +68,7 @@
 
 ## Frameworks
 
-- [Glider: An app for editing Python on mobile devices wirelessly](https://github.com/adafruit/glider) - Also a [video](https://youtu.be/NYpcjDBA6xw), in development. 
+- [Glider: An app for editing Python on mobile devices wirelessly](https://github.com/adafruit/glider) - Also a [video](https://youtu.be/NYpcjDBA6xw), in development.
 - [The Mu Editor, IDE, REPL, and plotter for CircuitPython](https://codewith.mu/) - The recommended Python editor for CircuitPython.
 - [For developers, Mu: A Python Code Editor](http://mu.readthedocs.io/en/latest/) - The documentation for Mu.
 - [Using Microsoft VSCode for CircuitPython](https://blog.adafruit.com/2019/01/02/using-visual-studio-code-to-program-circuitpython-with-an-adafruit-neotrellis-m4-adafruit-neotrellis-circuitpython/) - blog post discussing the process.
@@ -119,8 +119,8 @@ Adding new boards to the CircuitPython list on [circuitpython.org](https://circu
 - [Scott Shawcroft: History of CircuitPython](https://pyfound.blogspot.com/2019/05/scott-shawcroft-history-of-circuitpython.html) - A discussion of CircuitPython for the core developers of Python, PyCon 2019.
 - [Five Things You Didn't Know Python Could Do](https://www.youtube.com/watch?v=HNrMjH9Yuv4) - YouTube video, June 19, 2019.
 - [PyCon2019 Keynote - Light Up Your Life - With Python and LEDs](https://www.youtube.com/watch?v=35mXD40SvXM) by Nina Zakharenko. Python opens a whole new world of working with wearable electronics. The slides are [also available](https://speakerdeck.com/nnja/preso-c22944f3-ce78-4ced-8a34-f866656bf6c8).
- - [Learn Hardware Programming with CircuitPython](https://www.codecademy.com/learn/learn-circuitpython?utm_source=adafruit&utm_medium=partners&utm_campaign=circuitplayground&utm_content=blog_home) - A course offered by Codecademy in collaboration with Adafruit.
- - [Use CircuitPython boards on the TI-83 Premium CE calculator](https://blog.adafruit.com/2019/03/31/use-circuitpython-boards-on-the-ti-83-premium-ce-calculator-tiplanetnews-ticalculators-circuitpython-circuitpython/) - CircuitPython runs on Texas Instrument calculators.
+- [Learn Hardware Programming with CircuitPython](https://www.codecademy.com/learn/learn-circuitpython?utm_source=adafruit&utm_medium=partners&utm_campaign=circuitplayground&utm_content=blog_home) - A course offered by Codecademy in collaboration with Adafruit.
+- [Use CircuitPython boards on the TI-83 Premium CE calculator](https://blog.adafruit.com/2019/03/31/use-circuitpython-boards-on-the-ti-83-premium-ce-calculator-tiplanetnews-ticalculators-circuitpython-circuitpython/) - CircuitPython runs on Texas Instrument calculators.
 - [Make: Vol. 68 Boards guide](https://blog.adafruit.com/2019/03/23/make-vol-68-april-may-2019-is-here-guide-to-boards-tech-trend-1-the-push-for-python-make-adafruit-circuitpython/) - Make: Magazine names Python the #1 Tech Trend for boards in 2019!
 - [Scott Shawcroft Is Squeezing Python Into Microcontrollers](https://spectrum.ieee.org/at-work/tech-careers/scott-shawcroft-is-squeezing-python-into-microcontrollers) - IEEE Spectrum Magazine article on the Python programming language for makers.
 - [Circuit Playground Express 4-H edition approved](https://blog.adafruit.com/2019/03/18/adafruit-circuit-playground-express-4-h-edition-approved-adafruit-4h-4h-4hgrowshere/) - The 4-H branded version was approved by the USDA, this is the first CircuitPython powered board that is also 4-H approved!
@@ -175,6 +175,7 @@ Adding new boards to the CircuitPython list on [circuitpython.org](https://circu
 - [PyCon 2020](https://us.pycon.org/2020/about/) - Pittsburg, PA USA April 15-23, 2020, planned CircuitPython hardware and sprints.
 
 ## Swag
+
 - [CircuitPython 5 release poster](https://www.adafruit.com/product/4365) - CircuitPython release version 5 poster.
 - [CircuitPython 4 release poster](https://www.adafruit.com/product/4082) - CircuitPython release version 4 poster featuring Nordic.
 - [CircuitPython 3 release poster](https://www.adafruit.com/product/3793) - CircuitPython release version 3 poster.
@@ -195,7 +196,7 @@ Adding new boards to the CircuitPython list on [circuitpython.org](https://circu
 - [MicroPython & the Internet of Things](https://youtu.be/EvGhPmPPzko) - MicroPython & the Internet of Things by Damien George at GOTO 2016
 - [Changing Lives through Open Source, Passion and Mentoring](https://youtu.be/-bBHXimlfPQ) - Changing Lives through Open Source, Passion and Mentoring, Keynote by Kattni Rembor at Pyohio 2019
 - [CircuitPython: Python on hardware](https://youtu.be/rN7kvWuAt7k) - CircuitPython: Python on hardware by Dave Astels at PyCon Canada
-- [Lighting Macro Photographs with CircuitPython](https://youtu.be/JAgCZ70Q3sg) - Lighting Macro Photographs with CircuitPython by Stacy Morse at PyCon Australia 
+- [Lighting Macro Photographs with CircuitPython](https://youtu.be/JAgCZ70Q3sg) - Lighting Macro Photographs with CircuitPython by Stacy Morse at PyCon Australia
 - [Embedded Programming for everyone using MicroPython and CircuitPython](https://youtu.be/LRvh1UDTbU0) - Embedded Programming for everyone using MicroPython and CircuitPython by Ayan Pahwa at FOSSASIA Summit
 - [Writing fast and efficient MicroPython](https://youtu.be/hHec4qL00x0) - Writing fast and efficient MicroPython by Damien George at PyCon Australia
 
