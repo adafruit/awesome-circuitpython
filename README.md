@@ -202,7 +202,22 @@ Adding new boards to the CircuitPython list on [circuitpython.org](https://circu
 
 ## Contributing
 
-Contributions and suggestions are always welcome! Please make pull requests to modify Awesome CircuitPython.
+Contributions and suggestions are always welcome! Please make pull requests from your own fork to modify Awesome CircuitPython.
+
+The workflow is explained in detail here: [Adafruit : Contribute to CircuitPython with Git and GitHub](https://learn.adafruit.com/contribute-to-circuitpython-with-git-and-github/overview)
+
+### Contribution Workflow Overview
+
+1. Fork the repo on Github.
+1. Clone the forked repo to your drive.
+1. Add a remote using owner adafruit and the original URL.
+1. Fetch the remote
+1. Merge adafruit master
+1. Create a branch
+1. Make a change
+1. Commit and push to your repo
+1. Create a pull request on the official repo.
+1. Once accepted, repeat by merging from the official repo to your fork's master, and re-branch.
 
 ## License & Trademarks
 
