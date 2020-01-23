@@ -153,7 +153,6 @@ Adding new boards to the CircuitPython list on [circuitpython.org](https://circu
 - [CircuitPython Twitter](https://twitter.com/circuitpython) - Twitter account aggregator for CircuitPython news and more.
 - [CircuitPython videos on YouTube, latest](https://www.youtube.com/results?sp=CAI%253D&search_query=circuitpython) - YouTube posts tagged CircuitPython.
 - [#CircuitPython tagged photos & videos on Instagram](https://www.instagram.com/explore/tags/circuitpython/) - Posts on Instagram tagged CircuitPython.
-- [CircuitPython on Google+ Makers, hackers, artists & engineers](https://plus.google.com/u/0/b/112526208786662512291/communities/112845006884148391862/stream/7235f94a-ceab-4a9a-90b2-a47438af0675) - Google Plus posts related to CircuitPython.
 - [CircuitPython - micropython.org forums](https://forum.micropython.org/search.php?keywords=adafruit&terms=all&author=&sc=1&sf=all&sr=posts&sk=t&sd=d&st=0&ch=300&t=0&submit=Search) - Articles on the MicroPython forums tagged for CircuitPython.
 - [CircuitPython tagged on Reddit](https://www.reddit.com/domain/adafruit.com/search?q=circuit+python&sort=new&t=week) - Reddit posts relating to CircuitPython.
 - [CircuitPython community on Reddit](https://www.reddit.com/r/circuitpython/) - Dedicated home of CircuitPython on reddit /r/circuitpython/
