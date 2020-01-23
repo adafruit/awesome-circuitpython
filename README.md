@@ -197,6 +197,7 @@ Adding new boards to the CircuitPython list on [circuitpython.org](https://circu
 - [Lighting Macro Photographs with CircuitPython](https://youtu.be/JAgCZ70Q3sg) - Lighting Macro Photographs with CircuitPython by Stacy Morse at PyCon Australia 
 - [Embedded Programming for everyone using MicroPython and CircuitPython](https://youtu.be/LRvh1UDTbU0) - Embedded Programming for everyone using MicroPython and CircuitPython by Ayan Pahwa at FOSSASIA Summit
 - [Writing fast and efficient MicroPython](https://youtu.be/hHec4qL00x0) - Writing fast and efficient MicroPython by Damien George at PyCon Australia
+- [Extending MicroPython: Using C for good](https://www.youtube.com/watch?v=437CZBnK8vI) - A look at how MicroPython can be extended to add features and improve performance. By Matt Trentini at PyCon Australia
 
 ## Contributing
 
