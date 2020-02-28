@@ -97,7 +97,7 @@ All supported boards may be viewed at [circuitpython.org](https://circuitpython.
 - [Robotics Masters](https://www.roboticsmasters.co/) - [Robo HAT MM1 M4](https://www.crowdsupply.com/robotics-masters/robo-hat-mm1)
 - [Amitabh Shrivastava](https://tinkrmind.me/) - [Hearrings](https://tinkrmind.me/portfolio/hearrings/).
 - Prof. Fartsparkle - [Numberwang badge](https://hackaday.com/2019/09/02/the-numberwang-badge-brought-cheer-to-cccamp-2019/)
-- [arturo182](https://twitter.com/arturo182) - [Serpente](https://www.tindie.com/products/arturo182/serpente-a-tiny-circuitpython-prototyping-board/), Feather MIMXRT1062.
+- [arturo182](https://twitter.com/arturo182) - [Serpente](https://www.tindie.com/products/arturo182/serpente-a-tiny-circuitpython-prototyping-board/), Feather MIMXRT1062, [Feather MIMXRT1011](https://circuitpython.org/board/feather_mimxrt1011/).
 - [Sony](https://developer.sony.com/) - [Spresense](https://developer.sony.com/develop/spresense/)
 - [PJRC](https://www.pjrc.com/) - [Teensy 4.0](https://www.adafruit.com/product/4323)
 - [Electronut Labs](https://docs.electronut.in/) - [Papyr](https://docs.electronut.in/papyr/#buy-papyr)
@@ -107,6 +107,7 @@ All supported boards may be viewed at [circuitpython.org](https://circuitpython.
 - OSHWA - Open Hardware Summit 2020 Badge
 - Damien George - [PyBoard 1.1](https://www.adafruit.com/product/2390)
 - [Seeed Studios](https://www.seeedstudio.com/) - [Seeeduino XIAO](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html)
+- Oddly Specific Objects - [The Open Book](https://github.com/joeycastillo/The-Open-Book)
 
 Adding new boards to the CircuitPython list on [circuitpython.org](https://circuitpython.org): Please do a pull request on GitHub at [https://github.com/adafruit/circuitpython](https://github.com/adafruit/circuitpython). CircuitPython developers may help get the correct pin data and other information to map a new board.
 
