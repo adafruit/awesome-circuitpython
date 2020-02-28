@@ -88,13 +88,14 @@ All supported boards may be viewed at [circuitpython.org](https://circuitpython.
 - [NXP](https://www.nxp.com/) - [MIMXRT1010 Eval Kit](https://www.nxp.com/design/development-boards/i.mx-evaluation-and-development-boards/i.mx-rt1010-evaluation-kit:MIMXRT1010-EVK)
 - [Particle](https://www.particle.io/) - Particle Argon, Particle Boron, Particle Xenon.
 - [Benjamin Shockley](https://www.minisam.cc/product-category/development-board/) - Mini SAM M4.
-- [Radomir Dopieralski](https://www.tindie.com/products/deshipu/small-pewpew-standalone/) - PewPew, μGame.
-- [SparkFun](https://www.sparkfun.com/) - SparkFun Pro nRF52840 Mini, SparkFun SAMD21 Mini, SparkFun SAMD21 Dev, SparkFun Pro nRF52840 Mini, SparkFun SAMD21 Dev, SparkFun RedBoard Turbo, SparkFun LumiDrive, [Sparkfun Qwiic Micro](https://www.sparkfun.com/products/15423), [SparkFun Qwiic Micro without Flash](https://www.sparkfun.com/products/15423).
+- [Radomir Dopieralski](https://www.tindie.com/products/deshipu/small-pewpew-standalone/) - PewPew, μGame, [PewPew M4](https://hackaday.io/project/165032-pewpew-m4).
+- [SparkFun](https://www.sparkfun.com/) - SparkFun Pro nRF52840 Mini, SparkFun SAMD21 Mini, SparkFun SAMD21 Dev, SparkFun Pro nRF52840 Mini, SparkFun SAMD21 Dev, SparkFun RedBoard Turbo, SparkFun LumiDrive, [Sparkfun Qwiic Micro](https://www.sparkfun.com/products/15423), [SparkFun Qwiic Micro without Flash](https://www.sparkfun.com/products/15423), [SparkFun Qwiic Micro with Flash](https://www.sparkfun.com/products/15423), [SAMD51 Thing Plus](https://www.sparkfun.com/products/14713).
 - [Dave Astels](http://daveastels.com/feather-m0-express-supersizing.html) - Feather M0 Supersized, Trinket M0 Haxpress.
 - [Max Holliday](https://github.com/RoboticExplorationLab/sprite) - KickSat Sprite, SAM32.
 - [Itaca Innovation](https://www.kickstarter.com/projects/1186620431/uchip-arduino-zero-compatible-in-a-narrow-dip-16-p) - uChip M0
 - [Capable Robot Components](http://capablerobot.com/) - [Programmable USB Hub](https://www.crowdsupply.com/capable-robot-components/programmable-usb-hub), [SenseTemp](https://www.crowdsupply.com/capable-robot-components/sensetemp).
 - [Robotics Masters](https://www.roboticsmasters.co/) - [Robo HAT MM1 M4](https://www.crowdsupply.com/robotics-masters/robo-hat-mm1)
+- Robot Exploration Lab - [PyCubed](https://circuitpython.org/board/pycubed/)
 - [Amitabh Shrivastava](https://tinkrmind.me/) - [Hearrings](https://tinkrmind.me/portfolio/hearrings/).
 - Prof. Fartsparkle - [Numberwang badge](https://hackaday.com/2019/09/02/the-numberwang-badge-brought-cheer-to-cccamp-2019/)
 - [arturo182](https://twitter.com/arturo182) - [Serpente](https://www.tindie.com/products/arturo182/serpente-a-tiny-circuitpython-prototyping-board/), Feather MIMXRT1062, [Feather MIMXRT1011](https://circuitpython.org/board/feather_mimxrt1011/).
@@ -108,11 +109,14 @@ All supported boards may be viewed at [circuitpython.org](https://circuitpython.
 - Damien George - [PyBoard 1.1](https://www.adafruit.com/product/2390)
 - [Seeed Studios](https://www.seeedstudio.com/) - [Seeeduino XIAO](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html)
 - Oddly Specific Objects - [The Open Book](https://github.com/joeycastillo/The-Open-Book)
-- ST - [STM32F412 Discovery Kit](https://www.st.com/en/evaluation-tools/32f412gdiscovery.html), [STM32F411 Discovery kit](https://www.st.com/en/evaluation-tools/32f411ediscovery.html)
+- ST - [STM32F412 Discovery Kit](https://www.st.com/en/evaluation-tools/32f412gdiscovery.html), [STM32F411 Discovery kit](https://www.st.com/en/evaluation-tools/32f411ediscovery.html), [STM32F407 Discovery Kit](https://www.st.com/en/evaluation-tools/stm32f4discovery.html)
 - Alethea Flowers - [Winterbloom Sol](https://thea.codes/)
 - Cedar Grove Studios - StringCar M0 Express
 - keithp.com - [Snekboard](https://keithp.com/snek/snekboard)
 - Elecrow - [PYB Nano v2](https://www.elecrow.com/micropython-development-board-pyb-nano-compatible-with-python.html)
+- XinaBox - [XinaBox CS11](https://xinabox.cc/products/cs11?_pos=1&_sid=8a988d61c&_ss=r), [XinaBox CC03](https://xinabox.cc/products/cc03?_pos=1&_sid=ecd354e4d&_ss=r)
+- Teknikio - [Bluebird](https://www.teknikio.com/pages/bluebird)
+- Sarfata - [ShIRtty Board](https://github.com/sarfata/shirtty-addon)
 
 
 Adding new boards to the CircuitPython list on [circuitpython.org](https://circuitpython.org): Please do a pull request on GitHub at [https://github.com/adafruit/circuitpython](https://github.com/adafruit/circuitpython). CircuitPython developers may help get the correct pin data and other information to map a new board.
