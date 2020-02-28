@@ -101,6 +101,7 @@ All supported boards may be viewed at [circuitpython.org](https://circuitpython.
 - [Electronut Labs](https://docs.electronut.in/) - [Papyr](https://docs.electronut.in/papyr/#buy-papyr)
 - TZT - STM32F411CE Black Pill
 - [J&J Studios](https://jandjstudios.io/) - [datum-IMU](https://jandjstudios.io/datum/datum-IMU/), [datum-Distance](https://jandjstudios.io/datum/datum-Distance/)
+- KittenbBot- [Meowbit](https://www.adafruit.com/product/4324)
 
 Adding new boards to the CircuitPython list on [circuitpython.org](https://circuitpython.org): Please do a pull request on GitHub at [https://github.com/adafruit/circuitpython](https://github.com/adafruit/circuitpython). CircuitPython developers may help get the correct pin data and other information to map a new board.
 
