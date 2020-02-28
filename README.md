@@ -89,7 +89,7 @@ All supported boards may be viewed at [circuitpython.org](https://circuitpython.
 - [Particle](https://www.particle.io/) - Particle Argon, Particle Boron, Particle Xenon.
 - [Benjamin Shockley](https://www.minisam.cc/product-category/development-board/) - Mini SAM M4.
 - [Radomir Dopieralski](https://www.tindie.com/products/deshipu/small-pewpew-standalone/) - PewPew, μGame.
-- [SparkFun](https://www.sparkfun.com/) - SparkFun Pro nRF52840 Mini, SparkFun SAMD21 Mini, SparkFun SAMD21 Dev, SparkFun Pro nRF52840 Mini, SparkFun SAMD21 Dev, SparkFun RedBoard Turbo, SparkFun LumiDrive, [Sparkfun Qwiic Micro](https://www.sparkfun.com/products/15423).
+- [SparkFun](https://www.sparkfun.com/) - SparkFun Pro nRF52840 Mini, SparkFun SAMD21 Mini, SparkFun SAMD21 Dev, SparkFun Pro nRF52840 Mini, SparkFun SAMD21 Dev, SparkFun RedBoard Turbo, SparkFun LumiDrive, [Sparkfun Qwiic Micro](https://www.sparkfun.com/products/15423), [SparkFun Qwiic Micro without Flash](https://www.sparkfun.com/products/15423).
 - [Dave Astels](http://daveastels.com/feather-m0-express-supersizing.html) - Feather M0 Supersized, Trinket M0 Haxpress.
 - [Max Holliday](https://github.com/RoboticExplorationLab/sprite) - KickSat Sprite, SAM32.
 - [Itaca Innovation](https://www.kickstarter.com/projects/1186620431/uchip-arduino-zero-compatible-in-a-narrow-dip-16-p) - uChip M0
@@ -108,6 +108,12 @@ All supported boards may be viewed at [circuitpython.org](https://circuitpython.
 - Damien George - [PyBoard 1.1](https://www.adafruit.com/product/2390)
 - [Seeed Studios](https://www.seeedstudio.com/) - [Seeeduino XIAO](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html)
 - Oddly Specific Objects - [The Open Book](https://github.com/joeycastillo/The-Open-Book)
+- ST - [STM32F412 Discovery Kit](https://www.st.com/en/evaluation-tools/32f412gdiscovery.html), [STM32F411 Discovery kit](https://www.st.com/en/evaluation-tools/32f411ediscovery.html)
+- Alethea Flowers - [Winterbloom Sol](https://thea.codes/)
+- Cedar Grove Studios - StringCar M0 Express
+- keithp.com - [Snekboard](https://keithp.com/snek/snekboard)
+- Elecrow - [PYB Nano v2](https://www.elecrow.com/micropython-development-board-pyb-nano-compatible-with-python.html)
+
 
 Adding new boards to the CircuitPython list on [circuitpython.org](https://circuitpython.org): Please do a pull request on GitHub at [https://github.com/adafruit/circuitpython](https://github.com/adafruit/circuitpython). CircuitPython developers may help get the correct pin data and other information to map a new board.
 
