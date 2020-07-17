@@ -53,7 +53,7 @@
 - [Wearable Tech Projects by Sophy Wong](https://store.rpipress.cc/collections/books/products/wearable-tech-projects-2019) - Contains many wearable projects using CircuitPython.
 - [CircuitPython for beginners with Adafruit Circuit Playground Express & Mu](https://twitter.com/AoyamaProd) - Japanese.
 - [Learning IoT with Python and Raspberry Pi by E.I. Horvath, E.A. Horvath](https://www.barnesandnoble.com/w/learning-iot-with-python-and-raspberry-pi-ei-horvath/1133345171?ean=9780578549361)
-- [Make Music with the Circuit Playground Express, Rick Leander](https://www.amazon.com/author/rleander)
+- [Make Music with the Circuit Playground Express by Rick Leander](https://www.amazon.com/author/rleander) - Twelve projects that make music, sound and noise using  Circuit Python
 
 ## Code
 
