@@ -235,7 +235,7 @@ The workflow is explained in detail here: [Adafruit : Contribute to CircuitPytho
 1. Clone the forked repo to your drive.
 1. Add a remote using owner adafruit and the original URL.
 1. Fetch the remote
-1. Merge adafruit master
+1. Merge adafruit master (or main)
 1. Create a branch
 1. Make a change
 1. Commit and push to your repo
