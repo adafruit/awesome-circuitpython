@@ -77,6 +77,7 @@
 - [A helper for CircuitPython development with Atom](https://github.com/s-light/CircuitPython_Atom_helper) - A helper for the [Atom editor](https://atom.io/).
 - [Thonny, a Python IDE for beginners](https://thonny.org/) - An editor with support for CircuitPython and MicroPython.
 - [Microsoft Device Simulator Express](https://marketplace.visualstudio.com/items?itemName=ms-python.devicesimulatorexpress) - Virtual Circuit Playground Express and CircuitPython programming in Visual Studio Code.
+- [Slappy.io, a browser-based IDE and REPL for CircuitPython](https://slappy.io/) - An in-browser editor designed especially for Chromebooks. Works on almost any computer that can run a Chromium-based browser.
 
 ## Hardware
 
