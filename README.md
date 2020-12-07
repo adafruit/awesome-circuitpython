@@ -84,7 +84,7 @@ All supported boards may be viewed at [circuitpython.org](https://circuitpython.
 
 - [Adafruit CircuitPython boards](https://www.adafruit.com/circuitpython) - Adafruit Circuit Playground Express, Adafruit Feather M0 Basic, Adafruit Feather M0 Express, Adafruit Feather M0 Adalogger, Adafruit Feather M0 RFM9x, Adafruit Feather M0 RFM69, Adafruit Feather M4 Express, Adafruit Feather nRF52832, Adafruit Feather nRF52840 Express, Adafruit nRF52840 Sense, Adafruit CLUE, Adafruit Gemma M0, Adafruit Grand Central M4 Express, Adafruit HalloWing M0 Express, Adafruit HalloWing M4 Expres, Adafruit ItsyBitsy M0 Express, Adafruit ItsyBitsy M4 Express, Adafruit Metro M0 Express, Adafruit Metro M4 Express, Adafruit NeoTrellis M4, Adafruit Trinket M0, Adafruit PyPortal, Adafruit PyPortal Titano, Adafruit PyPortal Pynt, Adafruit pIRkey, Adafruit Feather Huzzah, Adafruit PyBadge, Adafruit PyBadge AirLift, Adafruit PyBadge LC, Adafruit PyGamer, Adafruit PyGamer Advance, Adafruit Metro M4 AirLift Lite, Adafruit Gemma M0 PyCon 2018, Adafruit Circuit Playground Express Digi-Key, Adafruit Circuit Playground Express 4-H, Adafruit Circuit Playground Express + Crickit, Adafruit Circuit Playground Express Bluefruit, Adafruit Feather M0 Express + Crickit, Adafruit PyRuler, Adafruit EdgeBadge, Adafruit M7 1011.
 - [Arduino](https://www.arduino.cc/) - Arduino MKR WAN 1300, Arduino MKR Zero, Arduino Zero, Arduino Nano 33 BLE, Arduino Nano 33 IoT.
-- [Electronic Cats](https://electroniccats.com/) - CatWAN USB Stick, Meow Meow, [Escornabot Match](https://github.com/ElectronicCats/Escornabot-Makech).
+- [Electronic Cats](https://electroniccats.com/) - CatWAN USB Stick, Meow Meow, [Escornabot Makech](https://github.com/ElectronicCats/Escornabot-Makech).
 - [MakerDiary](https://store.makerdiary.com/collections/frontpage) - nRF52840 Micro Dev Kit, nRF52840 Micro Dev Kit USB Dongle.
 - [Nordic Semiconductor](https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF52840) - nRF52840 DK board [PCA10056](http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52%2Fdita%2Fnrf52%2Fdevelopment%2Fnrf52840_pdk%2Fintro.html), nRF52840 Dongle [PCA10059](http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52%2Fdita%2Fnrf52%2Fdevelopment%2Fnrf52840_dongle%2Fkit_hw_content.html).
 - [NXP](https://www.nxp.com/) - [MIMXRT1010 Eval Kit](https://www.nxp.com/design/development-boards/i.mx-evaluation-and-development-boards/i.mx-rt1010-evaluation-kit:MIMXRT1010-EVK), [MIMXRT1060 Eval Kit](https://www.nxp.com/design/development-boards/i.mx-evaluation-and-development-boards/i.mx-rt1060-evaluation-kit:MIMXRT1060-EVK)
@@ -106,10 +106,10 @@ All supported boards may be viewed at [circuitpython.org](https://circuitpython.
 - [Electronut Labs](https://docs.electronut.in/) - [Papyr](https://docs.electronut.in/papyr/#buy-papyr)
 - TZT - STM32F411CE Black Pill
 - [J&J Studios](https://jandjstudios.io/) - [datum-IMU](https://jandjstudios.io/datum/datum-IMU/), [datum-Distance](https://jandjstudios.io/datum/datum-Distance/)
-- KittenbBot- [Meowbit](https://www.adafruit.com/product/4324)
+- KittenBot - [Meowbit](https://www.adafruit.com/product/4324)
 - OSHWA - Open Hardware Summit 2020 Badge
 - Damien George - [PyBoard 1.1](https://www.adafruit.com/product/2390)
-- [Seeed Studios](https://www.seeedstudio.com/) - [Seeeduino XIAO](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html)
+- [Seeed Studio](https://www.seeedstudio.com/) - [Seeeduino XIAO](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html)
 - Oddly Specific Objects - [The Open Book](https://github.com/joeycastillo/The-Open-Book)
 - ST - [STM32F412 Discovery Kit](https://www.st.com/en/evaluation-tools/32f412gdiscovery.html), [STM32F411 Discovery kit](https://www.st.com/en/evaluation-tools/32f411ediscovery.html), [STM32F407 Discovery Kit](https://www.st.com/en/evaluation-tools/stm32f4discovery.html)
 - Alethea Flowers - [Winterbloom Sol](https://thea.codes/)
@@ -153,7 +153,7 @@ Adding new boards to the CircuitPython list on [circuitpython.org](https://circu
 - [Adafruit PyPortal: GUI meets CircuitPython in a Big Way](https://anchor.fm/disruptityourself/episodes/Adafruit-PyPortal-GUI-meets-CircuitPython-in-a-Big-Way-e3g745) - Disrupt It Yourself podcast on CircuitPython and the IoT device, PyPortal.
 - [Cool Tools](https://youtu.be/Kz4C7sCLWb0) - Sophy Wong Talks Circuit Playground Express including CircuitPython.
 - [CircuitPython for Rapid Microcontroller-Based Prototyping and Development](https://www.digikey.com/en/articles/techzone/2019/mar/the-basics-of-circuitpython-for-rapid-microcontroller-based-prototyping-and-development) - Digi-Key on the open source community's efforts adapting specific microcontrollers and dev boards to support serious microcontroller development using CircuitPython.
-- [HackSpace Magazine - Issue 17](https://hackspace.raspberrypi.org/features/adafruit-grand-central-m4-express-review) - CircuitPython powered Adafruut Grand Central M4 Express review.
+- [HackSpace Magazine - Issue 17](https://hackspace.raspberrypi.org/features/adafruit-grand-central-m4-express-review) - CircuitPython powered Adafruit Grand Central M4 Express review.
 - [Python on Hardware Means Choices for Makers](https://www.apress.com/us/blog/all-blog-posts/python-on-hardware-means-choices-for-makers/16332230) by Liz Clark - Apress. CircuitPython (a fork of MicroPython that is designed from the ground up to be beginner friendly.) This allows end users to use Python for their electronics hardware projects similar to how they may have used C/C++ with the Arduino IDE.
 - [Method's Magazine](http://www.mouser.com/news/methods/2019-1/mobile/index.html#p=35) - Methods eZine: Design Trends & the Transformation of Everything features Python on hardware, page 35 - [PDF](http://www.mouser.com/pdfdocs/Mouser-Methods-v3i1.pdf).
 - [HackSpace Magazine - Issue 15](https://blog.adafruit.com/2019/01/24/issue-15-hackspace-magazine-circuitpython-hackspacemag-by-ben-everard-ben_everard-circuitpython-circuitpython-madewithmu/) - CircuitPython makes the cover on HackSpace Magazine with feature article, and projects.
@@ -181,7 +181,7 @@ Adding new boards to the CircuitPython list on [circuitpython.org](https://circu
 - [CircuitPython - micropython.org forums](https://forum.micropython.org/search.php?keywords=adafruit&terms=all&author=&sc=1&sf=all&sr=posts&sk=t&sd=d&st=0&ch=300&t=0&submit=Search) - Articles on the MicroPython forums tagged for CircuitPython.
 - [CircuitPython tagged on Reddit](https://www.reddit.com/domain/adafruit.com/search?q=circuit+python&sort=new&t=week) - Reddit posts relating to CircuitPython.
 - [CircuitPython community on Reddit](https://www.reddit.com/r/circuitpython/) - Dedicated home of CircuitPython on reddit /r/circuitpython/
-- [CircuitPython on Hackaday.io](https://hackaday.io/list/163331-circuitpython) - Currated list of projects on hackaday.io
+- [CircuitPython on Hackaday.io](https://hackaday.io/list/163331-circuitpython) - Curated list of projects on hackaday.io.
 - [CircuitPython on hackster.io](https://blog.adafruit.com/2019/01/15/python-on-hardware-community-hub-on-hackster-io-hacksterio/) - Python on hardware projects on hackster.io including CircuitPython.
 - [CircuitPython on Instructables](https://www.instructables.com/howto/circuitpython/) - How-tos, guides, and more, using CircuitPython on Autodesk's Instructables.
 
@@ -195,7 +195,7 @@ Adding new boards to the CircuitPython list on [circuitpython.org](https://circu
 
 - [Weekly community chat on Adafruit Discord server CircuitPython channel](https://discord.gg/EAeBY6x) - The Discord chat space for CircuitPython, meetings are usually Mondays at 2pm ET.
 - [Weekly Adafruit Show-and-tell, Wednesday 7:30pm ET on Google+ Hangouts](https://plus.google.com/+adafruit) - The weekly Adafruit Show-and-tell program often has CircuitPython-related projects on display.
-- [ASK AN ENGINEER, Wednesday 8pm ET on YouTube LIVE](https://www.youtube.com/adafruit/live) - The longest running Youtube live show about electronics, information on CircuitPython each week during "Python on hardware segment".
+- [ASK AN ENGINEER, Wednesday 8pm ET on YouTube LIVE](https://www.youtube.com/adafruit/live) - The longest running YouTube live show about electronics, information on CircuitPython each week during "Python on hardware segment".
 - [PyCon 2020](https://us.pycon.org/2020/about/) - Pittsburg, PA USA April 15-23, 2020, planned CircuitPython hardware and sprints.
 
 ## Swag
@@ -251,4 +251,4 @@ The workflow is explained in detail here: [Adafruit : Contribute to CircuitPytho
 
 To the extent possible under law, the authors have waived all copyright and related or neighbouring rights to this work.
 
-Last updated: February 28, 2020
+Last updated: December 7, 2020
