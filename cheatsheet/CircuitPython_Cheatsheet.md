@@ -56,9 +56,9 @@ You can use a PWM in one of two ways.
 
 ```import time
     import board
-    import pulseio
+    import pwmio
 
-    led = pulseio.PWMOut(board.D13, frequency=5000, duty_cycle=0)
+    led = pwmio.PWMOut(board.D13, frequency=5000, duty_cycle=0)
 
     while True:
         for i in range(100):
@@ -74,9 +74,9 @@ You can use a PWM in one of two ways.
 
 ```import time
     import board
-    import pulseio
+    import pwmio
 
-    piezo = pulseio.PWMOut(board.A1, duty_cycle=0, frequency=440, variable_frequency=True)
+    piezo = pwmio.PWMOut(board.A1, duty_cycle=0, frequency=440, variable_frequency=True)
 
     while True:
         for f in (262, 294, 330, 349, 392, 440, 494, 523):
@@ -91,11 +91,11 @@ You can use a PWM in one of two ways.
 
     import time
     import board
-    import pulseio
+    import pwmio
     from adafruit_motor import servo
 
     # create a PWMOut object on Pin A2.
-    pwm = pulseio.PWMOut(board.A2, duty_cycle=2 ** 15, frequency=50)
+    pwm = pwmio.PWMOut(board.A2, duty_cycle=2 ** 15, frequency=50)
 
     # Create a servo object, my_servo.
     my_servo = servo.Servo(pwm)
