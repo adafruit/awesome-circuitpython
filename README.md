@@ -6,6 +6,12 @@
 
 > A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.
 
+
+
+https://user-images.githubusercontent.com/1685947/115119719-d6e21f00-9f77-11eb-84bf-3f7af59948a3.mov
+
+
+
 [CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython/what-is-circuitpython) is Adafruit's branch of MicroPython designed to simplify experimentation and education on low-cost microcontrollers. It makes it easier than ever to start prototyping by requiring no upfront desktop software downloads. With CircuitPython you can write clean and simple Python code to control hardware instead of having to use complex low-level languages like C or C++ (what Arduino uses for programming). It's great for beginners!
 
 ## Contents
