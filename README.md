@@ -71,7 +71,7 @@ https://user-images.githubusercontent.com/1685947/115119719-d6e21f00-9f77-11eb-8
 - [Circuit Playground Express CircuitPython API Reference](http://circuitpython.readthedocs.io/projects/circuitplayground/en/latest/) - The functions and documentation specific to the Circuit Playground Express using CircuitPython.
 - [CircuitPython GitHub Repository](https://github.com/adafruit/circuitpython) - The source code for CircuitPython on GitHub.
 - [Adafruit CircuitPython Libraries](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/master/circuitpython_library_list.md) - Current Adafruit CircuitPython Libraries. There are over 150+ libraries available. More on Libraries on [CircuitPython.org](https://circuitpython.org/libraries).
-- [CircuitPython Community Libraries](https://github.com/adafruit/CircuitPython_Community_Bundle/blob/master/circuitpython_community_library_list.md) - Current CircuitPython Community Libraries. There are over 45+ libraries available.
+- [CircuitPython Community Libraries](https://github.com/adafruit/CircuitPython_Community_Bundle/blob/master/circuitpython_community_library_list.md) - CircuitPython Community Libraries. There are over 45+ libraries available.
 - [Adafruit Blinka - SBC Compatibility](https://learn.adafruit.com/circuitpython-on-raspberrypi-linux?view=all) - CircuitPython Libraries on Raspberry Pi and other compatible single-board computers (SBC) running Linux.
 - [CircuitPython Cheat Sheet](https://github.com/adafruit/awesome-circuitpython/blob/master/cheatsheet/CircuitPython_Cheatsheet.md) - Dave Astels's helpful cheat sheet on CircuitPython.
 - [Coding CircuitPython on iOS 13.x](https://blog.adafruit.com/2019/09/19/program-circuitpython-devices-with-iphone-ios-13/)
