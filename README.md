@@ -259,4 +259,4 @@ The workflow is explained in detail here: [Adafruit : Contribute to CircuitPytho
 
 To the extent possible under law, the authors have waived all copyright and related or neighbouring rights to this work.
 
-Last updated: February 28, 2020
+Last updated: June 10, 2021
