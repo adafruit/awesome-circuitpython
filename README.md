@@ -271,6 +271,7 @@ Adding new boards to the CircuitPython list on [circuitpython.org](https://circu
 - [PyCon India - 2019 Interactive Hardware Poster Presentation powered by CircuitPython by Ayan Pahwa and Aakanksha Agrawal](https://youtu.be/mmLI0HKfPQI) - Ayan Pahwa and Aakanksha Agrawal.
 - [VIDEO: PyCascades – Light Up Your Life – With Python and LEDs](https://blog.adafruit.com/2019/02/25/video-pycascades-light-up-your-life-with-python-and-leds-nnja-pycascades2019-pycascades-pycascades/) - Nina Zakharenko.
 - [Writing fast and efficient MicroPython](https://youtu.be/hHec4qL00x0) - Writing fast and efficient MicroPython by Damien George at PyCon Australia.
+- [More Fun with Hardware and CircuitPython -- IoT, Wearables, and More!](https://www.nnja.io/post/2021/pycon2021-more-fun-circuitpython/) - Nina Zakharenko at PyCon 2021.
 
 
 ## Contributing
