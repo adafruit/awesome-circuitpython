@@ -6,6 +6,12 @@
 
 > A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.
 
+
+
+https://user-images.githubusercontent.com/1685947/115119719-d6e21f00-9f77-11eb-84bf-3f7af59948a3.mov
+
+
+
 [CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython/what-is-circuitpython) is Adafruit's branch of MicroPython designed to simplify experimentation and education on low-cost microcontrollers. It makes it easier than ever to start prototyping by requiring no upfront desktop software downloads. With CircuitPython you can write clean and simple Python code to control hardware instead of having to use complex low-level languages like C or C++ (what Arduino uses for programming). It's great for beginners!
 
 ## Contents
@@ -46,7 +52,7 @@
 
 ## Books
 
-- [Getting started with Circuit Playground Express by Mike Barela](https://www.amazon.com/Getting-Started-Adafruit-Circuit-Playground-dp-1680454889/dp/1680454889/ref=mt_paperback) (or purchase as part of your order from [the Adafruit store](https://www.adafruit.com/product/3944)) - Introduction and discussion of the Circuit Playground Express including programming via CircuitPython, MakeCode and Arduino.
+- [Getting started with Circuit Playground Express by Anne Barela](https://www.amazon.com/Getting-Started-Adafruit-Circuit-Playground-dp-1680454889/dp/1680454889/ref=mt_paperback) (or purchase as part of your order from [the Adafruit store](https://www.adafruit.com/product/3944)) - Introduction and discussion of the Circuit Playground Express including programming via CircuitPython, MakeCode and Arduino.
 - [CircuitPython Development Workshop by Agus Kurniawan](https://www.amazon.com/CircuitPython-Development-Workshop-Agus-Kurniawan-ebook/dp/B07H2BDQLD/) - This book helps you to get started with CircuitPython development. This book uses the Adafruit ItsyBitsy M0 Express board for development.
 - [CircuitPython for beginners with Adafruit Circuit Playground Express & Mu](https://twitter.com/AoyamaProd/status/1157775643750232064) - Japanese by author [Aoyama_PROD](https://twitter.com/AoyamaProd) coming in September, 2019 from [TechBookFest](https://techbookfest.org/).
 - [Programming with MicroPython - by Nicholas H. Tollervey, includes CircuitPython](https://www.adafruit.com/product/3706) - Discusses the MicroPython language.
@@ -55,6 +61,7 @@
 - [Learning IoT with Python and Raspberry Pi by E.I. Horvath, E.A. Horvath](https://www.barnesandnoble.com/w/learning-iot-with-python-and-raspberry-pi-ei-horvath/1133345171?ean=9780578549361)
 - [Make Music with the Circuit Playground Express by Rick Leander](https://www.amazon.com/author/rleander) - Twelve projects that make music, sound and noise with Circuit Python.
 - [Ten Games for  the Circuit Playground Express by Rick Leander](https://www.amazon.com/author/rleander) - Ten classic games adapted for Circuit Python.
+- [Initiation au langage CircuitPython et à la puce nRF52840](https://www.elektor.fr/initiation-au-langage-circuitpython-et-a-la-puce-nrf52840) - A French introduction to CircuitPython and the nRF52840.
 
 ## Code
 
@@ -64,6 +71,7 @@
 - [Circuit Playground Express CircuitPython API Reference](http://circuitpython.readthedocs.io/projects/circuitplayground/en/latest/) - The functions and documentation specific to the Circuit Playground Express using CircuitPython.
 - [CircuitPython GitHub Repository](https://github.com/adafruit/circuitpython) - The source code for CircuitPython on GitHub.
 - [Adafruit CircuitPython Libraries](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/master/circuitpython_library_list.md) - Current Adafruit CircuitPython Libraries. There are over 150+ libraries available. More on Libraries on [CircuitPython.org](https://circuitpython.org/libraries).
+- [CircuitPython Community Libraries](https://github.com/adafruit/CircuitPython_Community_Bundle/blob/master/circuitpython_community_library_list.md) - CircuitPython Community Libraries. There are over 45+ libraries available.
 - [Adafruit Blinka - SBC Compatibility](https://learn.adafruit.com/circuitpython-on-raspberrypi-linux?view=all) - CircuitPython Libraries on Raspberry Pi and other compatible single-board computers (SBC) running Linux.
 - [CircuitPython Cheat Sheet](https://github.com/adafruit/awesome-circuitpython/blob/master/cheatsheet/CircuitPython_Cheatsheet.md) - Dave Astels's helpful cheat sheet on CircuitPython.
 - [Coding CircuitPython on iOS 13.x](https://blog.adafruit.com/2019/09/19/program-circuitpython-devices-with-iphone-ios-13/)
@@ -78,16 +86,17 @@
 - [Thonny, a Python IDE for beginners](https://thonny.org/) - An editor with support for CircuitPython and MicroPython.
 - [Microsoft Device Simulator Express](https://marketplace.visualstudio.com/items?itemName=ms-python.devicesimulatorexpress) - Virtual Circuit Playground Express and CircuitPython programming in Visual Studio Code.
 - [Slappy.io, a browser-based IDE and REPL for CircuitPython](https://slappy.io/) - An in-browser editor designed especially for Chromebooks. Works on almost any computer that can run a Chromium-based browser.
+* [CircuitPython extension for VS Code](https://marketplace.visualstudio.com/items?itemName=joedevivo.vscode-circuitpython) - A full featured extension for VS Code that downloads the latest CircuitPython bundle automatically, includes access to the serial console, and auto complete.
 
 ## Hardware
 
 All supported boards may be viewed at [circuitpython.org](https://circuitpython.org/downloads) to include descriptions, pictures, and compatible CircuitPython builds. A summary of current boards on circuitpython.org:
 
-- [Adafruit CircuitPython boards](https://www.adafruit.com/circuitpython) - Adafruit Circuit Playground Express, Adafruit Feather M0 Basic, Adafruit Feather M0 Express, Adafruit Feather M0 Adalogger, Adafruit Feather M0 RFM9x, Adafruit Feather M0 RFM69, Adafruit Feather M4 Express, Adafruit Feather nRF52832, Adafruit Feather nRF52840 Express, Adafruit nRF52840 Sense, Adafruit CLUE, Adafruit Gemma M0, Adafruit Grand Central M4 Express, Adafruit HalloWing M0 Express, Adafruit HalloWing M4 Expres, Adafruit ItsyBitsy M0 Express, Adafruit ItsyBitsy M4 Express, Adafruit Metro M0 Express, Adafruit Metro M4 Express, Adafruit NeoTrellis M4, Adafruit Trinket M0, Adafruit PyPortal, Adafruit PyPortal Titano, Adafruit PyPortal Pynt, Adafruit pIRkey, Adafruit Feather Huzzah, Adafruit PyBadge, Adafruit PyBadge AirLift, Adafruit PyBadge LC, Adafruit PyGamer, Adafruit PyGamer Advance, Adafruit Metro M4 AirLift Lite, Adafruit Gemma M0 PyCon 2018, Adafruit Circuit Playground Express Digi-Key, Adafruit Circuit Playground Express 4-H, Adafruit Circuit Playground Express + Crickit, Adafruit Circuit Playground Express Bluefruit, Adafruit Feather M0 Express + Crickit, Adafruit PyRuler, Adafruit EdgeBadge, Adafruit M7 1011.
+- [Adafruit CircuitPython boards](https://www.adafruit.com/circuitpython) - Adafruit Circuit Playground Express, Adafruit Feather M0 Basic, Adafruit Feather M0 Express, Adafruit Feather M0 Adalogger, Adafruit Feather M0 RFM9x, Adafruit Feather M0 RFM69, Adafruit Feather M4 Express, Adafruit Feather nRF52832, Adafruit Feather nRF52840 Express, Adafruit nRF52840 Sense, Adafruit CLUE, Adafruit Gemma M0, Adafruit Grand Central M4 Express, Adafruit HalloWing M0 Express, Adafruit HalloWing M4 Expres, Adafruit ItsyBitsy M0 Express, Adafruit ItsyBitsy M4 Express, Adafruit Metro M0 Express, Adafruit Metro M4 Express, Adafruit NeoTrellis M4, Adafruit Trinket M0, Adafruit PyPortal, Adafruit PyPortal Titano, Adafruit PyPortal Pynt, Adafruit pIRkey, Adafruit Feather Huzzah, Adafruit PyBadge, Adafruit PyBadge AirLift, Adafruit PyBadge LC, Adafruit PyGamer, Adafruit PyGamer Advance, Adafruit Metro M4 AirLift Lite, Adafruit Gemma M0 PyCon 2018, Adafruit Circuit Playground Express Digi-Key, Adafruit Circuit Playground Express 4-H, Adafruit Circuit Playground Express + Crickit, Adafruit Circuit Playground Express Bluefruit, Adafruit Feather M0 Express + Crickit, Adafruit PyRuler, Adafruit EdgeBadge, Adafruit M7 1011, Adafruit Macropad RP2040, Adafruit Neo Trinkey - SAMD21 USB Key, Adafruit QT Py RP2040, Adafruit Trinkey QT2040, Adafruit ItsyBitsy RP2040, Adafruit Metro ESP32-S2, Adafruit KB2040, Adafruit Feather RP2040.
 - [Arduino](https://www.arduino.cc/) - Arduino MKR WAN 1300, Arduino MKR Zero, Arduino Zero, Arduino Nano 33 BLE, Arduino Nano 33 IoT.
 - [Electronic Cats](https://electroniccats.com/) - CatWAN USB Stick, Meow Meow, [Escornabot Match](https://github.com/ElectronicCats/Escornabot-Makech).
 - [MakerDiary](https://store.makerdiary.com/collections/frontpage) - nRF52840 Micro Dev Kit, nRF52840 Micro Dev Kit USB Dongle.
-- [Nordic Semiconductor](https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF52840) - nRF52840 DK board [PCA10056](http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52%2Fdita%2Fnrf52%2Fdevelopment%2Fnrf52840_pdk%2Fintro.html), nRF52840 Dongle [PCA10059](http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52%2Fdita%2Fnrf52%2Fdevelopment%2Fnrf52840_dongle%2Fkit_hw_content.html).
+- [Nordic Semiconductor](https://infocenter.nordicsemi.com/topic/struct_nrf52/struct/nrf52840.html) - nRF52840 DK board [PCA10056](https://infocenter.nordicsemi.com/topic/ug_nrf52840_dk/UG/dk/kit_content.html), nRF52840 Dongle [PCA10059](https://infocenter.nordicsemi.com/topic/ug_nrf52840_dongle/UG/nrf52840_Dongle/intro.html).
 - [NXP](https://www.nxp.com/) - [MIMXRT1010 Eval Kit](https://www.nxp.com/design/development-boards/i.mx-evaluation-and-development-boards/i.mx-rt1010-evaluation-kit:MIMXRT1010-EVK), [MIMXRT1060 Eval Kit](https://www.nxp.com/design/development-boards/i.mx-evaluation-and-development-boards/i.mx-rt1060-evaluation-kit:MIMXRT1060-EVK)
 - [Particle](https://www.particle.io/) - Particle Argon, Particle Boron, Particle Xenon.
 - [Benjamin Shockley](https://www.minisam.cc/product-category/development-board/) - Mini SAM M4.
@@ -190,7 +199,15 @@ Adding new boards to the CircuitPython list on [circuitpython.org](https://circu
 
 - [Weekly community chat on Adafruit Discord server CircuitPython channel - Audio / Podcast edition](https://itunes.apple.com/us/podcast/circuitpython-weekly-meeting/id1451685016) - Audio from the Discord chat space for CircuitPython, meetings are usually Mondays at 2pm ET, this is the audio version on [iTunes](https://itunes.apple.com/us/podcast/circuitpython-weekly-meeting/id1451685016), Pocket Casts, [Spotify](https://adafru.it/spotify), and [XML feed](https://adafruit-podcasts.s3.amazonaws.com/circuitpython_weekly_meeting/audio-podcast.xml).
 - [Python on hardware weekly video cast](https://itunes.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2) - The wonderful world of Python on hardware! This is our video-newsletter-podcast of all things Python and electronics! The news comes from the Python community, discord, Adafruit communities and more. It’s part of the weekly newsletter, then we have a segment on ASK an ENGINEER and this is the video slice from that! This video podcast is on [iTunes](https://itunes.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2), [YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev), [IGTV (Instagram TV](https://www.instagram.com/adafruit/channel/)), and [XML](https://itunes.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2).
+
+
+### Podcast Episodes about CircuitPython
 - [The Best Python Podcasts](https://blog.adafruit.com/2019/03/22/the-best-python-podcasts-python-talkpython-mkennedy-pythonbites-brianokken/)
+- [Hanselminutes Technology Podcast – Learning CircuitPython with Scott Shawcroft](https://blog.adafruit.com/2019/09/13/hanselminutes-technology-podcast-learning-circuitpython-with-scott-shawcroft-shanselman-circuitpython-tannewt-hanselminutes-adafruit/)
+- [Real Python Podcast Episode 5: Exploring CircuitPython](https://realpython.com/podcasts/rpp/5/) with host Christopher Bailey and guest Thea Flowers
+- [Real Python Podcast Episode 75: Building With CircuitPython & Constraints of Python for Microcontrollers](https://realpython.com/podcasts/rpp/75/) with host Christopher Bailey and guest Scott Shawcroft
+- [Episode #272: No IoT things in hand? Simulate them with Device Simulator Express](https://talkpython.fm/episodes/show/272/no-iot-things-in-hand-simulate-them-with-device-simulator-express)
+- [Episode #325: MicroPython + CircuitPython](https://talkpython.fm/episodes/show/325/micropython-circuitpython)
 
 ## Events
 
@@ -201,6 +218,8 @@ Adding new boards to the CircuitPython list on [circuitpython.org](https://circu
 
 ## Swag
 
+- [CircuitPython 7 release poster](https://www.adafruit.com/product/5067) - CircuitPython release version 7 poster.
+- [CircuitPython 6 release poster](https://www.adafruit.com/product/4713) - CircuitPython release version 6 poster.
 - [CircuitPython 5 release poster](https://www.adafruit.com/product/4365) - CircuitPython release version 5 poster.
 - [CircuitPython 4 release poster](https://www.adafruit.com/product/4082) - CircuitPython release version 4 poster featuring Nordic.
 - [CircuitPython 3 release poster](https://www.adafruit.com/product/3793) - CircuitPython release version 3 poster.
@@ -216,7 +235,6 @@ Adding new boards to the CircuitPython list on [circuitpython.org](https://circu
 - [EuroPython 2019 talk video: Nicholas Tollervey – Tools of the Trade: The Making of a Code Editor](https://blog.adafruit.com/2019/10/01/europython-2019-talk-video-nicholas-tollervey-tools-of-the-trade-the-making-of-a-code-editor-python-circuitpython-europython-ntoll/)
 - [EuroPython 2019 talk video: Radomir Dopieralski – Game Development with CircuitPython](https://blog.adafruit.com/2019/10/01/europython-2019-talk-video-radomir-dopieralski-game-development-with-circuitpython-cirecuitpython-europython-deshipu/)
 - [VIDEO: PyCascades – Light Up Your Life – With Python and LEDs](https://blog.adafruit.com/2019/02/25/video-pycascades-light-up-your-life-with-python-and-leds-nnja-pycascades2019-pycascades-pycascades/) -  Nina Zakharenko
-- [Hanselminutes Technology Podcast – Learning CircuitPython with Scott Shawcroft](https://blog.adafruit.com/2019/09/13/hanselminutes-technology-podcast-learning-circuitpython-with-scott-shawcroft-shanselman-circuitpython-tannewt-hanselminutes-adafruit/)
 - [PyCon2019 Keynote: Python on Hardware – Nina Zakharenko](https://blog.adafruit.com/2019/05/06/pycon2019-keynote-python-on-hardware-nina-zakharenko-pythonhardware-pycon2019-circuitpython-python-circuitplaygroundexpress-nnja/)
 - [MicroPython & the Internet of Things](https://youtu.be/EvGhPmPPzko) - MicroPython & the Internet of Things by Damien George at GOTO 2016
 - [Changing Lives through Open Source, Passion and Mentoring](https://youtu.be/-bBHXimlfPQ) - Changing Lives through Open Source, Passion and Mentoring, Keynote by Kattni Rembor at Pyohio 2019
@@ -225,6 +243,7 @@ Adding new boards to the CircuitPython list on [circuitpython.org](https://circu
 - [Embedded Programming for everyone using MicroPython and CircuitPython](https://youtu.be/LRvh1UDTbU0) - Embedded Programming for everyone using MicroPython and CircuitPython by Ayan Pahwa at FOSSASIA Summit
 - [Writing fast and efficient MicroPython](https://youtu.be/hHec4qL00x0) - Writing fast and efficient MicroPython by Damien George at PyCon Australia
 - [Extending MicroPython: Using C for good](https://www.youtube.com/watch?v=437CZBnK8vI) - A look at how MicroPython can be extended to add features and improve performance. By Matt Trentini at PyCon Australia
+
 
 ## Contributing
 
@@ -251,4 +270,4 @@ The workflow is explained in detail here: [Adafruit : Contribute to CircuitPytho
 
 To the extent possible under law, the authors have waived all copyright and related or neighbouring rights to this work.
 
-Last updated: February 28, 2020
+Last updated: June 10, 2021
