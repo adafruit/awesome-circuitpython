@@ -234,7 +234,6 @@ Adding new boards to the CircuitPython list on [circuitpython.org](https://circu
 - [Real Python Podcast Episode 75: Building With CircuitPython & Constraints of Python for Microcontrollers](https://realpython.com/podcasts/rpp/75/) with host Christopher Bailey and guest Scott Shawcroft
 - [Episode #272: No IoT things in hand? Simulate them with Device Simulator Express](https://talkpython.fm/episodes/show/272/no-iot-things-in-hand-simulate-them-with-device-simulator-express)
 - [Episode #325: MicroPython + CircuitPython](https://talkpython.fm/episodes/show/325/micropython-circuitpython)
->>>>>>> main
 
 ## Events
 
