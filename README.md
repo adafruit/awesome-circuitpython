@@ -7,8 +7,7 @@
 > A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.
 
 
-<video controls src="https://user-images.githubusercontent.com/1685947/115119719-d6e21f00-9f77-11eb-84bf-3f7af59948a3.mov"></video>
-https://user-images.githubusercontent.com/1685947/115119719-d6e21f00-9f77-11eb-84bf-3f7af59948a3.mov
+<video style="display: block; width: 720px; margin: auto;" controls src="https://user-images.githubusercontent.com/1685947/115119719-d6e21f00-9f77-11eb-84bf-3f7af59948a3.mov"></video>
 
 
 
