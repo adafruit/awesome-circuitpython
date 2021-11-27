@@ -157,6 +157,7 @@ All supported boards may be viewed at [circuitpython.org](https://circuitpython.
 - TG-Techie - [TG-Watch02A](https://github.com/TG-Techie/TG-Watch02-PCB).
 - [TinkeringTech](https://tinkeringtech.com) - [ScoutMakes Azul](https://tinkeringtech.com/blog/scoutmakes-azul/).
 - [Unexpected Maker](https://unexpectedmaker.com) - [Unexpected Maker FeatherS2](https://unexpectedmaker.com/shop/feathers2-esp32-s2).
+- [S2 Nugget](https://github.com/HakCat-Tech/S2-Nugget) - a Wi-Fi Nugget breakout board combined with an ESP32S2 based S2 Mini development board.
 
 Adding new boards to the CircuitPython list on [circuitpython.org](https://circuitpython.org): Please do a pull request on GitHub at [https://github.com/adafruit/circuitpython](https://github.com/adafruit/circuitpython). CircuitPython developers may help get the correct pin data and other information to map a new board.
 
