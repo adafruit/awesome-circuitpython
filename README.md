@@ -144,6 +144,7 @@ All supported boards may be viewed at [circuitpython.org](https://circuitpython.
 - Hangzhou LeBan - HiiBot BlueFi, HiiBot IoTs2.
 - Ikigaisense - [Ikigaisense Vita](https://hackaday.io/project/173761-vita-hardware).
 - Jeremy Gillick - [Thunderpack](https://github.com/jgillick/ThunderPack).
+- JPConstantineau - [BlueMicro840]( https://www.tindie.com/products/21640/), [PyKey60](https://www.tindie.com/products/24940/)
 - Microchip - [SAM E54 Xplained Pro](https://www.microchipdirect.com/product/search/all/ATSAME54-XPRO).
 - microDev - [microS2](https://www.tindie.com/products/microdev/micros2/).
 - Muselab - [NanoESP32 S2](https://github.com/wuxx/nanoESP32-S2).
