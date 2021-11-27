@@ -87,13 +87,13 @@ https://user-images.githubusercontent.com/1685947/115119719-d6e21f00-9f77-11eb-8
 - [Thonny, a Python IDE for beginners](https://thonny.org/) - An editor with support for CircuitPython and MicroPython.
 - [Microsoft Device Simulator Express](https://marketplace.visualstudio.com/items?itemName=ms-python.devicesimulatorexpress) - Virtual Circuit Playground Express and CircuitPython programming in Visual Studio Code.
 - [Slappy.io, a browser-based IDE and REPL for CircuitPython](https://slappy.io/) - An in-browser editor designed especially for Chromebooks. Works on almost any computer that can run a Chromium-based browser.
-* [CircuitPython extension for VS Code](https://marketplace.visualstudio.com/items?itemName=joedevivo.vscode-circuitpython) - A full featured extension for VS Code that downloads the latest CircuitPython bundle automatically, includes access to the serial console, and auto complete.
+- [CircuitPython extension for VS Code](https://marketplace.visualstudio.com/items?itemName=joedevivo.vscode-circuitpython) - A full featured extension for VS Code that downloads the latest CircuitPython bundle automatically, includes access to the serial console, and auto complete.
 
 ## Hardware
 
 All supported boards may be viewed at [circuitpython.org](https://circuitpython.org/downloads) to include descriptions, pictures, and compatible CircuitPython builds. A summary of current boards on circuitpython.org:
 
-- [Adafruit CircuitPython boards](https://www.adafruit.com/circuitpython) - Adafruit Circuit Playground Express, Adafruit Feather M0 Basic, Adafruit Feather M0 Express, Adafruit Feather M0 Adalogger, Adafruit Feather M0 RFM9x, Adafruit Feather M0 RFM69, Adafruit Feather M4 Express, Adafruit Feather nRF52832, Adafruit Feather nRF52840 Express, Adafruit nRF52840 Sense, Adafruit CLUE, Adafruit Gemma M0, Adafruit Grand Central M4 Express, Adafruit HalloWing M0 Express, Adafruit HalloWing M4 Expres, Adafruit ItsyBitsy M0 Express, Adafruit ItsyBitsy M4 Express, Adafruit ItsyBitsy NRF52840 Express, Adafruit Metro M0 Express, Adafruit Metro M4 Express, Adafruit Metro ESP32-S2, Adafruit Metro nRF52840 Express, Adafruit NeoTrellis M4, Adafruit Trinket M0, Adafruit PyPortal, Adafruit PyPortal Titano, Adafruit PyPortal Pynt, Adafruit pIRkey, Adafruit Feather Huzzah, Adafruit PyBadge, Adafruit PyBadge AirLift, Adafruit PyBadge LC, Adafruit PyGamer, Adafruit PyGamer Advance, Adafruit Metro M4 AirLift Lite, Adafruit Gemma M0 PyCon 2018, Adafruit Circuit Playground Express Digi-Key, Adafruit Circuit Playground Express 4-H, Adafruit Circuit Playground Express + Crickit, Adafruit Circuit Playground Express Bluefruit, Adafruit Feather M0 Express + Crickit, Adafruit PyRuler, Adafruit EdgeBadge, Adafruit M7 1011, Adafruit Matrix Portal M4, Adafruit Feather M4 CAN, Adafruit Feather STM32F405 Express, Adafruit MagTag, Adafruit MONSTER M4SK, Adafruit QT Py, Adafruit QT Py Haxpress.
+- [Adafruit CircuitPython boards](https://www.adafruit.com/circuitpython) - Adafruit Circuit Playground Express, Adafruit Feather M0 Basic, Adafruit Feather M0 Express, Adafruit Feather M0 Adalogger, Adafruit Feather M0 RFM9x, Adafruit Feather M0 RFM69, Adafruit Feather M4 Express, Adafruit Feather nRF52832, Adafruit Feather nRF52840 Express, Adafruit nRF52840 Sense, Adafruit CLUE, Adafruit Gemma M0, Adafruit Grand Central M4 Express, Adafruit HalloWing M0 Express, Adafruit HalloWing M4 Expres, Adafruit ItsyBitsy M0 Express, Adafruit ItsyBitsy M4 Express, Adafruit ItsyBitsy NRF52840 Express, Adafruit Metro M0 Express, Adafruit Metro M4 Express, Adafruit Metro ESP32-S2, Adafruit Metro nRF52840 Express, Adafruit NeoTrellis M4, Adafruit Trinket M0, Adafruit PyPortal, Adafruit PyPortal Titano, Adafruit PyPortal Pynt, Adafruit pIRkey, Adafruit Feather Huzzah, Adafruit PyBadge, Adafruit PyBadge AirLift, Adafruit PyBadge LC, Adafruit PyGamer, Adafruit PyGamer Advance, Adafruit Metro M4 AirLift Lite, Adafruit Gemma M0 PyCon 2018, Adafruit Circuit Playground Express Digi-Key, Adafruit Circuit Playground Express 4-H, Adafruit Circuit Playground Express + Crickit, Adafruit Circuit Playground Express Bluefruit, Adafruit Feather M0 Express + Crickit, Adafruit PyRuler, Adafruit EdgeBadge, Adafruit M7 1011, Adafruit Matrix Portal M4, Adafruit Feather M4 CAN, Adafruit Feather STM32F405 Express, Adafruit MagTag, Adafruit MONSTER M4SK, Adafruit QT Py, Adafruit QT Py Haxpress, Adafruit Macropad RP2040, Adafruit Neo Trinkey - SAMD21 USB Key, Adafruit QT Py RP2040, Adafruit Trinkey QT2040, Adafruit ItsyBitsy RP2040, Adafruit Metro ESP32-S2, Adafruit KB2040, Adafruit Feather RP2040.
 - [Arduino](https://www.arduino.cc/) - Arduino MKR WAN 1300, Arduino MKR Zero, Arduino Zero, Arduino Nano 33 BLE, Arduino Nano 33 IoT.
 - [Electronic Cats](https://electroniccats.com/) - [CatWAN USB Stick](https://electroniccats.com/producto/catwan_usb-stick/), [Meow Meow](https://electroniccats.com/producto/meowmeow/), [Escornabot Makech](https://github.com/ElectronicCats/Escornabot-Makech), [NFC Copy Cat](https://github.com/ElectronicCats/NFC-Copy-Cat) [bast_pro_mini_m0](https://electroniccats.com/store/bast-pro-mini-m0/), [Bast Wifi](https://electroniccats.com/store/bast-wifi/).
 - [MakerDiary](https://store.makerdiary.com/collections/frontpage) - [nRF52840 Micro Dev Kit](https://store.makerdiary.com/collections/frontpage/products/nrf52840-mdk-iot-development-kit), [nRF52840 Micro Dev Kit USB Dongle](https://store.makerdiary.com/collections/frontpage/products/nrf52840-mdk-usb-dongle), [M60 Mechanical Keyboard](https://makerdiary.com/products/m60-mechanical-keyboard-pcba), [Pitaya Go](https://store.makerdiary.com/products/pitaya-go), [nRF52840 M.2 Developer Kit](https://makerdiary.com/products/nrf52840-m2-developer-kit).
@@ -157,6 +157,7 @@ All supported boards may be viewed at [circuitpython.org](https://circuitpython.
 - TG-Techie - [TG-Watch02A](https://github.com/TG-Techie/TG-Watch02-PCB).
 - [TinkeringTech](https://tinkeringtech.com) - [ScoutMakes Azul](https://tinkeringtech.com/blog/scoutmakes-azul/).
 - [Unexpected Maker](https://unexpectedmaker.com) - [Unexpected Maker FeatherS2](https://unexpectedmaker.com/shop/feathers2-esp32-s2).
+- [S2 Nugget](https://github.com/HakCat-Tech/S2-Nugget) - a Wi-Fi Nugget breakout board combined with an ESP32S2 based S2 Mini development board.
 
 Adding new boards to the CircuitPython list on [circuitpython.org](https://circuitpython.org): Please do a pull request on GitHub at [https://github.com/adafruit/circuitpython](https://github.com/adafruit/circuitpython). CircuitPython developers may help get the correct pin data and other information to map a new board.
 
@@ -234,14 +235,13 @@ Adding new boards to the CircuitPython list on [circuitpython.org](https://circu
 - [Real Python Podcast Episode 75: Building With CircuitPython & Constraints of Python for Microcontrollers](https://realpython.com/podcasts/rpp/75/) with host Christopher Bailey and guest Scott Shawcroft
 - [Episode #272: No IoT things in hand? Simulate them with Device Simulator Express](https://talkpython.fm/episodes/show/272/no-iot-things-in-hand-simulate-them-with-device-simulator-express)
 - [Episode #325: MicroPython + CircuitPython](https://talkpython.fm/episodes/show/325/micropython-circuitpython)
->>>>>>> main
 
 ## Events
 
 - [Weekly community chat on Adafruit Discord server CircuitPython channel](https://discord.gg/EAeBY6x) - The Discord chat space for CircuitPython, meetings are usually Mondays at 2pm ET.
 - [Weekly Adafruit Show-and-tell, Wednesday 7:30pm ET on Google+ Hangouts](https://plus.google.com/+adafruit) - The weekly Adafruit Show-and-tell program often has CircuitPython-related projects on display.
 - [ASK AN ENGINEER, Wednesday 8pm ET on YouTube LIVE](https://www.youtube.com/adafruit/live) - The longest running YouTube live show about electronics, information on CircuitPython each week during "Python on hardware segment".
-- [PyCon 2020](https://us.pycon.org/2020/about/) - Pittsburg, PA USA April 15-23, 2020, planned CircuitPython hardware and sprints.
+- [PyCon 2022](https://us.pycon.org/2022/) - Salt Lake City, Utah USA April 27 - May 5, 2022.
 
 ## Swag
 
@@ -271,6 +271,7 @@ Adding new boards to the CircuitPython list on [circuitpython.org](https://circu
 - [PyCon India - 2019 Interactive Hardware Poster Presentation powered by CircuitPython by Ayan Pahwa and Aakanksha Agrawal](https://youtu.be/mmLI0HKfPQI) - Ayan Pahwa and Aakanksha Agrawal.
 - [VIDEO: PyCascades – Light Up Your Life – With Python and LEDs](https://blog.adafruit.com/2019/02/25/video-pycascades-light-up-your-life-with-python-and-leds-nnja-pycascades2019-pycascades-pycascades/) - Nina Zakharenko.
 - [Writing fast and efficient MicroPython](https://youtu.be/hHec4qL00x0) - Writing fast and efficient MicroPython by Damien George at PyCon Australia.
+- [More Fun with Hardware and CircuitPython -- IoT, Wearables, and More!](https://www.nnja.io/post/2021/pycon2021-more-fun-circuitpython/) - Nina Zakharenko at PyCon 2021.
 
 
 ## Contributing
