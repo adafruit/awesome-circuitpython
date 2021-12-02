@@ -282,16 +282,18 @@ The workflow is explained in detail here: [Adafruit : Contribute to CircuitPytho
 
 ### Contribution Workflow Overview
 
-1. Fork the repo on GitHub.
+1. Fork [this repository](https://github.com/adafruit/awesome-circuitpython) on GitHub.
 1. Clone the forked repo to your drive.
 1. Add a remote using owner adafruit and the original URL.
 1. Fetch the remote.
-1. Merge adafruit master (or main).
+1. Merge adafruit or main.
 1. Create a branch.
 1. Make a change.
 1. Commit and push to your repo.
 1. Create a pull request on the official repo.
 1. Once accepted, repeat by merging from the official repo to your fork's master, and re-branch.
+
+Questions? We're happy to [help you to contribute on Discord](https://discord.com/invite/5FBsBHU).
 
 ## License & Trademarks
 
