@@ -75,6 +75,7 @@
 - [CircuitPython Community Libraries](https://github.com/adafruit/CircuitPython_Community_Bundle/blob/master/circuitpython_community_library_list.md) - CircuitPython Community Libraries. There are over 45+ libraries available.
 - [Adafruit Blinka - SBC Compatibility](https://learn.adafruit.com/circuitpython-on-raspberrypi-linux?view=all) - CircuitPython Libraries on Raspberry Pi and other compatible single-board computers (SBC) running Linux.
 - [Coding CircuitPython on iOS 13.x](https://blog.adafruit.com/2019/09/19/program-circuitpython-devices-with-iphone-ios-13/) - With the launch of iOS 13, iPhone users now have the ability to edit code on CircuitPython USB devices!
+- [Awesome List for the rp2040 Macropad](https://github.com/prcutler/awesome-macropad) - A list of awesome Macropad applications, macros, 3D printed plans, and more.
 
 ## Frameworks
 
