@@ -258,7 +258,8 @@ Adding new boards to the CircuitPython list on [circuitpython.org](https://circu
 
 ## Talks
 
-- [Changing Lives through Open Source, Passion and Mentoring](https://youtu.be/-bBHXimlfPQ) - Changing Lives through Open Source, Passion and Mentoring, Keynote by Kattni Rembor at Pyohio 2019.
+- [CircuitPython 入门](https://youtu.be/kVDFoyLCqXU) - CircuitPython 程序！An entry level CircuitPython tutorial in Chinese 01: From zero to Hello World (YouTube).
+- [Changing Lives through Open Source, Passion and Mentoring](https://youtu.be/-bBHXimlfPQ) - Changing Lives through Open Source, Passion and Mentoring, Keynote by Kattni Rembor at PyOhio 2019.
 - [CircuitPython: Python on hardware](https://youtu.be/rN7kvWuAt7k) - CircuitPython: Python on hardware by Dave Astels at PyCon Canada.
 - [Embedded Programming for everyone using MicroPython and CircuitPython](https://youtu.be/LRvh1UDTbU0) - Embedded Programming for everyone using MicroPython and CircuitPython by Ayan Pahwa at FOSSASIA Summit.
 - [EuroPython 2019 talk video: Nicholas Tollervey – Tools of the Trade: The Making of a Code Editor](https://blog.adafruit.com/2019/10/01/europython-2019-talk-video-nicholas-tollervey-tools-of-the-trade-the-making-of-a-code-editor-python-circuitpython-europython-ntoll/) - Nicholas Tollervey.
