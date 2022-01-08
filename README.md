@@ -230,12 +230,12 @@ Adding new boards to the CircuitPython list on [circuitpython.org](https://circu
 
 
 ### Podcast Episodes about CircuitPython
-- [The Best Python Podcasts](https://blog.adafruit.com/2019/03/22/the-best-python-podcasts-python-talkpython-mkennedy-pythonbites-brianokken/)
-- [Hanselminutes Technology Podcast – Learning CircuitPython with Scott Shawcroft](https://blog.adafruit.com/2019/09/13/hanselminutes-technology-podcast-learning-circuitpython-with-scott-shawcroft-shanselman-circuitpython-tannewt-hanselminutes-adafruit/)
+- [The Best Python Podcasts](https://blog.adafruit.com/2019/03/22/the-best-python-podcasts-python-talkpython-mkennedy-pythonbites-brianokken/) Adafruit blog post
+- [Hanselminutes Technology Podcast Episode 701 – Learning CircuitPython with Scott Shawcroft](https://blog.adafruit.com/2019/09/13/hanselminutes-technology-podcast-learning-circuitpython-with-scott-shawcroft-shanselman-circuitpython-tannewt-hanselminutes-adafruit/)
 - [Real Python Podcast Episode 5: Exploring CircuitPython](https://realpython.com/podcasts/rpp/5/) with host Christopher Bailey and guest Thea Flowers
 - [Real Python Podcast Episode 75: Building With CircuitPython & Constraints of Python for Microcontrollers](https://realpython.com/podcasts/rpp/75/) with host Christopher Bailey and guest Scott Shawcroft
-- [Episode #272: No IoT things in hand? Simulate them with Device Simulator Express](https://talkpython.fm/episodes/show/272/no-iot-things-in-hand-simulate-them-with-device-simulator-express)
-- [Episode #325: MicroPython + CircuitPython](https://talkpython.fm/episodes/show/325/micropython-circuitpython)
+- [Talk Python Episode #272: No IoT things in hand? Simulate them with Device Simulator Express](https://talkpython.fm/episodes/show/272/no-iot-things-in-hand-simulate-them-with-device-simulator-express) panel discussion
+- [Talk Python Episode #325: MicroPython + CircuitPython](https://talkpython.fm/episodes/show/325/micropython-circuitpython) panel discussion
 
 ## Events
 
