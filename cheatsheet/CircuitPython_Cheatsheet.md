@@ -262,3 +262,19 @@ You can use a PWM in one of two ways.
             while cpx.button_b:    # Wait for button B to be released
                 pass
             m.release(Mouse.RIGHT_BUTTON)
+            
+ ## Display ##
+
+    import board, displayio
+
+    bitmap = displayio.Bitmap(320, 240, 3)
+    bitmap[0, 0] = 0
+    palette = displayio.Palette(1)
+    palette[0] = 0xFFFFFF
+    tilegrid = displayio.TileGrid(bitmap, pixel_shader = palette)
+    group = displayio.Group()
+    group.append(tilegrid)
+    board.DISPLAY.show(group)
+
+    # Ctrl+D and any key to re-enter the REPL on-screen
+
