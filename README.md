@@ -67,9 +67,9 @@
 
 - CircuitPython Versions: Select per board at [CircuitPython.org](https://circuitpython.org/downloads) (easiest) or visit [GitHub](https://github.com/adafruit/circuitpython/releases).
 - CircuitPython Beta Releases: Select per board at [CircuitPython.org](https://circuitpython.org/downloads) (easiest)
-- [CircuitPython API Reference](http://circuitpython.readthedocs.io/en/latest/) - A list of functions and documentation available for CircuitPython.
+- [CircuitPython API Reference](https://circuitpython.readthedocs.io/en/latest/) - A list of functions and documentation available for CircuitPython.
 - [CircuitPython Essentials](https://learn.adafruit.com/circuitpython-essentials) - Learning the essential functions of CircuitPython.
-- [Circuit Playground Express CircuitPython API Reference](http://circuitpython.readthedocs.io/projects/circuitplayground/en/latest/) - The functions and documentation specific to the Circuit Playground Express using CircuitPython.
+- [Circuit Playground Express CircuitPython API Reference](https://circuitpython.readthedocs.io/projects/circuitplayground/en/latest/) - The functions and documentation specific to the Circuit Playground Express using CircuitPython.
 - [CircuitPython GitHub Repository](https://github.com/adafruit/circuitpython) - The source code for CircuitPython on GitHub.
 - [Adafruit CircuitPython Libraries](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/master/circuitpython_library_list.md) - Current Adafruit CircuitPython Libraries. There are over 150+ libraries available. More on Libraries on [CircuitPython.org](https://circuitpython.org/libraries).
 - [CircuitPython Community Libraries](https://github.com/adafruit/CircuitPython_Community_Bundle/blob/master/circuitpython_community_library_list.md) - CircuitPython Community Libraries. There are over 45+ libraries available.
@@ -81,7 +81,7 @@
 
 - [Glider: An app for editing Python on mobile devices wirelessly](https://github.com/adafruit/glider) - Also a [video](https://youtu.be/NYpcjDBA6xw), in development.
 - [The Mu Editor, IDE, REPL, and plotter for CircuitPython](https://codewith.mu/) - The recommended Python editor for CircuitPython.
-- [For developers, Mu: A Python Code Editor](http://mu.readthedocs.io/en/latest/) - The documentation for Mu.
+- [For developers, Mu: A Python Code Editor](https://mu.readthedocs.io/en/latest/) - The documentation for Mu.
 - [Using Microsoft VSCode for CircuitPython](https://blog.adafruit.com/2019/01/02/using-visual-studio-code-to-program-circuitpython-with-an-adafruit-neotrellis-m4-adafruit-neotrellis-circuitpython/) - Blog post discussing the process.
 - [A helper for CircuitPython development with Atom](https://github.com/s-light/CircuitPython_Atom_helper) - A helper for the [Atom editor](https://atom.io/).
 - [Thonny, a Python IDE for beginners](https://thonny.org/) - An editor with support for CircuitPython and MicroPython.
@@ -103,10 +103,10 @@ All supported boards may be viewed at [circuitpython.org](https://circuitpython.
 - Benjamin Shockley - [Mini SAM M4](https://www.minifigboards.com/mini-sam-m4/mini-sam-m4-hardware).
 - [Radomir Dopieralski](https://www.tindie.com/stores/deshipu/) - [PewPew](https://www.tindie.com/products/deshipu/small-pewpew-standalone/), [μGame](https://www.tindie.com/products/deshipu/ugame-10-python-game-console-kit/), [PewPew M4](https://hackaday.io/project/165032-pewpew-m4), [Fluff M0](https://hackaday.io/project/171381-fluff-m0).
 - [SparkFun](https://www.sparkfun.com/) - [SparkFun Pro nRF52840 Mini](https://www.sparkfun.com/products/15025), [SparkFun SAMD21 Mini](https://www.sparkfun.com/products/13664), [SparkFun SAMD21 Dev](https://www.sparkfun.com/products/13672), [SparkFun Pro nRF52840 Mini](https://www.sparkfun.com/products/15025), [SparkFun SAMD21 Dev](https://www.sparkfun.com/products/13672), [SparkFun RedBoard Turbo](https://www.sparkfun.com/products/14812), [SparkFun LumiDrive](https://www.sparkfun.com/products/14779), [Sparkfun Qwiic Micro](https://www.sparkfun.com/products/15423), [SparkFun Qwiic Micro without Flash](https://www.sparkfun.com/products/15423), [SparkFun Qwiic Micro with Flash](https://www.sparkfun.com/products/15423), [SAMD51 Thing Plus](https://www.sparkfun.com/products/14713).
-- Dave Astels - [Feather M0 Supersized](http://daveastels.com/feather-m0-express-supersizing.html), [Trinket M0 Haxpress](https://circuitpython.org/board/trinket_m0_haxpress/).
+- Dave Astels - [Feather M0 Supersized](https://daveastels.com/feather-m0-express-supersizing.html), [Trinket M0 Haxpress](https://circuitpython.org/board/trinket_m0_haxpress/).
 - Max Holiday - [KickSat Sprite](https://github.com/RoboticExplorationLab/sprite), [SAM32](https://github.com/maholli/SAM32).
 - Itaca Innovation - [uChip M0](https://www.kickstarter.com/projects/1186620431/uchip-arduino-zero-compatible-in-a-narrow-dip-16-p).
-- [Capable Robot Components](http://capablerobot.com/) - [Programmable USB Hub](https://www.crowdsupply.com/capable-robot-components/programmable-usb-hub), [SenseTemp](https://www.crowdsupply.com/capable-robot-components/sensetemp).
+- [Capable Robot Components](https://capablerobot.com/) - [Programmable USB Hub](https://www.crowdsupply.com/capable-robot-components/programmable-usb-hub), [SenseTemp](https://www.crowdsupply.com/capable-robot-components/sensetemp).
 - [Robotics Masters](https://www.roboticsmasters.co/) - [Robo HAT MM1 M4](https://www.crowdsupply.com/robotics-masters/robo-hat-mm1).
 - Robot Exploration Lab - [PyCubed](https://circuitpython.org/board/pycubed/), PyCubed w/MRAM.
 - [Amitabh Shrivastava](https://tinkrmind.me/) - [Hearrings](https://tinkrmind.me/portfolio/hearrings/).
@@ -154,7 +154,7 @@ All supported boards may be viewed at [circuitpython.org](https://circuitpython.
 - Raytac Corporation - [MDBT50Q-DB-40](https://www.raytac.com/product/ins.php?index_id=81).
 - Sean 'xobs' Cross - [Fomu](https://www.adafruit.com/product/4332).
 - Simmel Project - [Simmel Board](https://github.com/simmel-project/frontpage).
-- [Switch Science, Inc.](https://www.switch-science.com) - [BLE-SS Dev Board Multi Sensor](http://ssci.to/6250)
+- [Switch Science, Inc.](https://www.switch-science.com) - [BLE-SS Dev Board Multi Sensor](https://ssci.to/6250)
 - TG-Techie - [TG-Watch02A](https://github.com/TG-Techie/TG-Watch02-PCB).
 - [TinkeringTech](https://tinkeringtech.com) - [ScoutMakes Azul](https://tinkeringtech.com/blog/scoutmakes-azul/).
 - [Unexpected Maker](https://unexpectedmaker.com) - [Unexpected Maker FeatherS2](https://unexpectedmaker.com/shop/feathers2-esp32-s2).
@@ -164,7 +164,7 @@ Adding new boards to the CircuitPython list on [circuitpython.org](https://circu
 
 [CircuitPython sensors and accessories](https://www.adafruit.com/category/956) - Complete listing of sensors, LCDs, displays, robotics, breakout boards, and more.
 
-[python.digikey.com](http://python.digikey.com) - Digi-Key electronics has a listing of all Python-supported boards on their site in one location including CircuitPython and MicroPython boards.
+[python.digikey.com](https://python.digikey.com) - Digi-Key electronics has a listing of all Python-supported boards on their site in one location including CircuitPython and MicroPython boards.
 
 ## Newsletter
 
@@ -192,13 +192,13 @@ Adding new boards to the CircuitPython list on [circuitpython.org](https://circu
 - [CircuitPython for Rapid Microcontroller-Based Prototyping and Development](https://www.digikey.com/en/articles/techzone/2019/mar/the-basics-of-circuitpython-for-rapid-microcontroller-based-prototyping-and-development) - Digi-Key on the open source community's efforts adapting specific microcontrollers and dev boards to support serious microcontroller development using CircuitPython.
 - [HackSpace Magazine - Issue 17](https://hackspace.raspberrypi.org/features/adafruit-grand-central-m4-express-review) - CircuitPython powered Adafruit Grand Central M4 Express review.
 - [Python on Hardware Means Choices for Makers](https://www.apress.com/us/blog/all-blog-posts/python-on-hardware-means-choices-for-makers/16332230) - By Liz Clark - Apress. CircuitPython (a fork of MicroPython that is designed from the ground up to be beginner friendly.) This allows end users to use Python for their electronics hardware projects similar to how they may have used C/C++ with the Arduino IDE.
-- [Method's Magazine](http://www.mouser.com/news/methods/2019-1/mobile/index.html#p=35) - Methods eZine: Design Trends & the Transformation of Everything features Python on hardware, page 35 - [PDF](http://www.mouser.com/pdfdocs/Mouser-Methods-v3i1.pdf).
+- [Method's Magazine](https://www.mouser.com/news/methods/2019-1/mobile/index.html#p=35) - Methods eZine: Design Trends & the Transformation of Everything features Python on hardware, page 35 - [PDF](https://www.mouser.com/pdfdocs/Mouser-Methods-v3i1.pdf).
 - [HackSpace Magazine - Issue 15](https://blog.adafruit.com/2019/01/24/issue-15-hackspace-magazine-circuitpython-hackspacemag-by-ben-everard-ben_everard-circuitpython-circuitpython-madewithmu/) - CircuitPython makes the cover on HackSpace Magazine with feature article, and projects.
 - [CircuitPython in 2019](https://blog.adafruit.com/2018/12/17/what-do-you-want-from-circuitpython-in-2019-circuitpython2019-circuitpython/) - Community call for what's wanted and needed in CircuitPython for 2019.
 - [CircuitPython in 2018](https://blog.adafruit.com/2018/01/29/circuitpython-in-2018/) - An article discussing the future directions for CircuitPython 2018 edition.
 - [CircuitPython on the Adafruit.com/blog](https://blog.adafruit.com/category/circuitpython/) - Adafruit Blog posts discussing CircuitPython.
 - [CircuitPython in MicroSolutions Digital Magazine](https://blog.adafruit.com/2018/08/27/circuitpython-in-microsolutions-digital-magazine-microchiptech-microchipmakes-circuitpython-adafruit/) - Microchip’s MicroSolutions, “Python on Microcontrollers” in Design Corner article. MicroSolutions is Microchip’s bi-monthly digital magazine.
-- [CircuitPython Snakes its Way onto Adafruit Hardware](http://makezine.com/2017/08/11/circuitpython-snakes-way-adafruit-hardware/) - An article by MAKE on CircuitPython.
+- [CircuitPython Snakes its Way onto Adafruit Hardware](https://makezine.com/2017/08/11/circuitpython-snakes-way-adafruit-hardware/) - An article by MAKE on CircuitPython.
 - [Adafruit Circuit Playground Express review](https://hackspace.raspberrypi.org/features/adafruit-circuit-playground-express-review) - Raspberry Pi reviews the Circuit Playground Express.
 - [The Amp Hour #383](https://www.youtube.com/watch?v=d-Uw3YOf7dE) - An Interview with Scott Shawcroft.
 - [CircuitPython on Hackaday](https://hackaday.com/?s=circuitpython) - Hackaday posts related to CircuitPython.
@@ -299,7 +299,7 @@ Questions? We're happy to [help you to contribute on Discord](https://discord.co
 
 ## License & Trademarks
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the authors have waived all copyright and related or neighbouring rights to this work.
 
