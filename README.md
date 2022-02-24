@@ -98,7 +98,7 @@ All supported boards may be viewed at [circuitpython.org](https://circuitpython.
 - [Electronic Cats](https://electroniccats.com/) - [CatWAN USB Stick](https://electroniccats.com/producto/catwan_usb-stick/), [Meow Meow](https://electroniccats.com/producto/meowmeow/), [Escornabot Makech](https://github.com/ElectronicCats/Escornabot-Makech), [NFC Copy Cat](https://github.com/ElectronicCats/NFC-Copy-Cat) [bast_pro_mini_m0](https://electroniccats.com/store/bast-pro-mini-m0/), [Bast Wifi](https://electroniccats.com/store/bast-wifi/).
 - [MakerDiary](https://makerdiary.com/collections/frontpage) - [nRF52840 Micro Dev Kit](https://makerdiary.com/collections/frontpage/products/nrf52840-mdk-iot-development-kit), [nRF52840 Micro Dev Kit USB Dongle](https://makerdiary.com/collections/frontpage/products/nrf52840-mdk-usb-dongle), [M60 Mechanical Keyboard](https://makerdiary.com/products/m60-mechanical-keyboard-pcba), [Pitaya Go](https://makerdiary.com/products/pitaya-go), [nRF52840 M.2 Developer Kit](https://makerdiary.com/products/nrf52840-m2-developer-kit).
 - [Nordic Semiconductor](https://infocenter.nordicsemi.com/topic/struct_nrf52/struct/nrf52840.html) - nRF52840 DK board [PCA10056](https://infocenter.nordicsemi.com/topic/ug_nrf52840_dk/UG/dk/kit_content.html), nRF52840 Dongle [PCA10059](https://infocenter.nordicsemi.com/topic/ug_nrf52840_dongle/UG/nrf52840_Dongle/intro.html).
-- [NXP](https://www.nxp.com/) - [MIMXRT1010 Eval Kit](https://www.nxp.com/design/development-boards/i.mx-evaluation-and-development-boards/i.mx-rt1010-evaluation-kit:MIMXRT1010-EVK), [MIMXRT1060 Eval Kit](https://www.nxp.com/design/development-boards/i.mx-evaluation-and-development-boards/i.mx-rt1060-evaluation-kit:MIMXRT1060-EVK), [MIMXRT1020 Eval Kit](https://www.nxp.com/design/development-boards/i.mx-evaluation-and-development-boards/i.mx-rt1020-evaluation-kit:MIMXRT1020-EVK).
+- [NXP](https://www.nxp.com/) - [MIMXRT1010 Eval Kit](https://www.nxp.com/design/development-boards/i-mx-evaluation-and-development-boards/i-mx-rt1010-evaluation-kit:MIMXRT1010-EVK), [MIMXRT1060 Eval Kit](https://www.nxp.com/design/development-boards/i-mx-evaluation-and-development-boards/i-mx-rt1060-evaluation-kit:MIMXRT1060-EVK), [MIMXRT1020 Eval Kit](https://www.nxp.com/design/development-boards/i-mx-evaluation-and-development-boards/i-mx-rt1020-evaluation-kit:MIMXRT1020-EVK).
 - [Particle](https://www.particle.io/) - Particle Argon, Particle Boron, Particle Xenon.
 - Benjamin Shockley - [Mini SAM M4](https://www.minifigboards.com/mini-sam-m4/mini-sam-m4-hardware).
 - [Radomir Dopieralski](https://www.tindie.com/stores/deshipu/) - [PewPew](https://www.tindie.com/products/deshipu/small-pewpew-standalone/), [μGame](https://www.tindie.com/products/deshipu/ugame-10-python-game-console-kit/), [PewPew M4](https://hackaday.io/project/165032-pewpew-m4), [Fluff M0](https://hackaday.io/project/171381-fluff-m0).
@@ -107,7 +107,7 @@ All supported boards may be viewed at [circuitpython.org](https://circuitpython.
 - Max Holiday - [KickSat Sprite](https://github.com/RoboticExplorationLab/sprite), [SAM32](https://github.com/maholli/SAM32).
 - Itaca Innovation - [uChip M0](https://www.kickstarter.com/projects/1186620431/uchip-arduino-zero-compatible-in-a-narrow-dip-16-p).
 - [Capable Robot Components](https://capablerobot.com/) - [Programmable USB Hub](https://www.crowdsupply.com/capable-robot-components/programmable-usb-hub), [SenseTemp](https://www.crowdsupply.com/capable-robot-components/sensetemp).
-- [Robotics Masters](https://www.roboticsmasters.co/) - [Robo HAT MM1 M4](https://www.crowdsupply.com/robotics-masters/robo-hat-mm1).
+- [Robotics Masters](https://roboticsmasters.co/) - [Robo HAT MM1 M4](https://www.crowdsupply.com/robotics-masters/robo-hat-mm1).
 - Robot Exploration Lab - [PyCubed](https://circuitpython.org/board/pycubed/), PyCubed w/MRAM.
 - [Amitabh Shrivastava](https://tinkrmind.me/) - [Hearrings](https://tinkrmind.me/portfolio/hearrings/).
 - Prof. Fartsparkle - [Numberwang badge](https://hackaday.com/2019/09/02/the-numberwang-badge-brought-cheer-to-cccamp-2019/)
@@ -122,10 +122,10 @@ All supported boards may be viewed at [circuitpython.org](https://circuitpython.
 - Damien George - [PyBoard 1.1](https://www.adafruit.com/product/2390).
 - [Seeed Studio](https://www.seeedstudio.com/) - [Seeeduino XIAO](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html), [Wio Terminal](https://www.seeedstudio.com/Wio-Terminal-p-4509.html).
 - Oddly Specific Objects - [The Open Book](https://github.com/joeycastillo/The-Open-Book).
-- [ST](https://www.st.com) - [STM32F412 Discovery Kit](https://www.st.com/en/evaluation-tools/32f412gdiscovery.html), [STM32F411 Discovery kit](https://www.st.com/en/evaluation-tools/32f411ediscovery.html), [STM32F407 Discovery Kit](https://www.st.com/en/evaluation-tools/stm32f4discovery.html), [STM32H743 Nucleo](https://www.st.com/content/st_com/en/products/evaluation-tools/product-evaluation-tools/mcu-mpu-eval-tools/stm32-mcu-mpu-eval-tools/stm32-nucleo-boards/nucleo-h743zi.html), [STM32F767 Nucleo](https://www.st.com/content/st_com/en/products/evaluation-tools/product-evaluation-tools/mcu-mpu-eval-tools/stm32-mcu-mpu-eval-tools/stm32-nucleo-boards/nucleo-f767zi.html), [STM32F746 Nucleo](https://www.st.com/content/st_com/en/products/evaluation-tools/product-evaluation-tools/mcu-mpu-eval-tools/stm32-mcu-mpu-eval-tools/stm32-nucleo-boards/nucleo-f746zg.html), [STM32F746 Discovery kit](https://www.st.com/content/st_com/en/products/evaluation-tools/product-evaluation-tools/mcu-mpu-eval-tools/stm32-mcu-mpu-eval-tools/stm32-discovery-kits/32f746gdiscovery.html).
+- [ST](https://www.st.com/content/st_com/en.html) - [STM32F412 Discovery Kit](https://www.st.com/en/evaluation-tools/32f412gdiscovery.html), [STM32F411 Discovery kit](https://www.st.com/en/evaluation-tools/32f411ediscovery.html), [STM32F407 Discovery Kit](https://www.st.com/en/evaluation-tools/stm32f4discovery.html), [STM32H743 Nucleo](https://www.st.com/content/st_com/en/products/evaluation-tools/product-evaluation-tools/mcu-mpu-eval-tools/stm32-mcu-mpu-eval-tools/stm32-nucleo-boards/nucleo-h743zi.html), [STM32F767 Nucleo](https://www.st.com/content/st_com/en/products/evaluation-tools/product-evaluation-tools/mcu-mpu-eval-tools/stm32-mcu-mpu-eval-tools/stm32-nucleo-boards/nucleo-f767zi.html), [STM32F746 Nucleo](https://www.st.com/content/st_com/en/products/evaluation-tools/product-evaluation-tools/mcu-mpu-eval-tools/stm32-mcu-mpu-eval-tools/stm32-nucleo-boards/nucleo-f746zg.html), [STM32F746 Discovery kit](https://www.st.com/content/st_com/en/products/evaluation-tools/product-evaluation-tools/mcu-mpu-eval-tools/stm32-mcu-mpu-eval-tools/stm32-discovery-kits/32f746gdiscovery.html).
 - Alethea Flowers - [Winterbloom Sol](https://thea.codes/), [Winterbloom Big Honking Button](https://winterbloom.com/).
 - [Cedar Grove Studios](https://twitter.com/CedarGroveMakr) - StringCar M0 Express.
-- [keithp.com](https://keithp.com) - [Snekboard](https://keithp.com/snek/snekboard).
+- [keithp.com](https://keithp.com) - [Snekboard](https://sneklang.org/snekboard/).
 - Elecrow - [PYB Nano v2](https://www.elecrow.com/micropython-development-board-pyb-nano-compatible-with-python.html).
 - XinaBox - [XinaBox CS11](https://xinabox.cc/products/cs11), [XinaBox CC03](https://xinabox.cc/products/cc03).
 - Teknikio - [Bluebird](https://www.teknikio.com/pages/bluebird).
@@ -134,7 +134,7 @@ All supported boards may be viewed at [circuitpython.org](https://circuitpython.
 - [ndGarage](https://github.com/ndGarage) - [Ndbit6](https://github.com/ndGarage/ndgarage).
 - Null Byte Labs LLC - [CircuitBrains Deluxe](https://kevinneubauer.com/portfolio/circuitbrains-deluxe/), [CircuitBrains Basic](https://kevinneubauer.com/portfolio/circuitbrains-basic/).
 - 8086 Consultancy - [Commander](https://www.tindie.com/products/8086net/commander/).
-- Alorium Technology, LLC - [AloriumTech Evo M51](https://www.aloriumtech.com/evom51-buy/).
+- Alorium Technology, LLC - [AloriumTech Evo M51](https://aloriumtech.com/evom51-buy/).
 - ARAMCON Badge Team - [ARAMCON Badge 2019](https://github.com/aramcon-badge/).
 - BDMICRO, LLC - [Vina-D51](https://bdmicro.com/collections/frontpage/products/vina-d51), [Vina-D21](https://bdmicro.com/products/vina-d21).
 - BH Dynamics - [DynOSSAT-EDU OBC](https://www.tindie.com/products/bhdynamics/dynossat-edu/), [DynOSSAT-EDU EPS](https://www.tindie.com/products/bhdynamics/dynossat-edu/).
@@ -146,11 +146,11 @@ All supported boards may be viewed at [circuitpython.org](https://circuitpython.
 - Jeremy Gillick - [Thunderpack](https://github.com/jgillick/ThunderPack).
 - JPConstantineau - [BlueMicro840]( https://www.tindie.com/products/21640/), [PyKey60](https://www.tindie.com/products/24940/)
 - Microchip - [SAM E54 Xplained Pro](https://www.microchipdirect.com/product/search/all/ATSAME54-XPRO).
-- microDev - [microS2](https://www.tindie.com/products/microdev/micros2/).
+- microDev - [microS2](https://www.tindie.com/products/microdev/microdev-micros2/).
 - Muselab - [NanoESP32 S2](https://github.com/wuxx/nanoESP32-S2).
 - [Nice Keyboards](https://nicekeyboards.com) - [Nice!Nano](https://docs.nicekeyboards.com/#/nice!nano/).
 - [Oak Development Technologies](https://www.oakdev.tech) - [CP Sapling](https://www.oakdev.tech/store/p7/CP-Sapling-m0-development-board.html#/).
-- [OpenMV](https://openmv.io) - [OpenMV H7](https://openmv.io/collections/products/products/openmv-cam-h7).
+- [OpenMV](https://openmv.io) - [OpenMV H7](https://openmv.io/products/openmv-cam-h7).
 - Raytac Corporation - [MDBT50Q-DB-40](https://www.raytac.com/product/ins.php?index_id=81).
 - Sean 'xobs' Cross - [Fomu](https://www.adafruit.com/product/4332).
 - Simmel Project - [Simmel Board](https://github.com/simmel-project/frontpage).
@@ -175,7 +175,7 @@ Adding new boards to the CircuitPython list on [circuitpython.org](https://circu
 ## News
 
 - [Program CircuitPython devices with iPhone & iOS 13](https://blog.adafruit.com/2019/09/19/program-circuitpython-devices-with-iphone-ios-13/) - With the launch of iOS 13, iPhone users now have the ability to edit code on CircuitPython USB devices!
-- [Changing Lives through Open Source, Passion and Mentoring](https://youtu.be/-bBHXimlfPQ) - the [keynote talk at PyOhio](https://www.pyohio.org/2019/presentations/126), July 27, 2019 by Kattni Rembor.
+- [Changing Lives through Open Source, Passion and Mentoring](https://youtu.be/-bBHXimlfPQ) - the [keynote talk at PyOhio](https://www.pyohio.org/2019/presentations/126/), July 27, 2019 by Kattni Rembor.
 - [Control servos with CircuitPython and Raspberry Pi](https://blog.adafruit.com/2019/07/27/issue-84-the-magpi-magazinethe-magpi-magazine-control-servos-with-circuitpython-and-raspberry-pi-by-makermelissa-themagpi-raspberry_pi-circuitpython-blinka/) - The MagPi Magazine, Issue 84, Melissa LeBlanc-Williams, July, 2019.
 - [PyDev of the Week: Scott Shawcroft](https://www.blog.pythonlibrary.org/2019/07/01/pydev-of-the-week-scott-shawcroft/) - July 1, 2019.
 - [Scott Shawcroft: History of CircuitPython](https://pyfound.blogspot.com/2019/05/scott-shawcroft-history-of-circuitpython.html) - A discussion of CircuitPython for the core developers of Python, PyCon 2019.
@@ -184,13 +184,13 @@ Adding new boards to the CircuitPython list on [circuitpython.org](https://circu
 - [Learn Hardware Programming with CircuitPython](https://www.codecademy.com/learn/learn-circuitpython?utm_source=adafruit&utm_medium=partners&utm_campaign=circuitplayground&utm_content=blog_home) - A course offered by Codecademy in collaboration with Adafruit.
 - [Use CircuitPython boards on the TI-83 Premium CE calculator](https://blog.adafruit.com/2019/03/31/use-circuitpython-boards-on-the-ti-83-premium-ce-calculator-tiplanetnews-ticalculators-circuitpython-circuitpython/) - CircuitPython runs on Texas Instrument calculators.
 - [Make: Vol. 68 Boards guide](https://blog.adafruit.com/2019/03/23/make-vol-68-april-may-2019-is-here-guide-to-boards-tech-trend-1-the-push-for-python-make-adafruit-circuitpython/) - Make: Magazine names Python the #1 Tech Trend for boards in 2019!
-- [Scott Shawcroft Is Squeezing Python Into Microcontrollers](https://spectrum.ieee.org/at-work/tech-careers/scott-shawcroft-is-squeezing-python-into-microcontrollers) - IEEE Spectrum Magazine article on the Python programming language for makers.
+- [Scott Shawcroft Is Squeezing Python Into Microcontrollers](https://spectrum.ieee.org/scott-shawcroft-is-squeezing-python-into-microcontrollers) - IEEE Spectrum Magazine article on the Python programming language for makers.
 - [Circuit Playground Express 4-H edition approved](https://blog.adafruit.com/2019/03/18/adafruit-circuit-playground-express-4-h-edition-approved-adafruit-4h-4h-4hgrowshere/) - The 4-H branded version was approved by the USDA, this is the first CircuitPython powered board that is also 4-H approved!
 - [CircuitPython in Space](https://blog.adafruit.com/2019/03/17/circuitpython-in-space-pythonaut-circuitpython-adafruit-maholli404-zacinaction-smallsat-kicksat/) - _CircuitPython provides an approachable and logical means of conducting science with hardware. Paired with low-cost hardware shown to work in space, we can enable an new generation to question and explore the unknown. With the necessary “satellite stuff” already baked in, students can spend their time trying something new rather than reinventing the wheel_.
 - [Adafruit PyPortal: GUI meets CircuitPython in a Big Way](https://anchor.fm/disruptityourself/episodes/Adafruit-PyPortal-GUI-meets-CircuitPython-in-a-Big-Way-e3g745) - Disrupt It Yourself podcast on CircuitPython and the IoT device, PyPortal.
 - [Cool Tools](https://youtu.be/Kz4C7sCLWb0) - Sophy Wong Talks Circuit Playground Express including CircuitPython.
 - [CircuitPython for Rapid Microcontroller-Based Prototyping and Development](https://www.digikey.com/en/articles/techzone/2019/mar/the-basics-of-circuitpython-for-rapid-microcontroller-based-prototyping-and-development) - Digi-Key on the open source community's efforts adapting specific microcontrollers and dev boards to support serious microcontroller development using CircuitPython.
-- [HackSpace Magazine - Issue 17](https://hackspace.raspberrypi.org/features/adafruit-grand-central-m4-express-review) - CircuitPython powered Adafruit Grand Central M4 Express review.
+- [HackSpace Magazine - Issue 17](https://hackspace.raspberrypi.com/articles/adafruit-grand-central-m4-express-review) - CircuitPython powered Adafruit Grand Central M4 Express review.
 - [Python on Hardware Means Choices for Makers](https://www.apress.com/us/blog/all-blog-posts/python-on-hardware-means-choices-for-makers/16332230) - By Liz Clark - Apress. CircuitPython (a fork of MicroPython that is designed from the ground up to be beginner friendly.) This allows end users to use Python for their electronics hardware projects similar to how they may have used C/C++ with the Arduino IDE.
 - [Method's Magazine](https://www.mouser.com/news/methods/2019-1/mobile/index.html#p=35) - Methods eZine: Design Trends & the Transformation of Everything features Python on hardware, page 35 - [PDF](https://www.mouser.com/pdfdocs/Mouser-Methods-v3i1.pdf).
 - [HackSpace Magazine - Issue 15](https://blog.adafruit.com/2019/01/24/issue-15-hackspace-magazine-circuitpython-hackspacemag-by-ben-everard-ben_everard-circuitpython-circuitpython-madewithmu/) - CircuitPython makes the cover on HackSpace Magazine with feature article, and projects.
@@ -199,9 +199,9 @@ Adding new boards to the CircuitPython list on [circuitpython.org](https://circu
 - [CircuitPython on the Adafruit.com/blog](https://blog.adafruit.com/category/circuitpython/) - Adafruit Blog posts discussing CircuitPython.
 - [CircuitPython in MicroSolutions Digital Magazine](https://blog.adafruit.com/2018/08/27/circuitpython-in-microsolutions-digital-magazine-microchiptech-microchipmakes-circuitpython-adafruit/) - Microchip’s MicroSolutions, “Python on Microcontrollers” in Design Corner article. MicroSolutions is Microchip’s bi-monthly digital magazine.
 - [CircuitPython Snakes its Way onto Adafruit Hardware](https://makezine.com/2017/08/11/circuitpython-snakes-way-adafruit-hardware/) - An article by MAKE on CircuitPython.
-- [Adafruit Circuit Playground Express review](https://hackspace.raspberrypi.org/features/adafruit-circuit-playground-express-review) - Raspberry Pi reviews the Circuit Playground Express.
+- [Adafruit Circuit Playground Express review](https://hackspace.raspberrypi.com/articles/adafruit-circuit-playground-express-review) - Raspberry Pi reviews the Circuit Playground Express.
 - [The Amp Hour #383](https://www.youtube.com/watch?v=d-Uw3YOf7dE) - An Interview with Scott Shawcroft.
-- [CircuitPython on Hackaday](https://hackaday.com/?s=circuitpython) - Hackaday posts related to CircuitPython.
+- [CircuitPython on Hackaday](https://hackaday.com/blog/?s=circuitpython) - Hackaday posts related to CircuitPython.
 - [CircuitPython on hackster.io](https://blog.hackster.io/search?q=circuitpython) - Posts on hackster.io related to CircuitPython.
 - [CircuitPython on MAKE](https://makezine.com/?s=circuitpython) - CircuitPython related content on MAKE.
 
@@ -224,8 +224,8 @@ Adding new boards to the CircuitPython list on [circuitpython.org](https://circu
 
 ## Podcasts
 
-- [Weekly community chat on Adafruit Discord server CircuitPython channel - Audio / Podcast edition](https://itunes.apple.com/us/podcast/circuitpython-weekly-meeting/id1451685016) - Audio from the Discord chat space for CircuitPython, meetings are usually Mondays at 2pm ET, this is the audio version on [iTunes](https://itunes.apple.com/us/podcast/circuitpython-weekly-meeting/id1451685016), Pocket Casts, [Spotify](https://adafru.it/spotify), and [XML feed](https://adafruit-podcasts.s3.amazonaws.com/circuitpython_weekly_meeting/audio-podcast.xml).
-- [Python on hardware weekly video cast](https://itunes.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2) - The wonderful world of Python on hardware! This is our video-newsletter-podcast of all things Python and electronics! The news comes from the Python community, discord, Adafruit communities and more. It’s part of the weekly newsletter, then we have a segment on ASK an ENGINEER and this is the video slice from that! This video podcast is on [iTunes](https://itunes.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2), [YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev), [IGTV (Instagram TV](https://www.instagram.com/adafruit/channel/)), and [XML](https://itunes.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2).
+- [Weekly community chat on Adafruit Discord server CircuitPython channel - Audio / Podcast edition](https://podcasts.apple.com/us/podcast/circuitpython-weekly-meeting/id1451685016) - Audio from the Discord chat space for CircuitPython, meetings are usually Mondays at 2pm ET, this is the audio version on [iTunes](https://podcasts.apple.com/us/podcast/circuitpython-weekly-meeting/id1451685016), Pocket Casts, [Spotify](https://adafru.it/spotify), and [XML feed](https://adafruit-podcasts.s3.amazonaws.com/circuitpython_weekly_meeting/audio-podcast.xml).
+- [Python on hardware weekly video cast](https://podcasts.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2) - The wonderful world of Python on hardware! This is our video-newsletter-podcast of all things Python and electronics! The news comes from the Python community, discord, Adafruit communities and more. It’s part of the weekly newsletter, then we have a segment on ASK an ENGINEER and this is the video slice from that! This video podcast is on [iTunes](https://podcasts.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2), [YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev), [IGTV (Instagram TV](https://www.instagram.com/adafruit/channel/)), and [XML](https://itunes.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2).
 - [The Best Python Podcasts](https://blog.adafruit.com/2019/03/22/the-best-python-podcasts-python-talkpython-mkennedy-pythonbites-brianokken/) - The Best Python Podcasts.
 
 
