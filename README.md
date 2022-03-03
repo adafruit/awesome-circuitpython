@@ -116,7 +116,7 @@ Looking to add a new board to CircuitPython? It's highly encouraged! Adafruit ha
 - [CircuitPython on the Adafruit.com/blog](https://blog.adafruit.com/category/circuitpython/) - Adafruit Blog posts discussing CircuitPython.
 - [CircuitPython Show Episode 1: Kattni Rembor](https://circuitpythonshow.com/episodes/1) - Host Paul Cutler interviews CircuitPython team member Kattni Rembor, March 1, 2022.
 - [Scott Shawcroft Works On Bare-Metal Raspberry Pi CircuitPython as Adafruit Plans an E Ink Computer](https://www.hackster.io/news/scott-shawcroft-works-on-bare-metal-raspberry-pi-circuitpython-as-adafruit-plans-an-e-ink-computer-a6a037558ba5) - Hackster.io, December 2021.
-- [The Real Python Podcast Episode 75: Building With CircuitPython & Constraints of Python for Microcontrollers] - Scott Shawcroft, August 27, 2021.
+- [The Real Python Podcast Episode 75: Building With CircuitPython & Constraints of Python for Microcontrollers](https://realpython.com/podcasts/rpp/75/) - Scott Shawcroft, August 27, 2021.
 - [embedded.fm Podcast Episode 372: The Motivation of Creativity](https://traffic.libsyn.com/secure/makingembeddedsystems/embedded-ep372.mp3?download=true) - interview with Anne Barela, CircuitPython team member and Python on Microcontrollers Editor, May 6, 2021.
 - [DroneBot Workshop: Raspberry Pi Pico with CircuitPython](https://dronebotworkshop.com/pi-pico-circuitpython/) - March 5, 2021.
 - [Changing Lives through Open Source, Passion and Mentoring](https://youtu.be/-bBHXimlfPQ) - the [keynote talk at PyOhio](https://www.pyohio.org/2019/presentations/126/), July 27, 2019 by Kattni Rembor.
