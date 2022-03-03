@@ -46,7 +46,6 @@
 ## Community
 
 - [Adafruit CircuitPython Discord channel #CircuitPython](https://adafru.it/discord) - 24/7 chat and support on CircuitPython including a weekly podcast.
-- [Python on Hardware weekly VideoCast](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev) - The wonderful world of Python on hardware. Video-newsletter-podcast of all things Python and electronics.
 - [CircuitPython Weekly Meeting](https://www.youtube.com/playlist?list=PLjF7R1fz_OOUvw7tMv45xjWp0ht8yNgg0) - Video archive of weekly community meeting via Discord, starting from September, 2017.
 - [Adafruit CircuitPython Forums](https://forums.adafruit.com/viewforum.php?f=60) - The Adafruit discussion forum on CircuitPython.
 
@@ -109,6 +108,7 @@ Looking to add a new board to CircuitPython? It's highly encouraged! Adafruit ha
 - [Adafruit Daily, Python for microcontrollers](https://www.adafruitdaily.com/) - A weekly newsletter on MicroPython and CircuitPython, a spam-free list.
 - [Contribute to newsletter](https://github.com/adafruit/circuitpython-weekly-newsletter) - Guidelines on contributing to the newsletter.
 - [Archives of all newsletters](https://www.adafruitdaily.com/category/circuitpython/) - List of every newsletter published from the start, November 2016.
+- [Python on Hardware weekly VideoCast](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev) - The wonderful world of Python on hardware. Video-newsletter-podcast of all things Python and electronics.
 
 ## News
 
