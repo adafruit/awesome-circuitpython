@@ -48,6 +48,7 @@
 - [Adafruit CircuitPython Discord channel #CircuitPython](https://adafru.it/discord) - 24/7 chat and support on CircuitPython including a weekly podcast.
 - [CircuitPython Weekly Meeting](https://www.youtube.com/playlist?list=PLjF7R1fz_OOUvw7tMv45xjWp0ht8yNgg0) - Video archive of weekly community meeting via Discord, starting from September, 2017.
 - [Adafruit CircuitPython Forums](https://forums.adafruit.com/viewforum.php?f=60) - The Adafruit discussion forum on CircuitPython.
+- [MicroPython Slack](https://micropython.slack.com/) - a Slack channel for MicroPython users. You can get an invitation [here](https://slack-micropython.herokuapp.com/).
 
 ## Books
 
