@@ -49,6 +49,7 @@
 - [CircuitPython Weekly Meeting](https://www.youtube.com/playlist?list=PLjF7R1fz_OOUvw7tMv45xjWp0ht8yNgg0) - Video archive of weekly community meeting via Discord, starting from September, 2017.
 - [Adafruit CircuitPython Forums](https://forums.adafruit.com/viewforum.php?f=60) - The Adafruit discussion forum on CircuitPython.
 - [MicroPython Slack](https://micropython.slack.com/) - a Slack channel for MicroPython users. You can get an invitation [here](https://slack-micropython.herokuapp.com/).
+- [MicroPython Meetup](https://www.meetup.com/MicroPython-Meetup/) - online and in Melbourne, Australia once a month.
 
 ## Books
 
@@ -65,8 +66,7 @@
 
 ## Code
 
-- CircuitPython Versions: Select per board at [CircuitPython.org](https://circuitpython.org/downloads) (easiest) or visit [GitHub](https://github.com/adafruit/circuitpython/releases).
-- CircuitPython Beta Releases: Select per board at [CircuitPython.org](https://circuitpython.org/downloads) (easiest)
+- CircuitPython Board Software Versions: Select per board at [CircuitPython.org](https://circuitpython.org/downloads). The source for each is also on [GitHub](https://github.com/adafruit/circuitpython/releases).
 - [CircuitPython API Reference](https://circuitpython.readthedocs.io/en/latest/README.html) - A list of functions and documentation available for CircuitPython.
 - [CircuitPython Essentials](https://learn.adafruit.com/circuitpython-essentials) - Learning the essential functions of CircuitPython.
 - [Circuit Playground Express CircuitPython API Reference](https://circuitpython.readthedocs.io/projects/circuitplayground/en/latest/) - The functions and documentation specific to the Circuit Playground Express using CircuitPython.
@@ -74,8 +74,7 @@
 - [Adafruit CircuitPython Libraries](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/master/circuitpython_library_list.md) - Current Adafruit CircuitPython Libraries. There are over 150+ libraries available. More on Libraries on [CircuitPython.org](https://circuitpython.org/libraries).
 - [CircuitPython Community Libraries](https://github.com/adafruit/CircuitPython_Community_Bundle/blob/main/circuitpython_community_library_list.md) - CircuitPython Community Libraries. There are over 45+ libraries available.
 - [Adafruit Blinka - SBC Compatibility](https://learn.adafruit.com/circuitpython-on-raspberrypi-linux?view=all) - CircuitPython Libraries on Raspberry Pi and other compatible single-board computers (SBC) running Linux.
-- [Coding CircuitPython on iOS 13.x](https://blog.adafruit.com/2019/09/19/program-circuitpython-devices-with-iphone-ios-13/) - With the launch of iOS 13, iPhone users now have the ability to edit code on CircuitPython USB devices!
-- [Awesome List for the rp2040 Macropad](https://github.com/prcutler/awesome-macropad) - A list of awesome Macropad applications, macros, 3D printed plans, and more.
+- [Awesome List for the RP2040 Macropad](https://github.com/prcutler/awesome-macropad) - A list of awesome Macropad applications, macros, 3D printed plans, and more.
 
 ## Frameworks
 
