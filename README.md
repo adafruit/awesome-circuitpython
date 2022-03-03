@@ -91,76 +91,14 @@
 
 ## Hardware
 
-All supported boards may be viewed at [circuitpython.org](https://circuitpython.org/downloads) to include descriptions, pictures, and compatible CircuitPython builds. A summary of current boards on circuitpython.org:
+All supported boards may be viewed at [circuitpython.org](https://circuitpython.org/downloads) to include descriptions, pictures, and compatible CircuitPython builds. For Single-Board Computers, the list of boards is [under the Blinka category](https://circuitpython.org/blinka).
 
-- [Adafruit CircuitPython boards](https://www.adafruit.com/circuitpython) - Adafruit Circuit Playground Express, Adafruit Feather M0 Basic, Adafruit Feather M0 Express, Adafruit Feather M0 Adalogger, Adafruit Feather M0 RFM9x, Adafruit Feather M0 RFM69, Adafruit Feather M4 Express, Adafruit Feather nRF52832, Adafruit Feather nRF52840 Express, Adafruit nRF52840 Sense, Adafruit CLUE, Adafruit Gemma M0, Adafruit Grand Central M4 Express, Adafruit HalloWing M0 Express, Adafruit HalloWing M4 Expres, Adafruit ItsyBitsy M0 Express, Adafruit ItsyBitsy M4 Express, Adafruit ItsyBitsy NRF52840 Express, Adafruit Metro M0 Express, Adafruit Metro M4 Express, Adafruit Metro ESP32-S2, Adafruit Metro nRF52840 Express, Adafruit NeoTrellis M4, Adafruit Trinket M0, Adafruit PyPortal, Adafruit PyPortal Titano, Adafruit PyPortal Pynt, Adafruit pIRkey, Adafruit Feather Huzzah, Adafruit PyBadge, Adafruit PyBadge AirLift, Adafruit PyBadge LC, Adafruit PyGamer, Adafruit PyGamer Advance, Adafruit Metro M4 AirLift Lite, Adafruit Gemma M0 PyCon 2018, Adafruit Circuit Playground Express Digi-Key, Adafruit Circuit Playground Express 4-H, Adafruit Circuit Playground Express + Crickit, Adafruit Circuit Playground Express Bluefruit, Adafruit Feather M0 Express + Crickit, Adafruit PyRuler, Adafruit EdgeBadge, Adafruit M7 1011, Adafruit Matrix Portal M4, Adafruit Feather M4 CAN, Adafruit Feather STM32F405 Express, Adafruit MagTag, Adafruit MONSTER M4SK, Adafruit QT Py, Adafruit QT Py Haxpress, Adafruit Macropad RP2040, Adafruit Neo Trinkey - SAMD21 USB Key, Adafruit QT Py RP2040, Adafruit Trinkey QT2040, Adafruit ItsyBitsy RP2040, Adafruit Metro ESP32-S2, Adafruit KB2040, Adafruit Feather RP2040.
-- [Arduino](https://www.arduino.cc/) - Arduino MKR WAN 1300, Arduino MKR Zero, Arduino Zero, Arduino Nano 33 BLE, Arduino Nano 33 IoT.
-- [Electronic Cats](https://electroniccats.com/) - [CatWAN USB Stick](https://electroniccats.com/producto/catwan_usb-stick/), [Meow Meow](https://electroniccats.com/producto/meowmeow/), [Escornabot Makech](https://github.com/ElectronicCats/Escornabot-Makech), [NFC Copy Cat](https://github.com/ElectronicCats/NFC-Copy-Cat) [bast_pro_mini_m0](https://electroniccats.com/store/bast-pro-mini-m0/), [Bast Wifi](https://electroniccats.com/store/bast-wifi/).
-- [MakerDiary](https://makerdiary.com/collections/frontpage) - [nRF52840 Micro Dev Kit](https://makerdiary.com/collections/frontpage/products/nrf52840-mdk-iot-development-kit), [nRF52840 Micro Dev Kit USB Dongle](https://makerdiary.com/collections/frontpage/products/nrf52840-mdk-usb-dongle), [M60 Mechanical Keyboard](https://makerdiary.com/products/m60-mechanical-keyboard-pcba), [Pitaya Go](https://makerdiary.com/products/pitaya-go), [nRF52840 M.2 Developer Kit](https://makerdiary.com/products/nrf52840-m2-developer-kit).
-- [Nordic Semiconductor](https://infocenter.nordicsemi.com/topic/struct_nrf52/struct/nrf52840.html) - nRF52840 DK board [PCA10056](https://infocenter.nordicsemi.com/topic/ug_nrf52840_dk/UG/dk/kit_content.html), nRF52840 Dongle [PCA10059](https://infocenter.nordicsemi.com/topic/ug_nrf52840_dongle/UG/nrf52840_Dongle/intro.html).
-- [NXP](https://www.nxp.com/) - [MIMXRT1010 Eval Kit](https://www.nxp.com/design/development-boards/i-mx-evaluation-and-development-boards/i-mx-rt1010-evaluation-kit:MIMXRT1010-EVK), [MIMXRT1060 Eval Kit](https://www.nxp.com/design/development-boards/i-mx-evaluation-and-development-boards/i-mx-rt1060-evaluation-kit:MIMXRT1060-EVK), [MIMXRT1020 Eval Kit](https://www.nxp.com/design/development-boards/i-mx-evaluation-and-development-boards/i-mx-rt1020-evaluation-kit:MIMXRT1020-EVK).
-- [Particle](https://www.particle.io/) - Particle Argon, Particle Boron, Particle Xenon.
-- Benjamin Shockley - [Mini SAM M4](https://www.minifigboards.com/mini-sam-m4/mini-sam-m4-hardware).
-- [Radomir Dopieralski](https://www.tindie.com/stores/deshipu/) - [PewPew](https://www.tindie.com/products/deshipu/small-pewpew-standalone/), [μGame](https://www.tindie.com/products/deshipu/ugame-10-python-game-console-kit/), [PewPew M4](https://hackaday.io/project/165032-pewpew-m4), [Fluff M0](https://hackaday.io/project/171381-fluff-m0).
-- [SparkFun](https://www.sparkfun.com/) - [SparkFun Pro nRF52840 Mini](https://www.sparkfun.com/products/15025), [SparkFun SAMD21 Mini](https://www.sparkfun.com/products/13664), [SparkFun SAMD21 Dev](https://www.sparkfun.com/products/13672), [SparkFun Pro nRF52840 Mini](https://www.sparkfun.com/products/15025), [SparkFun SAMD21 Dev](https://www.sparkfun.com/products/13672), [SparkFun RedBoard Turbo](https://www.sparkfun.com/products/14812), [SparkFun LumiDrive](https://www.sparkfun.com/products/14779), [Sparkfun Qwiic Micro](https://www.sparkfun.com/products/15423), [SparkFun Qwiic Micro without Flash](https://www.sparkfun.com/products/15423), [SparkFun Qwiic Micro with Flash](https://www.sparkfun.com/products/15423), [SAMD51 Thing Plus](https://www.sparkfun.com/products/14713).
-- Dave Astels - [Feather M0 Supersized](https://daveastels.com/feather-m0-express-supersizing.html), [Trinket M0 Haxpress](https://circuitpython.org/board/trinket_m0_haxpress/).
-- Max Holiday - [KickSat Sprite](https://github.com/RoboticExplorationLab/sprite), [SAM32](https://github.com/maholli/SAM32).
-- Itaca Innovation - [uChip M0](https://www.kickstarter.com/projects/1186620431/uchip-arduino-zero-compatible-in-a-narrow-dip-16-p).
-- [Capable Robot Components](https://capablerobot.com/) - [Programmable USB Hub](https://www.crowdsupply.com/capable-robot-components/programmable-usb-hub), [SenseTemp](https://www.crowdsupply.com/capable-robot-components/sensetemp).
-- [Robotics Masters](https://roboticsmasters.co/) - [Robo HAT MM1 M4](https://www.crowdsupply.com/robotics-masters/robo-hat-mm1).
-- Robot Exploration Lab - [PyCubed](https://circuitpython.org/board/pycubed/), PyCubed w/MRAM.
-- [Amitabh Shrivastava](https://tinkrmind.me/) - [Hearrings](https://tinkrmind.me/portfolio/hearrings/).
-- Prof. Fartsparkle - [Numberwang badge](https://hackaday.com/2019/09/02/the-numberwang-badge-brought-cheer-to-cccamp-2019/)
-- [arturo182](https://twitter.com/arturo182) - [Serpente](https://www.tindie.com/products/arturo182/serpente-a-tiny-circuitpython-prototyping-board/), Feather MIMXRT1062, [Feather MIMXRT1011](https://www.tindie.com/products/arturo182/nxp-mimxrt1011-feather-with-esp32/).
-- [Sony](https://developer.sony.com/) - [Spresense](https://developer.sony.com/develop/spresense/).
-- [PJRC](https://www.pjrc.com/) - [Teensy 4.0](https://www.adafruit.com/product/4323), [Teensy 4.1](https://www.pjrc.com/store/teensy41.html).
-- [Electronut Labs](https://docs.electronut.in/) - [Papyr](https://docs.electronut.in/papyr/#buy-papyr), [Blip](https://docs.electronut.in/blip/#purchasing-blip).
-- TZT - STM32F411CE Black Pill.
-- [J&J Studios](https://jandjstudios.io/) - [datum-IMU](https://jandjstudios.io/datum/datum-IMU/), [datum-Distance](https://jandjstudios.io/datum/datum-Distance/), [datum-Weather](https://jandjstudios.io/datum/datum-Weather/), [datum-Light](https://jandjstudios.io/datum/datum-Light/).
-- KittenBot - [Meowbit](https://www.adafruit.com/product/4324).
-- OSHWA - Open Hardware Summit 2020 Badge.
-- Damien George - [PyBoard 1.1](https://www.adafruit.com/product/2390).
-- [Seeed Studio](https://www.seeedstudio.com/) - [Seeeduino XIAO](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html), [Wio Terminal](https://www.seeedstudio.com/Wio-Terminal-p-4509.html).
-- Oddly Specific Objects - [The Open Book](https://github.com/joeycastillo/The-Open-Book).
-- [ST](https://www.st.com/content/st_com/en.html) - [STM32F412 Discovery Kit](https://www.st.com/en/evaluation-tools/32f412gdiscovery.html), [STM32F411 Discovery kit](https://www.st.com/en/evaluation-tools/32f411ediscovery.html), [STM32F407 Discovery Kit](https://www.st.com/en/evaluation-tools/stm32f4discovery.html), [STM32H743 Nucleo](https://www.st.com/content/st_com/en/products/evaluation-tools/product-evaluation-tools/mcu-mpu-eval-tools/stm32-mcu-mpu-eval-tools/stm32-nucleo-boards/nucleo-h743zi.html), [STM32F767 Nucleo](https://www.st.com/content/st_com/en/products/evaluation-tools/product-evaluation-tools/mcu-mpu-eval-tools/stm32-mcu-mpu-eval-tools/stm32-nucleo-boards/nucleo-f767zi.html), [STM32F746 Nucleo](https://www.st.com/content/st_com/en/products/evaluation-tools/product-evaluation-tools/mcu-mpu-eval-tools/stm32-mcu-mpu-eval-tools/stm32-nucleo-boards/nucleo-f746zg.html), [STM32F746 Discovery kit](https://www.st.com/content/st_com/en/products/evaluation-tools/product-evaluation-tools/mcu-mpu-eval-tools/stm32-mcu-mpu-eval-tools/stm32-discovery-kits/32f746gdiscovery.html).
-- Alethea Flowers - [Winterbloom Sol](https://thea.codes/), [Winterbloom Big Honking Button](https://winterbloom.com/).
-- [Cedar Grove Studios](https://twitter.com/CedarGroveMakr) - StringCar M0 Express.
-- [keithp.com](https://keithp.com) - [Snekboard](https://sneklang.org/snekboard/).
-- Elecrow - [PYB Nano v2](https://www.elecrow.com/micropython-development-board-pyb-nano-compatible-with-python.html).
-- XinaBox - [XinaBox CS11](https://xinabox.cc/products/cs11), [XinaBox CC03](https://xinabox.cc/products/cc03).
-- Teknikio - [Bluebird](https://www.teknikio.com/pages/bluebird).
-- Sarfata - [ShIRtty Board](https://github.com/sarfata/shirtty-addon).
-- [Scott Shawcroft](https://twitter.com/tannewt) - [Python powered GameBoy-compatible cartridge](https://github.com/chickadee-tech/pygb).
-- [ndGarage](https://github.com/ndGarage) - [Ndbit6](https://github.com/ndGarage/ndgarage).
-- Null Byte Labs LLC - [CircuitBrains Deluxe](https://kevinneubauer.com/portfolio/circuitbrains-deluxe/), [CircuitBrains Basic](https://kevinneubauer.com/portfolio/circuitbrains-basic/).
-- 8086 Consultancy - [Commander](https://www.tindie.com/products/8086net/commander/).
-- Alorium Technology, LLC - [AloriumTech Evo M51](https://aloriumtech.com/evom51-buy/).
-- ARAMCON Badge Team - [ARAMCON Badge 2019](https://github.com/aramcon-badge/).
-- BDMICRO, LLC - [Vina-D51](https://bdmicro.com/collections/frontpage/products/vina-d51), [Vina-D21](https://bdmicro.com/products/vina-d21).
-- BH Dynamics - [DynOSSAT-EDU OBC](https://www.tindie.com/products/bhdynamics/dynossat-edu/), [DynOSSAT-EDU EPS](https://www.tindie.com/products/bhdynamics/dynossat-edu/).
-- bleeptrack - [PicoPlanet](https://www.tindie.com/products/bleeptrack/picoplanet/).
-- [Espressif](https://www.espressif.com) - Saola 1 w/WROOM, Saola 1 w/WROVER, ESP32-S2 Kaluga Dev Kit featuring WROVER.
-- [Espruino](https://www.espruino.com) - [Espruino Pico](https://www.adafruit.com/product/2621), [Espruino WiFi](https://www.adafruit.com/product/3514).
-- Hangzhou LeBan - HiiBot BlueFi, HiiBot IoTs2.
-- Ikigaisense - [Ikigaisense Vita](https://hackaday.io/project/173761-vita-hardware).
-- Jeremy Gillick - [Thunderpack](https://github.com/jgillick/ThunderPack).
-- JPConstantineau - [BlueMicro840]( https://www.tindie.com/products/21640/), [PyKey60](https://www.tindie.com/products/24940/)
-- Microchip - [SAM E54 Xplained Pro](https://www.microchipdirect.com/product/search/all/ATSAME54-XPRO).
-- microDev - [microS2](https://www.tindie.com/products/microdev/microdev-micros2/).
-- Muselab - [NanoESP32 S2](https://github.com/wuxx/nanoESP32-S2).
-- [Nice Keyboards](https://nicekeyboards.com) - [Nice!Nano](https://docs.nicekeyboards.com/#/nice!nano/).
-- [Oak Development Technologies](https://www.oakdev.tech) - [CP Sapling](https://www.oakdev.tech/store/p7/CP-Sapling-m0-development-board.html#/).
-- [OpenMV](https://openmv.io) - [OpenMV H7](https://openmv.io/products/openmv-cam-h7).
-- Raytac Corporation - [MDBT50Q-DB-40](https://www.raytac.com/product/ins.php?index_id=81).
-- Sean 'xobs' Cross - [Fomu](https://www.adafruit.com/product/4332).
-- Simmel Project - [Simmel Board](https://github.com/simmel-project/frontpage).
-- [Switch Science, Inc.](https://www.switch-science.com) - [BLE-SS Dev Board Multi Sensor](https://ssci.to/6250)
-- TG-Techie - [TG-Watch02A](https://github.com/TG-Techie/TG-Watch02-PCB).
-- [TinkeringTech](https://tinkeringtech.com) - [ScoutMakes Azul](https://tinkeringtech.com/blog/scoutmakes-azul/).
-- [Unexpected Maker](https://unexpectedmaker.com) - [Unexpected Maker FeatherS2](https://unexpectedmaker.com/shop/feathers2-esp32-s2).
-- [S2 Nugget](https://github.com/HakCat-Tech/S2-Nugget) - a Wi-Fi Nugget breakout board combined with an ESP32S2 based S2 Mini development board.
+Looking to add a new board to CircuitPython? It's highly encouraged! Adafruit has four tutorials to help you do so:
 
-Adding new boards to the CircuitPython list on [circuitpython.org](https://circuitpython.org): Please do a pull request on GitHub at [https://github.com/adafruit/circuitpython](https://github.com/adafruit/circuitpython). CircuitPython developers may help get the correct pin data and other information to map a new board.
+- [How to Add a New Board to CircuitPython](https://learn.adafruit.com/how-to-add-a-new-board-to-circuitpython/overview)
+- [How to add a New Board to the circuitpython.org website](https://learn.adafruit.com/how-to-add-a-new-board-to-the-circuitpython-org-website)
+- [Adding a Single Board Computer to PlatformDetect for Blinka](https://learn.adafruit.com/adding-a-single-board-computer-to-platformdetect-for-blinka)
+- [Adding a Single Board Computer to Blinka](https://learn.adafruit.com/adding-a-single-board-computer-to-blinka)
 
 [CircuitPython sensors and accessories](https://www.adafruit.com/category/956) - Complete listing of sensors, LCDs, displays, robotics, breakout boards, and more.
 
