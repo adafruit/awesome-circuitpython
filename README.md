@@ -168,7 +168,7 @@ Looking to add a new board to CircuitPython? It's highly encouraged! Adafruit ha
 ## Podcasts
 
 - [Weekly community chat on Adafruit Discord server CircuitPython channel - Audio / Podcast edition](https://podcasts.apple.com/us/podcast/circuitpython-weekly-meeting/id1451685016) - Audio from the Discord chat space for CircuitPython, meetings are usually Mondays at 2pm ET, this is the audio version on [iTunes](https://podcasts.apple.com/us/podcast/circuitpython-weekly-meeting/id1451685016), Pocket Casts, [Spotify](https://adafru.it/spotify), and [XML feed](https://adafruit-podcasts.s3.amazonaws.com/circuitpython_weekly_meeting/audio-podcast.xml).
-- [The CircuitPython Show](https://circuitpythonshow.com/) - an independent podcast by Paul Cutler.
+- [The CircuitPython Show](https://circuitpythonshow.com/) - an interview podcast with people in the CircuitPython community hosted  by Paul Cutler.
 - [The Best Python Podcasts](https://blog.adafruit.com/2019/03/22/the-best-python-podcasts-python-talkpython-mkennedy-pythonbites-brianokken/) - The Best Python Podcasts.
 
 ## Events
