@@ -77,6 +77,7 @@
 - [Adafruit Blinka - SBC Compatibility](https://learn.adafruit.com/circuitpython-on-raspberrypi-linux?view=all) - CircuitPython Libraries on Raspberry Pi and other compatible single-board computers (SBC) running Linux.
 - [Awesome List for the RP2040 Macropad](https://github.com/prcutler/awesome-macropad) - A list of awesome Macropad applications, macros, 3D printed plans, and more.
 - [Tod Kurt's CircuitPython Tips and Tricks](https://github.com/todbot/circuitpython-tricks) - A collection of tips and tricks for CircuitPython. Also available as an Adafruit [Learn Guide](https://learn.adafruit.com/todbot-circuitpython-tricks?view=all).
+
 ## Frameworks
 
 - [Glider: An app for editing Python on mobile devices wirelessly](https://github.com/adafruit/glider) - Also a [video](https://youtu.be/NYpcjDBA6xw), in development.
@@ -88,7 +89,8 @@
 - [Microsoft Device Simulator Express](https://marketplace.visualstudio.com/items?itemName=ms-python.devicesimulatorexpress) - Virtual Circuit Playground Express and CircuitPython programming in Visual Studio Code.
 - [Slappy.io, a browser-based IDE and REPL for CircuitPython](https://slappy.io/) - An in-browser editor designed especially for Chromebooks. Works on almost any computer that can run a Chromium-based browser.
 - [CircuitPython extension for VS Code](https://marketplace.visualstudio.com/items?itemName=joedevivo.vscode-circuitpython) - A full featured extension for VS Code that downloads the latest CircuitPython bundle automatically, includes access to the serial console, and auto complete.
-- [PewPew workshops](https://pewpew.rtfd.io) - Materials, examples, libraries and hardware for running Python game programming and electronics workshops with minimum of problems.
+- [PewPew workshops](https://pewpew.rtfd.io) - Materials, examples, libraries and hardware for running Python game programming and electronics workshops with a minimum of problems.
+- [CircuitPython Online IDE](https://urfdvw.github.io/CircuitPython-online-IDE/) - A browser based IDE for CircuitPython by River Wang
 
 ## Hardware
 
@@ -175,12 +177,14 @@ Looking to add a new board to CircuitPython? It's highly encouraged! Adafruit ha
 ## Events
 
 - [Weekly community chat on Adafruit Discord server CircuitPython channel](https://discord.gg/EAeBY6x) - The Discord chat space for CircuitPython, meetings are usually Mondays at 2pm ET.
-- [Weekly Adafruit Show-and-tell, Wednesday 7:30pm ET on Google+ Hangouts](https://plus.google.com/+adafruit) - The weekly Adafruit Show-and-tell program often has CircuitPython-related projects on display.
+- [Weekly Adafruit Show-and-tell, Wednesday 7:30pm ET on YouTube LIVE](https://www.youtube.com/adafruit/live) - The weekly Adafruit Show-and-tell program often has CircuitPython-related projects on display.
 - [ASK AN ENGINEER, Wednesday 8pm ET on YouTube LIVE](https://www.youtube.com/adafruit/live) - The longest running YouTube live show about electronics, information on CircuitPython each week during "Python on hardware segment".
-- [PyCon 2022](https://us.pycon.org/2022/) - Salt Lake City, Utah USA April 27 - May 5, 2022.
+- [PyCon 2023](https://us.pycon.org/2023/) - Salt Lake City, Utah USA April 19 - April 27, 2023.
+- [John Park's CircuitPython Parsec, Thursdays 4pm ET on YouTube LIVE](https://www.youtube.com/adafruit/live) - John Park shares CircuitPython tips and tricks.
 
 ## Swag
 
+- [CircuitPython 8 release poster](https://www.adafruit.com/product/5513) - CircuitPython release version 8 poster.
 - [CircuitPython 7 release poster](https://www.adafruit.com/product/5067) - CircuitPython release version 7 poster.
 - [CircuitPython 6 release poster](https://www.adafruit.com/product/4713) - CircuitPython release version 6 poster.
 - [CircuitPython 5 release poster](https://www.adafruit.com/product/4365) - CircuitPython release version 5 poster.
@@ -209,7 +213,7 @@ Looking to add a new board to CircuitPython? It's highly encouraged! Adafruit ha
 - [VIDEO: PyCascades – Light Up Your Life – With Python and LEDs](https://blog.adafruit.com/2019/02/25/video-pycascades-light-up-your-life-with-python-and-leds-nnja-pycascades2019-pycascades-pycascades/) - Nina Zakharenko.
 - [Writing fast and efficient MicroPython](https://youtu.be/hHec4qL00x0) - Writing fast and efficient MicroPython by Damien George at PyCon Australia.
 - [More Fun with Hardware and CircuitPython -- IoT, Wearables, and More!](https://www.nnja.io/post/2021/pycon2021-more-fun-circuitpython/) - Nina Zakharenko at PyCon 2021.
-
+- [EuroPython 2022 talk video: Radomir Dopieralski - Game Development with CircuitPython](https://www.youtube.com/watch?v=2i6qhfq5u78) - Radomir Dopieralski
 
 ## Contributing
 
@@ -238,4 +242,4 @@ Questions? We're happy to [help you to contribute on Discord](https://discord.co
 
 To the extent possible under law, the authors have waived all copyright and related or neighbouring rights to this work.
 
-Last updated: March 3, 2022
+Last updated: November 2, 2022
