@@ -246,4 +246,4 @@ Questions? We're happy to [help you to contribute on Discord](https://discord.co
 
 To the extent possible under law, the authors have waived all copyright and related or neighbouring rights to this work.
 
-Last updated: November 2, 2022
+Last updated: March 6, 2024
