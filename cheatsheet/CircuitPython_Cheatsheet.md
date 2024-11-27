@@ -52,7 +52,7 @@ The example will generate a stairstepped signal, the number of steps depends on 
 
 You can use a PWM in one of two ways.
 
-1) With fixed frequency PWM with variable duty cycle. This is useful for controllign the brightness of a LED or the speed of a motor.
+1) With fixed frequency PWM with variable duty cycle. This is useful for controlling the brightness of a LED or the speed of a motor.
 
 ```import time
     import board
@@ -70,7 +70,7 @@ You can use a PWM in one of two ways.
             time.sleep(0.01)
 ```
 
-2) With variable frequency as well. This is handy for producing tones. The duty cycle effects the sound (as opposed to the note).
+2) With variable frequency as well. This is handy for producing tones. The duty cycle affects the sound (as opposed to the note).
 
 ```import time
     import board
@@ -263,7 +263,7 @@ You can use a PWM in one of two ways.
                 pass
             m.release(Mouse.RIGHT_BUTTON)
             
- ## Display ##
+## Display ##
 
     import board, displayio
 
