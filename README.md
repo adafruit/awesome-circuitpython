@@ -132,6 +132,7 @@ Looking to add a new board to CircuitPython? It's highly encouraged! Adafruit ha
 
 ## News
 
+- [The Past, Present, and Future of CircuitPython](https://hackaday.com/2023/08/01/the-past-present-and-future-of-circuitpython/) - Hackaday interviews Limor "Ladyada" Fried about CircuitPython, August, 2023.
 - [CircuitPython on the Adafruit.com/blog](https://blog.adafruit.com/category/circuitpython/) - Adafruit Blog posts discussing CircuitPython.
 - [CircuitPython Show Episode 1: Kattni Rembor](https://www.circuitpythonshow.com/@circuitpythonshow/episodes/kattni-rembor) - Host Paul Cutler interviews CircuitPython team member Kattni Rembor, March 1, 2022.
 - [Scott Shawcroft Works On Bare-Metal Raspberry Pi CircuitPython as Adafruit Plans an E Ink Computer](https://www.hackster.io/news/scott-shawcroft-works-on-bare-metal-raspberry-pi-circuitpython-as-adafruit-plans-an-e-ink-computer-a6a037558ba5) - Hackster.io, December 2021.
