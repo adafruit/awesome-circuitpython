@@ -20,6 +20,7 @@
 - [CircuitPython.org](#circuitpythonorg)
 - [Guides](#guides)
 - [Community](#community)
+- [Videos](#Video)
 - [Books](#books)
 - [Code](#code)
 - [Frameworks](#frameworks)
@@ -262,4 +263,4 @@ Questions? We're happy to [help you to contribute on Discord](https://discord.co
 
 To the extent possible under law, the authors have waived all copyright and related or neighbouring rights to this work.
 
-Last updated: March 6, 2024
+Last updated: April 11, 2025
