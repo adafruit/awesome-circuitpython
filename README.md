@@ -108,7 +108,6 @@
 - [A helper for CircuitPython development with Atom](https://github.com/s-light/CircuitPython_Atom_helper) - A helper for the [Atom editor](https://atom.io/).
 - [Thonny, a Python IDE for beginners](https://thonny.org/) - An editor with support for CircuitPython and MicroPython.
 - [Microsoft Device Simulator Express](https://github.com/microsoft/vscode-python-devicesimulator) - Virtual Circuit Playground Express and CircuitPython programming in Visual Studio Code (no longer maintained).
-- [Slappy.io, a browser-based IDE and REPL for CircuitPython](https://slappy.io/) - An in-browser editor designed especially for Chromebooks. Works on almost any computer that can run a Chromium-based browser.
 - [PewPew workshops](https://pewpew.rtfd.io) - Materials, examples, libraries and hardware for running Python game programming and electronics workshops with a minimum of problems.
 - The CircuitPython Online IDE [Version 1](https://urfdvw.github.io/CircuitPython-online-IDE/) and [Version 2](https://urfdvw.github.io/CircuitPython-online-IDE2/) - A browser based IDE for CircuitPython by River Wang
 
