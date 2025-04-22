@@ -73,7 +73,7 @@
 
 ## Books
 
-- [Getting Started with Circuit Playground Express by Anne Barela](https://www.amazon.com/Getting-Started-Adafruit-Circuit-Playground-dp-1680454889/dp/1680454889/ref=mt_paperback) (or purchase as part of your order from [the Adafruit store](https://www.adafruit.com/product/3944)) - Introduction and discussion of the Circuit Playground Express including programming via CircuitPython, MakeCode and Arduino.
+- [Getting Started with Circuit Playground Express by Anne Barela](https://www.amazon.com/Getting-Started-Adafruit-Circuit-Playground-dp-1680454889/dp/1680454889/ref=mt_paperback) - Introduction and discussion of the Circuit Playground Express including programming via CircuitPython, MakeCode and Arduino.
 - [CircuitPython Development Workshop by Agus Kurniawan](https://www.amazon.com/CircuitPython-Development-Workshop-Agus-Kurniawan-ebook/dp/B07H2BDQLD/) - This book helps you to get started with CircuitPython development. This book uses the Adafruit ItsyBitsy M0 Express board for development.
 - [CircuitPython for beginners with Adafruit Circuit Playground Express & Mu](https://steam-tokyo.com/product/cpbook1/) - In Japanese by author [Aoyama_PROD](https://twitter.com/AoyamaProd), September, 2019 from [TechBookFest](https://techbookfest.org/).
 - [Python for Microcontrollers: Getting Started with MicroPython - by Donald Norris](https://www.adafruit.com/product/3325) - Program your own MicroPython projects with ease—no prior programming experience necessary.
