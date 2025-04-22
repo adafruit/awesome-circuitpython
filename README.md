@@ -208,6 +208,8 @@ Looking to add a new board to CircuitPython? It's highly encouraged! Adafruit ha
 
 ## Swag
 
+- [CircuitPlayground lanyard](https://www.adafruit.com/product/3987) - CircuitPlayground lanyard featuring Blinka.
+- [Blinka the CircuitPython Temporary Tattoo](https://www.adafruit.com/product/2600) - A temporary tattoo featuring the Blinka character.
 - [CircuitPython 9 release poster](https://www.adafruit.com/product/5873) - CircuitPython release version 9 poster.
 - [CircuitPython 8 release poster](https://www.adafruit.com/product/5513) - CircuitPython release version 8 poster.
 - [CircuitPython 7 release poster](https://www.adafruit.com/product/5067) - CircuitPython release version 7 poster.
@@ -217,8 +219,6 @@ Looking to add a new board to CircuitPython? It's highly encouraged! Adafruit ha
 - [CircuitPython 3 release poster](https://www.adafruit.com/product/3793) - CircuitPython release version 3 poster.
 - [Blinka the CircuitPython Limited Edition Enamel Pin](https://www.adafruit.com/product/3680) - An enamel pin with the CircuitPython mascot.
 - [Blinka the CircuitPython Sticker](https://www.adafruit.com/product/3725) - A sticker featuring Blinka, the CircuitPython mascot.
-- [Blinka the CircuitPython Temporary Tattoo](https://www.adafruit.com/product/2600) - A temporary tattoo featuring the Blinka character.
-- [CircuitPlayground lanyard](https://www.adafruit.com/product/3987) - CircuitPlayground lanyard featuring Blinka.
 
 ## Talks
 
