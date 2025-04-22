@@ -37,6 +37,8 @@
 
 ## CircuitPython.org
 
+[![CircuitPython.org](assets/circuitpython-org.png](https://circuitpython.org/)
+
 [CircuitPython.org](https://circuitpython.org/) is the first stop on the information snake highway. Here you can see all the [supported boards and download](https://circuitpython.org/downloads) the specific firmware for each one, including beta, latest, and previous versions. Downloads can be sorted by: maker, features, name, and more. At this time there are over 500 boards supported in the CircuitPython family!
 
 ## Guides
