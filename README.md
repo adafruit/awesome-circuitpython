@@ -209,7 +209,7 @@ Looking to add a new board to CircuitPython? It's highly encouraged! Adafruit ha
 ## Swag
 
 - [CircuitPlayground lanyard](https://www.adafruit.com/product/3987) - CircuitPlayground lanyard featuring Blinka.
-- - [Blinka the CircuitPython Sticker](https://www.adafruit.com/product/3725) - A sticker featuring Blinka, the CircuitPython mascot.
+- [Blinka the CircuitPython Sticker](https://www.adafruit.com/product/3725) - A sticker featuring Blinka, the CircuitPython mascot.
 - [Blinka the CircuitPython Temporary Tattoo](https://www.adafruit.com/product/2600) - A temporary tattoo featuring the Blinka character.
 - [CircuitPython 9 release poster](https://www.adafruit.com/product/5873) - CircuitPython release version 9 poster (out of stock).
 - [CircuitPython 8 release poster](https://www.adafruit.com/product/5513) - CircuitPython release version 8 poster (out of stock).
