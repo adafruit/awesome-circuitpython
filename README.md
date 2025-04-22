@@ -1,7 +1,7 @@
 # Awesome CircuitPython
 
 <h1 align="center">
-[![Awesome CircuitPython](assets/awesome_circuitpython.png)]([https://circuitpython.org/](https://github.com/adafruit/awesome-circuitpython))
+[![Awesome CircuitPython](assets/awesome_circuitpython.png)]([https://circuitpython.org/](https://github.com/adafruit/awesome-circuitpython)
 <br>
 </h1>
 
