@@ -1,12 +1,12 @@
 # Awesome CircuitPython
 
-
-[![Awesome CircuitPython](assets/awesome_circuitpython.png){style="display: block; margin: 0 auto"}]([https://circuitpython.org/](https://github.com/adafruit/awesome-circuitpython))
-
-
 <h1 align="center">
-  <img style="width: min(400px, 100%)" src="https://raw.githubusercontent.com/adafruit/awesome-circuitpython/master/awesome_circuitpython.png" alt="Awesome CircuitPython"><br>
+[![Awesome CircuitPython](assets/awesome_circuitpython.png)]([https://circuitpython.org/](https://github.com/adafruit/awesome-circuitpython))
+<br>
 </h1>
+
+
+  <img style="width: min(400px, 100%)" src="https://raw.githubusercontent.com/adafruit/awesome-circuitpython/master/awesome_circuitpython.png" alt="Awesome CircuitPython">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
