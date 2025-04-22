@@ -1,12 +1,12 @@
 # Awesome CircuitPython
 
 <p align="center">
-[![Awesome CircuitPython](./assets/awesome_circuitpython.png)](https://github.com/adafruit/awesome-circuitpython)
+  <img style="width: min(400px, 100%)" src="https://raw.githubusercontent.com/adafruit/awesome-circuitpython/master/assets/awesome_circuitpython.png" alt="Awesome CircuitPython">
 <br>
 </p>
 
 
-  <img style="width: min(400px, 100%)" src="https://raw.githubusercontent.com/adafruit/awesome-circuitpython/master/awesome_circuitpython.png" alt="Awesome CircuitPython">
+
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
