@@ -49,8 +49,7 @@
 
 - [Welcome to CircuitPython!](https://learn.adafruit.com/welcome-to-circuitpython/overview) - An overview of CircuitPython and the community.
 - [CircuitPython Essentials](https://learn.adafruit.com/circuitpython-essentials) - Learning the essential functions of CircuitPython.
-- [learn.adafruit.com CircuitPython](https://learn.adafruit.com/category/circuitpython) - Adafruit Learning Guides on CircuitPython.
-- [learn.adafruit.com CircuitPython & MicroPython](https://learn.adafruit.com/category/micropython-slash-circuitpython) - Guides on both CircuitPython and MicroPython.
+- [learn.adafruit.com CircuitPython](https://learn.adafruit.com/category/circuitpython) - All Adafruit Learning Guides on CircuitPython.
 
 ## Community
 
