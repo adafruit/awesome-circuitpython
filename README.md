@@ -1,9 +1,9 @@
 # Awesome CircuitPython
 
-<h1 align="center">
+<p align="center">
 [![Awesome CircuitPython](./assets/awesome_circuitpython.png)](https://github.com/adafruit/awesome-circuitpython)
 <br>
-</h1>
+</p>
 
 
   <img style="width: min(400px, 100%)" src="https://raw.githubusercontent.com/adafruit/awesome-circuitpython/master/awesome_circuitpython.png" alt="Awesome CircuitPython">
