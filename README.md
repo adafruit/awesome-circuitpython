@@ -5,9 +5,6 @@
 <br>
 </p>
 
-
-
-
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.
@@ -22,7 +19,7 @@
 ## Contents
 
 - [CircuitPython.org](#circuitpythonorg)
-- [Adafruit Learning SYstem Guides](#adafruit_learning_system_guides)
+- [Adafruit Learning System Guides](#adafruit-learning-system-guides)
 - [Community](#community)
 - [Videos](#Video)
 - [Books](#books)
