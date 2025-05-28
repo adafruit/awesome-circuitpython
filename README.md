@@ -172,6 +172,7 @@ Looking to add a new board to CircuitPython? It's highly encouraged! Adafruit ha
 ## Art
 
 - [CircuitPython Art Pack! Logos, banners, photos and Blinka!](https://www.dropbox.com/sh/l6tp9ym5nf8h5v9/AABGu_q2pcdUQdx1avr8Xvvda?dl=0) - Adafruit art relating to CircuitPython.
+- [Python Cheat Sheet](https://scouv.lisn.upsaclay.fr/python-memento/memento-python3-en-latest.pdf) - An up to date, consise reference for Python (regular Python or CPython) syntax
 
 ## Social
 
