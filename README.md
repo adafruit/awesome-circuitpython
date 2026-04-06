@@ -16,6 +16,7 @@
 
 [CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython/what-is-circuitpython) is Adafruit's branch of MicroPython designed to simplify experimentation and education on low-cost microcontrollers. It makes it easier than ever to start prototyping by requiring no upfront desktop software downloads. With CircuitPython you can write clean and simple Python code to control hardware instead of having to use complex low-level languages like C or C++ (what Arduino uses for programming). It's great for beginners!
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for CircuitPython IoT workflow orchestration, automated hardware development management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [CircuitPython.org](#circuitpythonorg)
